@@ -1,0 +1,45 @@
+{% from 'header/macro.njk' import header %}
+{% from 'footer/macro.njk' import footer %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="/styles/application.css">
+  <title>{{ pageTitle }}</title>
+</head>
+
+<body>
+  <script>
+    document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+  </script>
+
+  <a class="nhsuk-skip-link" href="#maincontent">Skip to main content</a>
+
+  {{ header({
+    service: {
+      name: "Record a vaccination"
+    },
+    showNav: "false",
+    showSearch: "false"
+  }) }}
+
+  {% block main %}
+    <div class="nhsuk-width-container ">
+      <main class="nhsuk-main-wrapper " id="maincontent" role="main">
+
+        {% block content %}
+          {{ content | safe }}
+        {% endblock %}
+
+      </main>
+    </div>
+  {% endblock %}
+
+  {{ footer({ })}}
+
+</body>
+</html>

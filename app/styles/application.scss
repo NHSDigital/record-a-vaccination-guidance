@@ -1,0 +1,16 @@
+// GOV.UK Frontend options
+$govuk-font-family: "Frutiger W01", arial, sans-serif;
+$govuk-global-styles: false;
+$govuk-new-link-styles: true;
+$govuk-assets-path: "/govuk/assets/";
+$govuk-border-colour: #d8dde0;
+
+// Import NHS Frontend
+@import "node_modules/nhsuk-frontend/packages/nhsuk";
+
+// Import GOV.UK Frontend
+@import "govuk-frontend/dist/govuk/all";
+
+// Import GOV.UK Prototype Components
+@import "@x-govuk/govuk-prototype-components/x-govuk/all";
+

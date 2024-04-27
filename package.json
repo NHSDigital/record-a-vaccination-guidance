@@ -1,0 +1,15 @@
+{
+  "name": "record-a-vaccination-guidance",
+  "version": "0.0.1",
+  "description": "Guidance for the Record a vaccination pilot.",
+  "scripts": {
+    "build": "eleventy --quiet",
+    "start": "eleventy --serve --quiet"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@x-govuk/govuk-eleventy-plugin": "^6.2.1",
+    "nhsuk-frontend": "^8.1.1"
+  },
+  "private": true
+}
