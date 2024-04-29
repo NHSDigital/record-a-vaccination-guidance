@@ -13,5 +13,5 @@ The service only records flu and COVID-19 vaccinations. It does not make clinica
 
 {{ actionLink({
   "text": "How to use the pilot service",
-  "href": "/guide"
+  "href": ("/guide/" | url)
 }) }}
