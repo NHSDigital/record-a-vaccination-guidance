@@ -40,7 +40,6 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: 'app',
       layouts: 'layouts'
-    },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/record-a-vaccination-guidance/' : '/'
+    }
   }
 };
