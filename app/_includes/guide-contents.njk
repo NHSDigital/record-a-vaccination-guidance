@@ -1,0 +1,31 @@
+{% from 'contents-list/macro.njk' import contentsList %}
+
+{{ contentsList({
+  items: [
+    {
+      href: "/guide",
+      text: "Overview",
+      current: (page.url == "/guide/")
+    },
+    {
+      href: "/setting-your-location/",
+      text: "Setting your location",
+      current: (page.url == "/setting-your-location/")
+    },
+    {
+      href: "/finding-a-patient/",
+      text: "Finding a patient",
+      current: (page.url == "/finding-a-patient/")
+    },
+    {
+      href: "/recording-a-vaccination/",
+      text: "Recording a vaccination",
+      current: (page.url == "/recording-a-vaccination/")
+    },
+    {
+      href: "/adding-vaccines-and-batches/",
+      text: "Adding vaccines and batches",
+      current: (page.url == "/adding-vaccines-and-batches/")
+    }
+  ]
+}) }}

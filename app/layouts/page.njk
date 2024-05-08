@@ -1,5 +1,6 @@
 {% extends "_base.njk" %}
 {% from 'breadcrumb/macro.njk' import breadcrumb %}
+{% from 'pagination/macro.njk' import pagination %}
 
 {% block main %}
   <div class="govuk-phase-banner nhsuk-width-container">
@@ -18,7 +19,11 @@
       {
         href: ("/" | url),
         text: "Home"
-      }
+      },
+      {
+        href: (parent.url | url),
+        text: parent.title
+      } if parent
     ]
   }) }}
   <div class="nhsuk-width-container ">
@@ -27,6 +32,14 @@
         <div class="nhsuk-grid-column-two-thirds">
           <h1>{{ title }} </h1>
           {{ content | safe }}
+
+          {{ pagination({
+            "previousUrl": (previous.url | url) if previous,
+            "previousPage": previous.title if previous,
+            "nextUrl": (next.url | url) if next,
+            "nextPage": next.title if next
+          }) }}
+
         </div>
       </div>
     </main>

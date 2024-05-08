@@ -9,7 +9,8 @@ module.exports = function(eleventyConfig) {
 		new Nunjucks.FileSystemLoader([
       './node_modules/nhsuk-frontend/packages/components',
       './node_modules/govuk-frontend/dist',
-      'app/layouts'
+      'app/layouts',
+      'app/_includes'
     ])
 	);
   eleventyConfig.setLibrary("njk", nunjucksEnvironment);
