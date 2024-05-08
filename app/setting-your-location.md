@@ -4,6 +4,9 @@ title: Setting your location
 parent:
   title: How to use the pilot service
   url: /guide
+previous:
+  title: Overview
+  url: /guide
 next:
   title: Finding a patient
   url: /finding-a-patient
