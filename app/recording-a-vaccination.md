@@ -72,8 +72,6 @@ If no batches are left in stock, you can switch the vaccine product at this poin
 
 Note: batches are assigned to a vaccine product and preadded to RAVS with an expiry date and dose volume. This means that when you select a batch, this information will prepopulate, saving you time.
 
-Learn to [add vaccines and batches](#TODO).
-
 ## Checking and confirming
 
 Before saving the patient’s vaccination record into RAVS, you can edit the record from the final check and confirm screen. The screen will return you to the relevant step to make the necessary changes.
