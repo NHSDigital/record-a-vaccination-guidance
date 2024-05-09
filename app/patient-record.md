@@ -25,8 +25,12 @@ If everything looks OK, continue to choose vaccines.
 
 You can only edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.
 
-**Important**: Be cautious when deleting a vaccination record. Accidentally doing so, could impact the patient’s future care.
+**Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient’s future care.
 
 ### Duplicate records
 
 If a duplicate or similar record exists in PDS and RAVS, they will appear on the patient details screen. You can update the local record to reflect the PDS record.
+
+### Adding vaccination records after they have been administered
+
+**Important**: If you add vaccination records into RAVS after they have been administered, please check who administered the vaccine. For example, if another healthcare provider or setting administered it, RAVS will be recorded and displayed as the data source.

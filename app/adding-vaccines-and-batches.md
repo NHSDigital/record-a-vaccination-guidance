@@ -11,7 +11,9 @@ previous:
 
 {% include 'guide-contents.njk' %}
 
-Add vaccines and batches from the vaccine home screen under ‘Settings’.
+Vaccines and batches must be added to the system so that users can choose from them when recording vaccinations.
+
+Go to the vaccine home screen under ‘Settings’ to start.
 
 ## Adding vaccines
 
@@ -25,4 +27,4 @@ You must add vaccines before you can add batches.
 
 Note: For COVID-19 batches, enter the batch number and thawed expiry date provided by your vaccine supplier. You can find this information on the vaccine vial box.
 
-Once you’ve added a batch, it’s immediately activated for users to select.
+Once you’ve added a batch, it’s immediately activated for users to select when they are recording a vaccination.
