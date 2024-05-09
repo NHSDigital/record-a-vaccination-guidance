@@ -20,13 +20,13 @@ There are several steps to record a vaccination.
 
 Select the vaccine and vaccine product you wish to give the patient.
 
-If, for any reason, the patient is not ready for a vaccination, RAVS will notify you. The patient’s details and vaccination history inform the notification message.
+RAVS will warn you if the patient’s details or vaccination history contain important information to consider.
 
 ## Assessing the patient
 
 Check if the patient is suitable for the vaccination before continuing to capture consent.
 
-To make recording vaccinations easier, there are a few things we’ve introduced or changed:
+In comparison to other point-of-care systems, we have introduced or changed a few things to make recording vaccination easier:
 
 ### Removed screening questions
 
@@ -44,9 +44,9 @@ If you do not vaccinate the patient, you can save the journey and exit at this p
 
 This could be for the following reasons:
 
-* patient declines
-* it’s not appropriate to vaccinate the patient
-* there’s a vaccine contraindication
+* the patient declines
+* it’s not appropriate to vaccinate on the day, for example, the patient is unwell
+* there’s an increased risk for a serious adverse reaction (contraindication)
 
 ## Recording consent
 
@@ -58,7 +58,7 @@ If consent is refused, you can save and exit the journey at this stage.
 
 This could be for the following reasons:
 
-* patient has already had a vaccination
+* patient has been vaccinated
 * patient has made a personal choice
 * vaccine contains porcine
 
