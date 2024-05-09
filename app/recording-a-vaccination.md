@@ -40,7 +40,7 @@ This information will remain the same until you make new selections during your 
 
 ### Exiting the journey
 
-If you do not vaccinate the patient, you can save the journey and exit at this point.
+If you do not vaccinate the patient, you should save and exit the patient’s record.
 
 This could be for the following reasons:
 
@@ -54,7 +54,7 @@ Before vaccinating the patient, you’ll need to capture their consent or the de
 
 ### Exiting the journey
 
-If consent is refused, you can save and exit the journey at this stage.
+If consent is refused, you should save and exit the patient’s record.
 
 This could be for the following reasons:
 
