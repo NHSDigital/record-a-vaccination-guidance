@@ -19,12 +19,10 @@
       {
         href: ("/" | url),
         text: "Home"
-      },
-      {
-        href: (parent.url | url),
-        text: parent.title
-      } if parent
-    ]
+      }
+    ],
+    href: (parent.url | url) if parent,
+    text: parent.title if parent
   }) }}
   <div class="nhsuk-width-container ">
     <main class="nhsuk-main-wrapper " id="maincontent" role="main">
