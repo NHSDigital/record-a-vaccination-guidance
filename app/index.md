@@ -26,7 +26,7 @@ Speak to our helpdesk team or email us if you need help with:
 * troubleshooting or support
 
 Telephone: 0121 611 0187<br>
-Email: [NIVS@england.nhs.uk](mailto:NIVS@england.nhs.uk)<br>
+Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk)<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
 24-hour service: 0300 123 1020 (for major incidents only)
