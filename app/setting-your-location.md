@@ -15,3 +15,5 @@ next:
 {% include 'guide-contents.njk' %}
 
 Every time you log in to RAVS, you must select your site and care model to record vaccinations. If you need to record from a different location and/or model, you’ll need to log out and restart.
+
+![Set your location and care model ](/images/location.png)

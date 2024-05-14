@@ -14,3 +14,9 @@ $govuk-border-colour: #d8dde0;
 // Import GOV.UK Prototype Components
 @import "@x-govuk/govuk-prototype-components/x-govuk/all";
 
+
+// Screenshots within main column
+.nhsuk-grid-column-two-thirds img {
+  border: 5px solid white;
+  max-width: 100%;
+}

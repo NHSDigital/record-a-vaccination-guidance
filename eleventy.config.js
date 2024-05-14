@@ -15,6 +15,9 @@ module.exports = function(eleventyConfig) {
 	);
   eleventyConfig.setLibrary("njk", nunjucksEnvironment);
 
+  // Images folder
+  eleventyConfig.addPassthroughCopy('./app/images')
+
   // Set up SASS
   eleventyConfig.addTemplateFormats("scss");
   eleventyConfig.addExtension("scss", {
