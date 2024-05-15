@@ -8,7 +8,7 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-We’ve designed RAVS with users to ensure it’s intuitive and easy to use. However, our video demos and step-by-step user guidance will get you started.
+We’ve designed the NHS Record a vaccination service (RAVS) with users to ensure it’s intuitive and easy to use. However, our video demos and step-by-step user guidance will get you started.
 
 ## Help us improve
 
