@@ -36,7 +36,7 @@ Local records are vaccinations saved in RAVS. Enter at least the first and last 
 
 ![Search your local records](/images/find-by-local-records.png)
 
-## Search tips
+## Search tip
 
 Patients’ names and postcodes are frequently misspelt or misentered.
 
