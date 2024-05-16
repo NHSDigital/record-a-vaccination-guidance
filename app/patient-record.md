@@ -34,4 +34,4 @@ If a duplicate or similar record exists in PDS and RAVS, they will appear on the
 
 ### Adding vaccination records after they have been administered
 
-**Important**: If you add vaccination records into RAVS after they have been administered, please check who administered the vaccine. For example, if another healthcare provider or setting administered it, RAVS will be recorded and displayed as the data source.
+**Important**: If you add vaccination records into RAVS after they have been administered, please check who gave the vaccine. For example, if another healthcare provider or setting administered it, RAVS will be recorded and displayed as the data source.
