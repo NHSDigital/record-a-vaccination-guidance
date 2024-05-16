@@ -9,6 +9,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@x-govuk/govuk-eleventy-plugin": "^6.2.1",
+    "@nhsbsa/cookie-consent-component": "^0.0.6",
     "nhsuk-frontend": "^8.1.1"
   },
   "private": true

@@ -9,13 +9,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="{{ "/styles/application.css" | url }}">
+  <script src="/cookie-banner.js" ></script>
   <title>{{ pageTitle }}</title>
+  {% include "adobe-analytics.njk" %}
 </head>
 
 <body>
   <script>
     document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
   </script>
+
+  {% include "cookie-banner.njk" %}
 
   <a class="nhsuk-skip-link" href="#maincontent">Skip to main content</a>
 
@@ -39,7 +43,14 @@
     </div>
   {% endblock %}
 
-  {{ footer({ })}}
+  {{ footer({
+    "links": [
+      {
+        "URL": "/cookie-preferences",
+        "label": "Cookies"
+      }
+    ]
+   })}}
 
 </body>
 </html>
