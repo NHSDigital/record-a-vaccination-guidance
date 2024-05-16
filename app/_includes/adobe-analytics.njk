@@ -9,7 +9,7 @@
 {% if globals.eleventy_run_mode == "serve" %}
   {# Local development mode #}
   <script src="https://assets.adobedtm.com/f8560165ec6a/5d4f99bbc369/launch-6e00e0b450d7.min.js" async type="text/plain" data-cookieconsent="statistics"></script>
-{% else if globals.eleventy_run_mode == "build" %}
+{% elif globals.eleventy_run_mode == "build" %}
   {# Production build mode #}
   <script src="https://assets.adobedtm.com/f8560165ec6a/5d4f99bbc369/launch-be15b0a7e1ff-development.min.js" async type="text/plain" data-cookieconsent="statistics"></script>
 {% endif %}
