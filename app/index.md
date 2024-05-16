@@ -19,14 +19,14 @@ The NHS Record a vaccination service (RAVS) only records data. You have control 
 
 ## Help
 
-Speak to our helpdesk team or email us if you need help with:
+Contact our helpdesk team or email us if you need help to:
 
-* requesting user access
-* requesting vaccination data reports
-* troubleshooting or support
+* request user access
+* request vaccination data reports
+* troubleshoot or get support
 
 Telephone: 0121 611 0187<br>
-Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk)<br>
+Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) including RAVS in the subject line<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
 24-hour service: 0300 123 1020 (for major incidents only)
