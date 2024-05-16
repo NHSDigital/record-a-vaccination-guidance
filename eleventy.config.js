@@ -18,6 +18,10 @@ module.exports = function(eleventyConfig) {
   // Images folder
   eleventyConfig.addPassthroughCopy('./app/images')
 
+  eleventyConfig.addPassthroughCopy({
+	"node_modules/@nhsbsa/cookie-consent-component/dist/cookie-banner.js": "cookie-banner.js"
+});
+
   // Set up SASS
   eleventyConfig.addTemplateFormats("scss");
   eleventyConfig.addExtension("scss", {
@@ -43,6 +47,7 @@ module.exports = function(eleventyConfig) {
     markdownTemplateEngine: 'njk',
     dir: {
       input: 'app',
+      data: '../data',
       layouts: 'layouts'
     }
   }
