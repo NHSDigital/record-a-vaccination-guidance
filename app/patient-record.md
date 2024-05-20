@@ -20,7 +20,7 @@ You can also review their previous COVID-19 and flu vaccinations in the history 
 
 If everything looks OK, continue to choose vaccines.
 
-![Add a new patient](/images/patient-details.png)
+![Screen showing a user the patient’s details](/images/patient-details.png)
 
 ### Editing or deleting records within the vaccination history
 
