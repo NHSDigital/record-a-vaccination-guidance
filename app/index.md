@@ -28,6 +28,3 @@ Contact our helpdesk team or email us if you need help to:
 Telephone: 0121 611 0187<br>
 Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) (include RAVS in the subject line)<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
-
-24-hour service: 0300 123 1020 (for major incidents only)
-
