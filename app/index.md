@@ -17,7 +17,7 @@ The NHS Record a vaccination service (RAVS) only records data. You have control 
 }) }}
 
 
-## Help
+## Get help
 
 Contact our helpdesk team or email us if you need help to:
 
