@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Pilot service guidance
+analytics_key: home
 ---
 
 During the pilot phase, we’ll test and improve our service with the help of your feedback.

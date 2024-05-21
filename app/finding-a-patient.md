@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Finding a patient
+analytics_key: finding-a-patient
 parent:
   title: How to use the pilot service
   url: /guide
