@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cookie preferences
+analytics_key: cookies
 ---
 
 Let us know if we can use cookies to measure usages of this guidance website.
