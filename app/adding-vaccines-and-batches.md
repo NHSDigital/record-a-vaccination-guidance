@@ -15,7 +15,7 @@ Vaccines and batches must be added to the system so that users can choose from t
 
 Go to the vaccine home screen under ‘Settings’ to start.
 
-![Settings homescreen lists vaccines](/images/settings.png)
+![Screen showing the user various system settings including a link to vaccines](/images/settings.png)
 
 ## Adding vaccines
 
@@ -23,7 +23,7 @@ First, select the site(s) and then add the vaccine product(s). Your selections w
 
 Once you’ve confirmed your choices, save the added vaccine product(s) or continue adding vaccine batches.
 
-![Add vaccines to your site](/images/add-vaccines.png)
+![Screen showing a user adding two vaccines to their chosen site](/images/add-vaccines.png)
 
 ## Adding batches
 
