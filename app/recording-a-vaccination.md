@@ -22,7 +22,7 @@ Select the vaccine and vaccine product you wish to give the patient.
 
 RAVS will warn you if the patient’s details or vaccination history contain important information to consider.
 
-![Editing or deleting the vaccination history](/images/choose-vaccine-warning.png)
+![Screen showing a user a warning stating the patient may not have reached the minimal interval between doses for the vaccine they have selected](/images/choose-vaccine-warning.png)
 
 ## Assessing the patient
 
@@ -50,7 +50,7 @@ This could be for the following reasons:
 * it’s not appropriate to vaccinate on the day, for example, the patient is unwell
 * there’s an increased risk for a serious adverse reaction (contraindication)
 
-![Saving and exiting a record when a vaccine was not given](/images/assess-the-patient.png)
+![Screen showing a user a button to save and exit a patient’s record when they have chosen not to give them a vaccine](/images/assess-the-patient.png)
 
 ## Recording consent
 
@@ -66,7 +66,7 @@ This could be for the following reasons:
 * patient has made a personal choice
 * vaccine contains porcine
 
-![Saving and exiting a record when a consent is refused](/images/consent-not-given.png)
+![Screen showing a user a button to save and exit a patient's record when the patient declines consent](/images/consent-not-given.png)
 
 ## Vaccinating the patient
 
@@ -78,7 +78,7 @@ If no batches are left in stock, you can switch the vaccine product at this poin
 
 Note: batches are assigned to a vaccine product and preadded to RAVS with an expiry date and dose volume. This means that when you select a batch, this information will prepopulate, saving you time.
 
-![Selecting an alternative vaccine and batch](/images/vaccinate.png)
+![Screen showing the user selecting an alternative vaccine and batch](/images/vaccinate.png)
 
 ## Checking and confirming
 
@@ -86,4 +86,4 @@ Before saving the patient’s vaccination record into RAVS, you can edit the rec
 
 Note: You cannot edit the patient’s demographic details.
 
-![Check and confirm your vaccination data](/images/check-and-confirm.png)
+![Screen showing the user a list of the vaccination details they have recorded and can and cannot edit before submitting](/images/check-and-confirm.png)

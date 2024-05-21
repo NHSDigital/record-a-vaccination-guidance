@@ -22,19 +22,19 @@ The easiest way to find a matching result is to enter the patient’s 10-digit N
 
 If the patient needs to find their number, refer them to [Find your NHS number](https://www.nhs.uk/nhs-services/online-services/find-nhs-number/).
 
-![Search by an NHS number](/images/search-by-nhs-number.png)
+![Screen showing a user searching for a patient by entering their NHS number](/images/search-by-nhs-number.png)
 
 ## By demographics
 
 Enter at least the patient’s first name, last name and date of birth. However, entering all 5 fields will increase your chances of finding an exact match immediately.
 
-![Search the patient demographic service](/images/find-by-demographic-search.png)
+![Screen showing a user searching for a patient by their demographics entering the required information](/images/find-by-demographic-search.png)
 
 ## By local records
 
 Local records are vaccinations saved in RAVS. Enter at least the first and last name to find a matching record.
 
-![Search your local records](/images/find-by-local-records.png)
+![Screen showing a user searching for a patient in local records entering the required information](/images/find-by-local-records.png)
 
 ## Search tips
 
@@ -55,4 +55,4 @@ If your demographic search returns no results, the opportunity to create a new p
 
 Once you have entered all required fields to create a new patient record, you can save it to RAVS and find it by searching your local records.
 
-![Create a new patient if you cannot find a match](/images/add-a-new-patient.png)
+![Screen showing a user a create a new patient button after they have searched and not found a patient by their demographics](/images/add-a-new-patient.png)
