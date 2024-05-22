@@ -17,6 +17,9 @@ The NHS Record a vaccination service (RAVS) only records data. You have control 
   "href": ("/guide/" | url)
 }) }}
 
+## Access training
+
+Learn how to use the service with our  [training site](https://www.ravs-training.england.nhs.uk/). Once you log in, you can explore a demo of the service, which does not use real patient data.
 
 ## Get help
 
