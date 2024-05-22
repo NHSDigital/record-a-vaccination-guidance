@@ -25,7 +25,10 @@ Learn how to use the service with our  [training site](https://www.ravs-training
 
 Contact our helpdesk team or email us if you need help to:
 
-* request user access
+* request user access by providing a list of users including their:
+  * name
+  * email address
+  * professional body and registration number (if they are a clinician)
 * request vaccination data reports
 * troubleshoot or get support
 
