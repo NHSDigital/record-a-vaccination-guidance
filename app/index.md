@@ -4,11 +4,11 @@ title: Pilot service guidance
 analytics_key: home
 ---
 
-During the pilot phase, we’ll test and improve our service with the help of your feedback.
+During the pilot phase, we’ll use your feedback to test and improve the NHS Record a vaccination service (RAVS).
 
-The service will be available at the same time as the [national immunisation and vaccination system (NIVS)](https://www.ardengemcsu.nhs.uk/services/business-intelligence/nivs/).
+The service will be available at the same time as other point of care (POC) systems. But you only need to record data in RAVS.
 
-The NHS Record a vaccination service (RAVS) only records data. You have control over clinical judgements or decisions
+The service only records data. You have control over clinical judgements or decisions
 
 {% from 'action-link/macro.njk' import actionLink %}
 
