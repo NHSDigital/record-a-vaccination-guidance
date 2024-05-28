@@ -15,4 +15,4 @@ We’ve designed the NHS Record a vaccination service (RAVS) with users to ensur
 
 ## Help us improve
 
-If you'd like to suggest changes to this guidance, please email us at [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk). We welcome your feedback.
+If you'd like to suggest changes to this guidance, please email us at [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) (include RAVS in the subject line)). We welcome your feedback.
