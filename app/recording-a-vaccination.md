@@ -37,9 +37,11 @@ Although you’ll continue to ask these questions to determine if a patient is s
 
 ### Selecting fields
 
-You only need to select dates, clinical staff and vaccine batch details at the start of your session.
+You only need to select dates, clinical staff and vaccine batch details at the start of your session. 
 
 This information will remain the same until you make new selections during your session or log out. For example, if your staff or stock changes midway through a clinic.
+
+Note: you can only select and record clinical staff registered with a professional body.  
 
 ### Exiting the journey
 
