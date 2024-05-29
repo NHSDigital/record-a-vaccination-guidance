@@ -35,3 +35,6 @@ Contact our helpdesk team or email us if you need help to:
 Telephone: 0121 611 0187 (select option 2 for the N.I.V.S service desk)<br>
 Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) (include RAVS in the subject line)<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
+
+## If the service is unavailable
+Please record vaccinations in your current point of care system if the Record a vaccination service is unavailable. 
