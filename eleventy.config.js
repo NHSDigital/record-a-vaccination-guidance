@@ -18,6 +18,9 @@ module.exports = function(eleventyConfig) {
   // Images folder
   eleventyConfig.addPassthroughCopy('./app/images')
 
+  // Files
+  eleventyConfig.addPassthroughCopy('./app/files')
+
   eleventyConfig.addPassthroughCopy({
 	"node_modules/@nhsbsa/cookie-consent-component/dist/cookie-banner.js": "cookie-banner.js"
 });

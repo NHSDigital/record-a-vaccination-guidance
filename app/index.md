@@ -37,4 +37,5 @@ Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) (include RAVS
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
 ## If the service is unavailable
-Please record vaccinations in your current point of care system if the Record a vaccination service is unavailable. 
+
+You can [record your vaccinations using our paper form](/files/record-a-vaccination.docx) or your current point of care system if you cannot access the service.
