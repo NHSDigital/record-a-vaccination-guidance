@@ -35,6 +35,6 @@ Once you’ve added a batch, it’s immediately activated for users to select wh
 
 ## Expired and depleted batches
 
-If you set a batch expiry or depletion date, it will remain active for users to select until midnight that day. It will then become inactive, and users cannot select it when they record new vaccinations.  
+If you set a batch expiry or depletion date, it will remain active for users to select until midnight that day. The batch will then become inactive, and users cannot select it when they record new vaccinations.  
 
 However, if a saved vaccination record needs to be edited, users can still select an expired or depleted batch if it was active at the time of the vaccination. 
