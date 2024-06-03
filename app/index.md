@@ -17,6 +17,8 @@ The service only records data. You have control over clinical judgements or deci
   "href": "https://www.ravs.england.nhs.uk"
 }) }}
 
+The pilot service is at www.ravs.england.nhs.uk
+
 {{ actionLink({
   "text": "How to use the pilot service",
   "href": ("/guide/" | url)
