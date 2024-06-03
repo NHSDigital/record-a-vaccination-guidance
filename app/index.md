@@ -13,6 +13,11 @@ The service only records data. You have control over clinical judgements or deci
 {% from 'action-link/macro.njk' import actionLink %}
 
 {{ actionLink({
+  "text": "Log in to the pilot service",
+  "href": "https://www.ravs.england.nhs.uk"
+}) }}
+
+{{ actionLink({
   "text": "How to use the pilot service",
   "href": ("/guide/" | url)
 }) }}
