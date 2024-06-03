@@ -21,3 +21,8 @@ $govuk-border-colour: #d8dde0;
   border: 5px solid white;
   max-width: 100%;
 }
+
+// Override for margin after action links
+.nhsuk-action-link {
+  margin-bottom: 20px;
+}
