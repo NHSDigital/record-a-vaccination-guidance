@@ -43,7 +43,7 @@ To resolve system issues, please report them by calling our service desk on 0121
 
 ## Download a paper form
 
-If you urgently need to record vaccinations, please [download our paper form](/files/record-a-vaccination.docx). When the service is available, you can enter the information from the form into RAVS.
+If you urgently need to record vaccinations, please [download our paper form] (/files/record-a-vaccination.docx). When the service is available, you can enter the information from the form into RAVS.
 
 ## Record vaccinations in your existing system
 
