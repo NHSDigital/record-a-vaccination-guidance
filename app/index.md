@@ -45,4 +45,4 @@ Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
 ## If the service is unavailable
 
-You can [record your vaccinations using our paper form](/files/record-a-vaccination.docx) or your current point of care system if you cannot access the service.
+Find out [how to resolve or report issues](https://guide.ravs.england.nhs.uk/service-unavailable/). Or, [record your vaccinations using our paper form](/files/record-a-vaccination.docx) or your current point of care system.
