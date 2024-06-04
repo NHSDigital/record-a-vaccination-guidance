@@ -7,6 +7,9 @@ parent:
 previous:
   title: Recording a vaccination
   url: /recording-a-vaccination
+next:
+  title: If the service is unavailable
+  url: /service-unavailable
 ---
 
 {% include 'guide-contents.njk' %}
