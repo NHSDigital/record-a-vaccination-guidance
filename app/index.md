@@ -40,7 +40,7 @@ Contact our helpdesk team or email us if you need help to:
 * troubleshoot or get support
 
 Telephone: 0121 611 0187 (select option 3 for the RAVS service desk)<br>
-Email: [agem.apps@england.nhs.uk](mailto:agem.apps@england.nhs.uk) (include RAVS in the subject line)<br>
+Email: [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk)<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
 ## If the service is unavailable
