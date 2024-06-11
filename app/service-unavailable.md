@@ -39,7 +39,7 @@ previous:
 
 ## Report an issue
 
-To resolve system issues, please report them by calling our service desk on 0121 611 0187 (select option 3) or emailing <agem.apps@england.nhs.uk> (include RAVS in the subject line).
+To resolve system issues, please report them by calling our service desk on 0121 611 0187 (select option 3) or emailing <ravs.support@england.nhs.uk>.
 
 ## Download a paper form
 
