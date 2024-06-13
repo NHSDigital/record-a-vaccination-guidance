@@ -43,6 +43,14 @@ Telephone: 0121 611 0187 (select option 3 for the RAVS service desk)<br>
 Email: [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk)<br>
 Monday to Friday: 8am to 6pm. Weekends: 8am to 4pm
 
+## Help us improve
+
+If you’d like to suggest changes to the service or this guidance please:
+
+* [Submit your feedback](https://feedback.digital.nhs.uk/jfe/form/SV_ezgoupJNznAkT6m)
+* [Register to participate in user research](https://feedback.digital.nhs.uk/jfe/form/SV_57HrcAOpLpt3QLY)
+
+
 ## If the service is unavailable
 
 Find out [how to resolve or report issues](https://guide.ravs.england.nhs.uk/service-unavailable/). Or, [record your vaccinations using our paper form](/files/record-a-vaccination.docx) or your current point of care system.
