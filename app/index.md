@@ -50,7 +50,6 @@ If you’d like to suggest changes to the service or this guidance please:
 * [Submit your feedback](https://feedback.digital.nhs.uk/jfe/form/SV_ezgoupJNznAkT6m)
 * [Register to participate in user research](https://feedback.digital.nhs.uk/jfe/form/SV_57HrcAOpLpt3QLY)
 
-We welcome your feedback.
 
 ## If the service is unavailable
 
