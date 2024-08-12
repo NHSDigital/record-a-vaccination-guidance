@@ -6,13 +6,13 @@ parent:
   title: Pilot service guidance
   url: /
 ---
-Here's what you need to do if your region has nominated you to invite providers to the Record a Vaccination Service (RAVS). 
+Follow these steps if your region has nominated you to invite providers to start using the Record a Vaccination Service (RAVS). 
 
-Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account to invite providers to use RAVS. 
+1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account to invite providers to use RAVS. 
 
-Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/), please email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net) if you have any issues.  
+2. Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/), please email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net) if you have any issues.  
 
-Nominate a lead user responsible for adding other users. They’ll receive an email inviting them to use the service. 
+3. Nominate a lead user responsible for adding other users. They’ll receive an email inviting them to use the service. 
 
 Lead users will be given ‘lead administrator’ permission levels. If you’d like to understand more, view managing users. 
 
