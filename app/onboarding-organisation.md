@@ -8,9 +8,9 @@ parent:
 ---
 Here's what you need to do if your region has nominated you to invite providers to the Record a Vaccination Service (RAVS). 
 
-Log in to [www.ravs.england.nhs.uk] (https://www.ravs.england.nhs.uk/) with your Okta account to invite providers to use RAVS. 
+Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account to invite providers to use RAVS. 
 
-Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal] (https://odsportal.digital.nhs.uk/), please contact the [ODS helpdesk] (mailto: exeter.helpdesk@nhs.net) if you have any issues.  
+Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/), please email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net) if you have any issues.  
 
 Nominate a lead user responsible for adding other users. They’ll receive an email inviting them to use the service. 
 
@@ -26,8 +26,8 @@ You can view all providers you’ve invited on the homepage. The ‘status’ wi
 
 ##Problems signing in? 
 
-If you cannot find your Okta activation email, please check your junk. Or [contact our helpdesk] (https://guide.ravs.england.nhs.uk/) if it’s expired or you need support.  
+If you cannot find your Okta activation email, please check your junk. Or email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) if it’s expired or you need help.  
 
 ##Adding other users to the regional onboarding tool 
 
-If you need to add another regional user, a nominated user must [contact our helpdesk] (https://guide.ravs.england.nhs.uk/) to request this. 
+If you need to add another regional user, a nominated user must email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) to request this. 
