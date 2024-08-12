@@ -16,18 +16,18 @@ Nominate a lead user responsible for adding other users. They’ll receive an em
 
 Lead users will be given ‘lead administrator’ permission levels. If you’d like to understand more, view managing users. 
 
-##What happens next? 
+## What happens next? 
 
 Once a lead user activates their account, they can start using the service.  
 
-##Viewing the status of the onboarded organisations 
+## Viewing the status of the onboarded organisations 
 
 You can view all providers you’ve invited on the homepage. The ‘status’ will update from 'invited' to 'active' when the lead user logs into RAVS for the first time. 
 
-##Problems signing in? 
+## Problems signing in? 
 
 If you cannot find your Okta activation email, please check your junk. Or email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) if it’s expired or you need help.  
 
-##Adding other users to the regional onboarding tool 
+## Adding other users to the regional onboarding tool 
 
 If you need to add another regional user, a nominated user must email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) to request this. 
