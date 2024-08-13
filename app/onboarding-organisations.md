@@ -11,7 +11,9 @@ Follow these steps if your region has nominated you to invite providers to start
 
 3. Nominate a lead user responsible for adding other users. They’ll receive an email inviting them to use the service.
 
-Lead users will be given ‘lead administrator’ permission levels. If you’d like to understand more, view managing users.
+Lead users will be given ‘lead administrator’ permission levels. 
+
+![Screen showing the user an email invitation they can send to the lead user](/images/onboarding-organisations-check-and-send.png)
 
 ## What happens next?
 
