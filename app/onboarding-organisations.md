@@ -21,6 +21,8 @@ Once a lead user activates their account, they can start using the service.
 
 You can view all providers you’ve invited on the homepage. The ‘status’ will update from 'invited' to 'active' when the lead user logs into RAVS for the first time.
 
+![Screen showing the user has invited several organisations](/images/onboarding-organisations-home-invited.png)
+
 ## Problems signing in?
 
 If you cannot find your Okta activation email, please check your junk. Or email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) if it’s expired or you need help.
