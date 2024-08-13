@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to use the pilot service
+title: How to use the service
 analytics_key: guide
 next:
   url: /setting-your-location/
@@ -9,6 +9,6 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-We’ve designed the NHS Record a vaccination service (RAVS) with users to ensure it’s intuitive and easy to use. However, our video demo and step-by-step user guidance will get you started.
+We’ve designed the Record a vaccination service (RAVS) with users to ensure it’s intuitive and easy to use.  
 
-<iframe src="https://player.vimeo.com/video/955929964?h=323fc0f777" width="640" height="360" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen style="margin-bottom: 40px;"></iframe>
+This guidance explains how features work and make recording vaccinations easier. This may differ from how you’re used to recording vaccinations in other point of care systems. 
