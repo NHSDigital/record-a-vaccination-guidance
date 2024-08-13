@@ -2,9 +2,6 @@
 layout: page
 title: How to onboard organisations
 analytics_key: how-to-onboard-organisations
-parent:
-  title: Pilot service guidance
-  url: /
 ---
 Follow these steps if your region has nominated you to invite providers to start using the Record a Vaccination Service (RAVS). 
 
