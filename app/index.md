@@ -38,7 +38,7 @@ Register for our 1-hour training webinars from midday (12pm):
 
 ## Get help
 
-* [What to do if there's a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/) 
+* [What to do if there’s a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/) 
 * [Record your vaccinations using our paper form](/files/record-a-vaccination.docx)
 
 ## Get help
