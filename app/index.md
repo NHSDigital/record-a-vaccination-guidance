@@ -20,6 +20,10 @@ The service only records data. You have control over clinical judgements or deci
   "href": ("/guide/" | url)
 }) }}
 
+{{ actionLink({
+  "text": "How to onboard organisations",
+  "href": ("/onboarding-organisations/" | url)
+}) }}
 
 ## Join training webinars
 
