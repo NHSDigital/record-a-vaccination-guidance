@@ -4,7 +4,7 @@ title: Service guidance
 analytics_key: home
 ---
 
-The Record a vaccination service (RAVS) allows you to record COVID-19, Flu, Pertussis and RSV patient and staff vaccinations.  
+The Record a vaccination service (RAVS) allows you to record COVID‑19, Flu, Pertussis and RSV patient and staff vaccinations.  
 
 The service only records data. You have control over clinical judgements or decisions. 
 
