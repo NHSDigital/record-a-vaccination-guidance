@@ -11,13 +11,13 @@ Follow these steps if your region has nominated you to invite providers to start
 
 2. Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/), please email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net) if you have any issues.
 
-![Screen showing the user has searched and selected an organisation](/images/onboarding-organisations-find.png)
+![Screen showing the user has searched and selected an organisation](/images/onboarding-organisation-find.png)
 
 3. Nominate a lead user responsible for adding other users. They’ll receive an email inviting them to use the service.
 
 Lead users will be given ‘lead administrator’ permission levels. 
 
-![Screen showing the user an email invitation they can send to the lead user](/images/onboarding-organisations-check-and-send.png)
+![Screen showing the user an email invitation they can send to the lead user](/images/onboarding-organisation-check-and-send.png)
 
 ## What happens next?
 
