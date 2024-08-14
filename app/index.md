@@ -24,6 +24,11 @@ The pilot service is at www.ravs.england.nhs.uk
   "href": ("/guide/" | url)
 }) }}
 
+{{ actionLink({
+  "text": "How to onboard organisations",
+  "href": ("/onboarding-organisations/" | url)
+}) }}
+
 ## Access training
 
 Learn how to use the service with our  [training site](https://www.ravs-training.england.nhs.uk/). Once you log in, you can explore a demo of the service, which does not use real patient data.
