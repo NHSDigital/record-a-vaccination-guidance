@@ -45,7 +45,7 @@ Register for our 1-hour training webinars from midday (12pm):
 * [What to do if there’s a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/) 
 * [Record your vaccinations using our paper form](/files/record-a-vaccination.docx)
 
-## Get help
+## Helpdesk
 
 Telephone: 0121 611 0187 (select option 3)<br>
 Email: [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk)<br>
