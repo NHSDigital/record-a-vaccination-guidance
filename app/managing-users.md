@@ -10,7 +10,7 @@ previous:
   url: /reporting
 next:
   title: Managing vaccines
-  url: /managing vaccines
+  url: /managing-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
