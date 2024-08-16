@@ -15,9 +15,7 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-## Managing users  
-
-### Adding new users  
+## Adding new users  
 
 Only lead administrators can add and manage users. 
 
@@ -28,11 +26,11 @@ To add a user, you must enter their:
 * NHS-approved email address  
 * Clinician status
 
-### Selecting clinician status 
+## Selecting clinician status 
 
-Select ‘yes’ if users are registered clinicians. This will allow them to assess patient and record their consent.  
+Select ‘yes’ if users are registered clinicians. This will allow them to assess patients and record their consent.  
 
-### Selecting permission levels 
+## Selecting permission levels 
 
 Choose and select a permission level for new users: 
 
@@ -47,7 +45,7 @@ You can select more than one user for each permission level.
 
 [Screen shows user adding a new user's details and selecting their permission level](add image)
 
-### Creating a RAVS account  
+## Creating a RAVS account  
 
 Once you have added a new user, we’ll automatically create a RAVS and Okta user account. We'll also send them a RAVS welcome email with instructions to access the service. Okta allows new users to verify their identity and use RAVS.  
 
@@ -57,7 +55,7 @@ If users:
 
 [Screen shows user a preview email before they send it](add image)
 
-### Changing users  
+## Changing users  
 
 You can change user permission levels and clinician status from the 'Manage users' screen.  
 
@@ -65,14 +63,14 @@ If you remove their clinician status, they can no longer assess patients and rec
 
 If you change their permission levels, this will become active when they log back into the service.  
 
-You cannot change your permission level if you’re the only 'Lead administrator' for your organisation. There must be one 'Lead administrator' per organisation.  
+**Important:** You cannot change your permission level if you’re the only 'Lead administrator' for your organisation. 
 
 [Screen shows user the manage users screen](add image)
 
-### Deleting users  
+## Deleting users  
 
 Delete a user account by emailing [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) or by calling **0121 611 0187** (select option 3).  
 
-### Users across multiple organisation  
+## Users across multiple organisation  
 
 To add users to your organisation that are users in another organisation, they'll need a different email address. They can only have one email address per organisation.  
