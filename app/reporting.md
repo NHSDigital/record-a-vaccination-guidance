@@ -15,13 +15,13 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-You can extract data in a ‘.csv format’ (comma separated variable) to support reporting within your organisation by choosing from a combination of: 
+Vaccination data is available to extract as soon as it's recorded and saved. You can extract data in a ‘.csv format’ (comma separated variable) to support reporting within your organisation by choosing from a combination of: 
 
 * Dates (up to a maximum of 2 weeks) 
 * Vaccines 
 * Sites 
 
-You aren't restricted to how often or when you can create reports. Vaccinations data will be available to extract as soon as it's recorded and saved. 
+You aren't restricted to how often or when you can create reports. 
 
 ## Choosing dates
 
