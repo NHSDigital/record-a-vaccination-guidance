@@ -71,7 +71,7 @@ If you’re the only 'Lead administrator' for your organisation, you cannot chan
 
 ###Deleting users  
 
-Delete a user account by contacting the helpdesk ravs.support@england.nhs.uk or by calling **0121 611 0187** (select option 3).  
+Delete a user account by emailing [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) or by calling **0121 611 0187** (select option 3).  
 
 ###Users across multiple organisation  
 
