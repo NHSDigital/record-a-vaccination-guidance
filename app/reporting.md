@@ -10,7 +10,7 @@ previous:
   url: /recording-2-or-more-vaccinations-together
 next:
   title: Managing users
-  url: /managing users
+  url: /managing-users
 ---
 
 {% include 'guide-contents.njk' %}
