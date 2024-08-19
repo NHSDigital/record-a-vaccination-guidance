@@ -1,4 +1,4 @@
-This website hosts the guidance and contact information for Record a vaccination during its private beta (or pilot).
+This website hosts the guidance and contact information for Record a vaccination during its beta.
 
 The website can be found at [guide.ravs.england.nhs.uk](https://guide.ravs.england.nhs.uk).
 
