@@ -16,16 +16,24 @@ next:
 {% include 'guide-contents.njk' %}
 
 
-Once you’ve found a patient and opened their record, you’ll see the patient details screen. You can check them in using their patient identifiers.
-You can also review their previous COVID-19 and flu vaccinations in the history below.
+Once you've found a patient and opened their record, you'll see the patient's details and vaccination history. You can check in patients using their patient identifiers and review their previous vaccinations.
 
-If everything looks OK, continue to choose vaccines.
+If everything looks OK, continue to 'Choose vaccine'.
 
-![Screen showing a user the patient’s details](/images/patient-details.png)
+![Screen showing a user the patient’s details and vaccination history](/images/patient-details.png)
 
-### Editing or deleting records within the vaccination history
+## Vaccination history
 
-You can only edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.
+**You can view COVID-19 and Flu vaccinations in the history, unless the vaccine was recorded in the last 24 hours**. 
+
+**You can view RSV and Pertussis vaccinations in history only if they’re recorded in RAVS**. Vaccinations recorded in other systems (like point of care and GP systems) will not be shown.  
+
+## Editing or deleting records within the vaccination history
+
+You can only:
+
+* edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.  
+* edit the information recorded on the 'Vaccinate' screen. You cannot change the assessment or consent screen because it changes the vaccination outcome. 
 
 **Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient’s future care.
 
