@@ -19,74 +19,93 @@ There are several steps to record a vaccination.
 
 ## Choosing a vaccine
 
-Select the vaccine and vaccine product you wish to give the patient.
+Select the vaccine and vaccine product you wish to give the patient. You’ll only see vaccine products with active batches. 
+
+### Selecting a delivery team 
+
+If your organisation has several sub-sites or teams, select a ‘Delivery team’ before you select the ‘Vaccine’ you wish to administer. This information will remain the same until you make new selections during your session or log out. 
 
 RAVS will warn you if the patient’s details or vaccination history contain important information to consider.
 
 ![Screen showing a user a warning stating the patient may not have reached the minimal interval between doses for the vaccine they have selected](/images/choose-vaccine-warning.png)
 
-## Assessing the patient
+## Assessing patients
 
 Check if the patient is suitable for the vaccination before continuing to capture consent.
 
-In comparison to other point-of-care systems, we have introduced or changed a few things to make recording vaccination easier:
+### Screening questions
 
-### Removed screening questions
+We’ve provided COVID-19 screening questions to consider when assessing a patient. Recording this information is no longer necessary. Refer to your organisation’s standard operating procedures, if you’re screening patients for other vaccines. 
 
-Although you’ll continue to ask these questions to determine if a patient is suitable for vaccination, recording this information is no longer necessary.
+### Selecting an assessing clinician
 
-### Selecting fields
+Select a registered clinician that appears under ‘Assessing clinician’. The clinician will remain the same until you make new selections during your session or log out. 
 
-You only need to select dates, clinical staff and vaccine batch details at the start of your session. 
+### Selecting an assessment date
 
-This information will remain the same until you make new selections during your session or log out. For example, if your staff or stock changes midway through a clinic.
+Select an ‘Assessment date’ the patient is assessed. The date will remain the same until you make new selections during your session or log out. Select ‘Choose another date’ if the vaccination was in the past. 
 
-Note: you can only select and record clinical staff registered with a professional body.  
+### Selecting an estimated due date (for maternity services) 
 
-### Exiting the journey
+The Pertussis or RSV vaccine should be given at a specific stage of the pregnancy. When vaccinating pregnant women for these vaccines, you must enter their estimated due date. RAVS will warn you if the date means it’s not clinically appropriate to vaccinate, but not stop you from continuing.   
 
-If you do not vaccinate the patient, you should save and exit the patient’s record.
+### Exiting an assessment
 
-This could be for the following reasons:
-
-* the patient declines
-* it’s not appropriate to vaccinate on the day, for example, the patient is unwell
-* there’s an increased risk for a serious adverse reaction (contraindication)
+If you do not vaccinate the patient, select a ‘Vaccine not given’ reason before you save and exit the patient’s record. 
 
 ![Screen showing a user a button to save and exit a patient’s record when they have chosen not to give them a vaccine](/images/assess-the-patient.png)
 
 ## Recording consent
 
-Before vaccinating the patient, you’ll need to capture their consent or the details of the person who is consenting on their behalf.
+Before vaccinating a patient, capture their consent or the details of the person consenting on their behalf. 
 
-### Exiting the journey
+### Selecting a consenting clinician
 
-If consent is refused, you should save and exit the patient’s record.
+Select a registered clinician that appears under ‘Consenting clinician’. The clinician will remain the same until you make new selections during your session or log out. 
 
-This could be for the following reasons:
+### Exiting if consent is declined
 
-* patient has been vaccinated
-* patient has made a personal choice
-* vaccine contains porcine
+If consent is declined, select a ‘No consent reason’, before you save and exit a patient’s record. 
 
 ![Screen showing a user a button to save and exit a patient's record when the patient declines consent](/images/consent-not-given.png)
 
-## Vaccinating the patient
+## Vaccinating a patient
 
-Confirm the vaccination event details once you’ve given the patient the vaccine.
+Enter the vaccination event details once you’ve given the patient a vaccine. 
 
-### Changing vaccines
+### Changing batches
 
-If no batches are left in stock, you can switch the vaccine product at this point and search for an alternative batch to give to the patient.
+If you run out of a batch, you can switch the vaccine product at this point and search for an alternative batch to give to the patient. 
 
-Note: batches are assigned to a vaccine product and preadded to RAVS with an expiry date and dose volume. This means that when you select a batch, this information will prepopulate, saving you time.
+Batches are assigned to a vaccine product and preadded to RAVS with an expiry date and dose volume. This means that when you select a batch, this information will prepopulate, saving you time. 
 
 ![Screen showing the user selecting an alternative vaccine and batch](/images/vaccinate.png)
 
+### Selecting a vaccination date 
+
+Select a ‘Vaccination date’. The date will remain the same until you make new selections during your session or log out.  
+
+Vaccination and assessment dates are likely to be on the same day. Make sure they match. 
+
+If you’re recording a vaccination that happened in the past, you can select a batch available at that time (even if they’re currently depleted or expired). 
+
+### Selecting a vaccinator 
+
+Select and record registered clinicians or non-registered staff that appear under ‘Vaccinator’. A vaccinator will remain the same until you make new selections during your session or log out. 
+
+### Selecting where the vaccination is taking place 
+
+To support payments and reporting, you must select where or how the vaccination is taking place. Once you select an option, it will remain the same until you make new selections during your session or log out. 
+
 ## Checking and confirming
 
-Before saving the patient’s vaccination record into RAVS, you can edit the record from the final check and confirm screen. The screen will return you to the relevant step to make the necessary changes.
+Before saving a patient’s vaccination record, you can edit it from the final ‘Check and confirm’ screen by selecting a link. The link will return you to the relevant screen to make the necessary changes.  
 
-Note: You cannot edit the patient’s demographic details.
+### What you can and cannot edit
+
+You can edit most information you have recorded, but there are exceptions:
+
+* you cannot edit a patient’s demographic details.  
+* editing information recorded on the assessment or consent screen changes the vaccination outcome. As a result, RAVS will remove the data you have entered on the vaccinate screen and ask you to reenter it. 
 
 ![Screen showing the user a list of the vaccination details they have recorded and can and cannot edit before submitting](/images/check-and-confirm.png)
