@@ -10,7 +10,7 @@ previous:
   url: /recording-a-vaccination
 ---
 
-| Data                          | COVID -19 vaccine | Flu vaccine | RSV vaccine                | Pertussis vaccine          |
+| What RAVS does                | COVID -19         | Flu         | RSV                        | Pertussis                  |
 |-------------------------------|-------------------|-------------|----------------------------|----------------------------|
 | Records                       | Yes               | Yes         | Yes (from 28 August 2024)  | Yes (from 28 August 2024)  |
 | Shows GP vaccination data     | Yes               | Yes         | No                         | No                         |
