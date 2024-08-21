@@ -41,7 +41,7 @@ Choose and select a permission level for new users:
 | **Creates reports**                | Yes                       | Yes                  | No              |
 | **Adds and manages users**         | Yes                       | No                   | No              |
 
-You can select more than one user for each permission level. 
+You can have more than one user for each permission level. 
 
 ![Screen shows user adding a new user's details and selecting their permission level](/images/manage-users-add.png)
 
