@@ -3,7 +3,7 @@ layout: page
 title: If the service is unavailable
 analytics_key: service-unavailable
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Recording a vaccination
