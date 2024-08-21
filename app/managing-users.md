@@ -43,7 +43,7 @@ Choose and select a permission level for new users:
 
 You can select more than one user for each permission level. 
 
-[Screen shows user adding a new user's details and selecting their permission level](add image)
+[Screen shows user adding a new user's details and selecting their permission level](/images/manage-users-add.png)
 
 ## Creating a RAVS account  
 
@@ -53,7 +53,7 @@ If users:
 * already have an Okta account for other NHS applications, their RAVS account will be added to their existing Okta account. 
 * are new to Okta, they’ll also receive an Okta email with instructions to activate it. They’ll need to do this first to access RAVS.
 
-[Screen shows user a preview email before they send it](add image)
+[Screen shows user a preview email before they send it](/images/manage-users-check.png)
 
 ## Changing users  
 
@@ -65,7 +65,7 @@ If you change their permission levels, this will become active when they log bac
 
 **Important:** You cannot change your permission level if you’re the only 'Lead administrator' for your organisation. 
 
-[Screen shows user the manage users screen](add image)
+[Screen shows user the manage users screen](/images/manage-users-home.png)
 
 ## Deleting users  
 
