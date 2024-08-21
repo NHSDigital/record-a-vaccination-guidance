@@ -28,7 +28,7 @@ To add a user, you must enter their:
 
 ## Selecting clinician status 
 
-Select ‘yes’ if users are registered clinicians. This will allow them to assess patients and record their consent.  
+Select ‘yes’ if users are registered clinicians. As a result, they can be selected as assessing and consenting clinicians.
 
 ## Selecting permission levels 
 
