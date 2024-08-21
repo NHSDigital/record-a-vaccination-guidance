@@ -25,7 +25,7 @@ Select ‘Add vaccine’ from the vaccines home screen. Then search and select a
 
 Select the ‘Vaccine type’ and ‘’Vaccine product you’d like to add to your chosen site and continue. 
 
-`![Screen shows user selecting the vaccine type and vaccine product](/images/vaccine-choose.png)
+![Screen shows user selecting the vaccine type and vaccine product](/images/vaccine-choose.png)
 
 Enter a ‘Batch number’ and ‘Expiry date’. For COVID-19 batches, you must enter an extended field and a ‘Thawed expiry date’.  
 
