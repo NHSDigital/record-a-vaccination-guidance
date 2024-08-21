@@ -15,8 +15,6 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-You’ll be shown a success message after you've saved a vaccination. Select ‘Give Claire Smith another vaccination’ in the message. 
+Once you've saved a vaccination, you'll return to the patient's record that shows their updated vaccination history. You can 'Choose Vaccine' to continue.
 
-This will return you to Claire’s ‘Patient details’ record where you can choose to give Claire another vaccine.  
-
-[Screen shows user the success message that appears after they have saved a record] (insert image)
+![Screen shows user the success message that appears after they have saved a record](/images/patient-details.png) 
