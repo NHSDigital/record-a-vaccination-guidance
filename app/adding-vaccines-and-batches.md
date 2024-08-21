@@ -2,7 +2,7 @@
 layout: page
 title: Adding vaccines and batches
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Recording a vaccination

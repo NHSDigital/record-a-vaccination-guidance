@@ -3,7 +3,7 @@ layout: page
 title: Patient record
 analytics_key: patient-record
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Finding a patient
