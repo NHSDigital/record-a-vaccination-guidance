@@ -73,4 +73,4 @@ Delete a user account by emailing [ravs.support@england.nhs.uk](mailto:ravs.supp
 
 ## Users across multiple organisation  
 
-To add users to your organisation that are users in another organisation, they'll need a different email address. They can only have one email address per organisation.  
+To add users to your organisation that are users in another organisation, they’ll need a different email address. They need a unique email address for each organisation
