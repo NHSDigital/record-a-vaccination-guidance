@@ -16,7 +16,7 @@ next:
 {% include 'guide-contents.njk' %}
 
 
-Once you've found a patient and opened their record, you'll see the patient's details and vaccination history. You can check in patients using their patient identifiers and review their previous vaccinations.
+Once you've found a patient and opened their record, you'll see their details and vaccination history. You can check in patients using their patient identifiers and review their previous vaccinations.
 
 If everything looks OK, continue to 'Choose vaccine'.
 
