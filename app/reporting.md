@@ -31,7 +31,7 @@ For custom reports, you must enter a past date range, up to a maximum of 2 weeks
 
 **Note:** The maximum 2-week restriction is temporary, and we’re looking to remove this soon. 
 
-![Screen showing a user selecting a custom date range](/images/choose-vaccine-warning.png)
+![Screen showing a user selecting a custom date range](/images/report-dates.png)
 
 ## Choosing vaccines 
 
@@ -44,19 +44,18 @@ To support the Autumn Winter campaign, RAVS will record the following 4 vaccines
 
 Select the vaccines you wish to report on. 
 
-![Screen showing a user selecting a vaccine](/images/choose-vaccine-warning.png)
+![Screen showing a user selecting a vaccine](/images/report-vaccines.png)
 
 ## Choosing sites
 
 Select the sites you wish to report on. You’ll only see sites added into RAVS with an ODS code. 
 
-![Screen showing a user selecting a site](/images/choose-vaccine-warning.png)
+![Screen showing a user selecting a site](/images/report-sites.png)
 
 ## Running your reports 
 
 Depending on the volume of data you’ve selected, a screen may appear indicating that your report is being created. 
 
-![Screen showing a user their report is being created](/images/choose-vaccine-warning.png)
 
 ### Downloading your report
 
