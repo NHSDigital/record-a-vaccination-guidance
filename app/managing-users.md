@@ -46,11 +46,12 @@ You can have more than one user for each permission level.
 
 ## Creating a RAVS account  
 
-Once you have added a new user, we’ll automatically create a RAVS and Okta user account. We'll also send them a RAVS welcome email with instructions to access the service. Okta allows new users to verify their identity and use RAVS.  
+Once you have added a new user, we’ll automatically create a RAVS account and send them a welcome email to access the service.
 
-If users:
-* already have an Okta account for other NHS applications, their RAVS account will be added to their existing Okta account. 
-* are new to Okta, they’ll also receive an Okta email with instructions to activate it. They’ll need to do this first to access RAVS.
+Okta allows new users to sign in and use RAVS.
+
+* If users already have an Okta account for other NHS applications, then their RAVS account will be added to their existing Okta account.
+* If users are new to Okta, they’ll also receive an Okta email with instructions to set up their account. They’ll need to do this first to access RAVS.
 
 ![Screen shows user a preview email before they send it](/images/manage-users-check.png)
 
