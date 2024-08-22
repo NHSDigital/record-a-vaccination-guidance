@@ -15,13 +15,13 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-Vaccination data is available to extract as soon as it's recorded and saved. You can extract data in a ‘.csv format’ (comma separated variable) to support reporting within your organisation by choosing from a combination of:
+Vaccination data is available for extract as soon as it’s recorded and saved. You can extract data in a ‘.csv format’ (comma separated values) to support reporting within your organisation by choosing from a combination of:
 
-* Dates (up to a maximum of 2 weeks)
-* Vaccines
-* Sites
+* dates (up to a maximum of 2 weeks)
+* vaccines
+* sites
 
-You aren't restricted to how often or when you can create reports.
+You aren’t restricted to how often or when you can create reports.
 
 ## Choosing dates
 
@@ -29,7 +29,7 @@ Select preset dates or a custom date range.
 
 For custom reports, you must enter a past date range, up to a maximum of 2 weeks.
 
-**Note:** The maximum 2-week restriction is temporary, and we’re looking to remove this soon.
+**Note:** The maximum 2 week restriction is temporary, and we’re looking to remove this soon.
 
 ![Screen showing a user selecting a custom date range](/images/report-dates.png)
 
