@@ -3,7 +3,7 @@ layout: page
 title: Finding a patient
 analytics_key: finding-a-patient
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Setting your location
