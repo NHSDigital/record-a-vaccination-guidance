@@ -9,8 +9,8 @@ previous:
   title: Finding a patient
   url: /finding-a-patient
 next:
-  title: Adding vaccines and batches
-  url: /adding-vaccines-and-batches
+  title: Managing users
+  url: /managing-users
 ---
 
 {% include 'guide-contents.njk' %}
