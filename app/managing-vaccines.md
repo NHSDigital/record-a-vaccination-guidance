@@ -15,7 +15,7 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators can manage vaccines and batches. 
+Only lead administrators and administrators can manage vaccines and batches. 
 
 ## Adding batches 
 
