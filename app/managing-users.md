@@ -6,8 +6,8 @@ parent:
   title: How to use the pilot service
   url: /guide
 previous:
-  title: Recording a vaccination
-  url: /recording-a-vaccination
+  title: Reporting
+  url: /reporting
 next:
   title: Managing vaccines
   url: /managing-vaccines
