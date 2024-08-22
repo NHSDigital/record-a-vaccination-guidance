@@ -9,8 +9,8 @@ previous:
   title: Recording a vaccination
   url: /recording-a-vaccination
 next:
-  title: Adding vaccines and batches
-  url: /adding-vaccines-and-batches
+  title: Managing vaccines
+  url: /managing-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
