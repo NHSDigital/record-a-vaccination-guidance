@@ -34,12 +34,11 @@ Select ‘yes’ if users are registered clinicians. As a result, they can be se
 
 Choose and select a permission level for new users: 
 
-| **Permission level**               | **Lead administrator**    | **Administrator**    | **Recorder**    |
-|------------------------------------|---------------------------|----------------------|-----------------|
-| **Records and edits vaccinations** | Yes                       | Yes                  | Yes             |
-| **Adds and manages vaccines**      | Yes                       | Yes                  | No              |
-| **Creates reports**                | Yes                       | Yes                  | No              |
-| **Adds and manages users**         | Yes                       | No                   | No              |
+| **Permission level**       | **Record and edit vaccinations** | **Add and manage vaccines** | **Create reports** | **Add and manage users** |
+|----------------------------|---------------------------|----------------------|-----------------|---|
+| **Recorder**               | Yes                       | No                 | No             | No |
+| **Administrator**          | Yes                       | Yes                  | Yes              | No |
+| **Lead administrator**     | Yes                       | Yes                  | Yes              | Yes |
 
 You can have more than one user for each permission level. 
 
