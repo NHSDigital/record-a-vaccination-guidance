@@ -3,7 +3,7 @@ layout: page
 title: Setting your location
 analytics_key: setting-location
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Overview
