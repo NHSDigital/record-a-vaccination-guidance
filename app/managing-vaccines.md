@@ -46,7 +46,7 @@ You can edit, deplete and reactive batches from the vaccine product screen.
 ### What happens after I do this? 
 
 * Edited batches will immediately change
-* Depleted batches will immediately change to ‘Pending’ and become ‘Depleted’ at midnight
+* Depleted batches will immediately change to ‘Pending’ and become ‘Depleted’ at midnight of the same day
 * Reactivated batches will immediately change to ‘Active’ on the vaccine product screen
 
 ![Screen shows the user pending and active vaccine batches](/images/vaccine-depleted.png)
