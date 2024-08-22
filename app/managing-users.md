@@ -6,11 +6,11 @@ parent:
   title: How to use the pilot service
   url: /guide
 previous:
-  title: Reporting
-  url: /reporting
+  title: Recording a vaccination
+  url: /recording-a-vaccination
 next:
-  title: Managing vaccines
-  url: /managing-vaccines
+  title: Adding vaccines and batches
+  url: /adding-vaccines-and-batches
 ---
 
 {% include 'guide-contents.njk' %}
