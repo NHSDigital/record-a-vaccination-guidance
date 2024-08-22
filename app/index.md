@@ -11,19 +11,12 @@ The service only records data. You have control over clinical judgements or deci
 {% from 'action-link/macro.njk' import actionLink %}
 
 {{ actionLink({
-  "text": "Log in to the service (at www.ravs.england.nhs.uk)",
-  "href": "https://www.ravs.england.nhs.uk"
-}) }}
-
-{{ actionLink({
-  "text": "How to use the service",
+  "text": "User guide: How to use the service",
   "href": ("/guide/" | url)
 }) }}
 
-{{ actionLink({
-  "text": "How to onboard organisations",
-  "href": ("/onboarding-organisations/" | url)
-}) }}
+To access the service itself, visit [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk).
+
 
 ## Join training webinars
 
@@ -32,6 +25,10 @@ Register for our 1-hour training webinars from midday (12pm):
 * [Wednesday 28 August](https://events.teams.microsoft.com/event/31f6f977-5d32-4f9d-ae06-476016dda5c7@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Tuesday 3 September](https://events.teams.microsoft.com/event/7a0b9e2e-adba-4249-a1de-793bb4b15c01@37c354b2-85b0-47f5-b222-07b48d774ee3) 
 * [Wednesday 11 September](https://events.teams.microsoft.com/event/493133b7-8eb2-4d99-900e-557603d4f8a1@37c354b2-85b0-47f5-b222-07b48d774ee3)
+
+## Regional commissioners
+
+If you work for one of the NHS regions, find out [how to onboard organisations](/onboarding-organisations/).
 
 ## Help us improve
 
