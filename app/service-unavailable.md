@@ -6,8 +6,8 @@ parent:
   title: How to use the service
   url: /guide
 previous:
-  title: Recording a vaccination
-  url: /recording-a-vaccination
+  title: Managing vaccines
+  url: /manage-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
