@@ -6,11 +6,11 @@ parent:
   title: How to use the service
   url: /guide
 previous:
-  title: Setting your location
-  url: /setting-your-location
+  title: Overview
+  url: /guide
 next:
-  title: Patient record
-  url: /patient-record
+  title: Finding a patient
+  url: /finding-a-patient
 ---
 
 {% include 'guide-contents.njk' %}
