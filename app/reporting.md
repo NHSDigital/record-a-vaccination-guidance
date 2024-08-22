@@ -15,6 +15,8 @@ next:
 
 {% include 'guide-contents.njk' %}
 
+Only lead administrators and administrators can create reports.
+
 Vaccination data is available for extract as soon as it’s recorded and saved. You can extract data in a ‘.csv format’ (comma separated values) to support reporting within your organisation by choosing from a combination of:
 
 * dates (up to a maximum of 2 weeks)
