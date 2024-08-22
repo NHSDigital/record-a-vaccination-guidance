@@ -2,11 +2,11 @@
 layout: page
 title: Adding vaccines and batches
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
-  title: Recording a vaccination
-  url: /recording-a-vaccination
+  title: Managing users
+  url: /managing-users
 next:
   title: If the service is unavailable
   url: /service-unavailable

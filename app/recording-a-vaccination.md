@@ -3,14 +3,14 @@ layout: page
 title: Recording a vaccination
 analytics_key: recording-vaccinations
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Finding a patient
   url: /finding-a-patient
 next:
-  title: Adding vaccines and batches
-  url: /adding-vaccines-and-batches
+  title: Managing users
+  url: /managing-users
 ---
 
 {% include 'guide-contents.njk' %}
