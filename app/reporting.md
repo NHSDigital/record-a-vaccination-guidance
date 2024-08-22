@@ -27,7 +27,7 @@ You aren’t restricted to how often or when you can create reports.
 
 Select preset dates or a custom date range.
 
-For custom reports, you must enter a past date range, up to a maximum of 2 weeks.
+The date range for custom reports is limited to 2 weeks. Dates must be in the past.
 
 **Note:** The maximum 2 week restriction is temporary, and we’re looking to remove this soon.
 
