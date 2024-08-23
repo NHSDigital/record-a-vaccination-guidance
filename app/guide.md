@@ -11,4 +11,4 @@ next:
 
 We’ve designed the Record a vaccination service (RAVS) with users to ensure it’s intuitive and easy to use.
 
-This guidance explains how features work and make recording vaccinations easier. This may differ from how you’re used to recording vaccinations in other point of care systems.
+This guidance explains how features work to make recording vaccinations easier. They may differ from how you’re used to recording vaccinations in other point of care systems.
