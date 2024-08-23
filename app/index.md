@@ -15,7 +15,7 @@ The service only records data. You have control over clinical judgements or deci
   "href": ("/guide/" | url)
 }) }}
 
-To access the service itself, visit [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk).
+To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk).
 
 ## Join training webinars
 
