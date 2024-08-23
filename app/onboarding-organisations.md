@@ -3,9 +3,9 @@ layout: page
 title: How to onboard organisations
 analytics_key: how-to-onboard-organisations
 ---
-Follow these steps if your region has nominated you to invite providers to start using the Record a Vaccination Service (RAVS).
+Follow these steps or [watch our webinar](https://vimeo.com/1001103401) if your region has nominated you to invite providers to start using the Record a Vaccination Service (RAVS).
 
-1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account from Monday 19 August.
+1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account.
 
 ![Screen showing the user the onboarding tool home screen](/images/onboarding-organisations-home-empty.png)
 

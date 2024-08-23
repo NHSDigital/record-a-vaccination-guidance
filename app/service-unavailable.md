@@ -6,8 +6,8 @@ parent:
   title: How to use the service
   url: /guide
 previous:
-  title: Recording a vaccination
-  url: /recording-a-vaccination
+  title: Managing vaccines
+  url: /manage-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
@@ -44,7 +44,3 @@ To resolve system issues, please report them by calling our service desk on 0121
 ## Download a paper form
 
 If you urgently need to record vaccinations, please [download our paper form](/files/record-a-vaccination.docx). When the service is available, you can enter the information from the form into RAVS.
-
-## Record vaccinations in your existing system
-
-Alternatively, you can record vaccinations in your current point of care systems like Pinnacle or the National Immunisation and Vaccination System (NIVS).
