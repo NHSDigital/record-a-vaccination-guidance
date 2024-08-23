@@ -42,6 +42,11 @@ Register for our 1-hour training webinars from midday (12pm):
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-two-thirds">
 
+### Do not send letters to GPs
+
+On 11 October 24, we’ll automatically send RAVS RSV and Pertussis vaccination data to GPs.
+
+If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. Sending these records may create duplicate entries in the patient’s GP record.
 
 ## Regional commissioners
 
