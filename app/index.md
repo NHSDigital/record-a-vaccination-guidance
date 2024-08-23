@@ -25,7 +25,7 @@ Register for our 1-hour training webinars from midday (12pm):
 * [Tuesday 3 September](https://events.teams.microsoft.com/event/7a0b9e2e-adba-4249-a1de-793bb4b15c01@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Wednesday 11 September](https://events.teams.microsoft.com/event/493133b7-8eb2-4d99-900e-557603d4f8a1@37c354b2-85b0-47f5-b222-07b48d774ee3)
 
-## Vaccines
+## Data RAVS records, shows and sends
 
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-full">
