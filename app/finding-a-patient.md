@@ -9,8 +9,8 @@ previous:
   title: Overview
   url: /guide
 next:
-  title: Finding a patient
-  url: /finding-a-patient
+  title: Patient record
+  url: /patient-record
 ---
 
 {% include 'guide-contents.njk' %}
@@ -23,7 +23,7 @@ The easiest way to find a matching result is to enter the patient’s 10-digit N
 
 If the patient needs to find their number, refer them to [Find your NHS number](https://www.nhs.uk/nhs-services/online-services/find-nhs-number/).
 
-![Screen showing a user searching for a patient by entering their NHS number](/images/search-by-nhs-number.png)
+![Screen showing a user searching for a patient by entering their NHS number](/images/search-by-NHS-number.png)
 
 ## By demographics
 
