@@ -4,9 +4,9 @@ title: Service guidance
 analytics_key: home
 ---
 
-The Record a vaccination service (RAVS) allows you to record COVID‑19, Flu, Pertussis and RSV patient and staff vaccinations.  
+The Record a vaccination service (RAVS) allows you to record COVID‑19, Flu, Pertussis and RSV patient and staff vaccinations.
 
-The service only records data. You have control over clinical judgements or decisions. 
+The service only records data. You have control over clinical judgements or decisions.
 
 {% from 'action-link/macro.njk' import actionLink %}
 
@@ -17,14 +17,28 @@ The service only records data. You have control over clinical judgements or deci
 
 To access the service itself, visit [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk).
 
-
 ## Join training webinars
 
-Register for our 1-hour training webinars from midday (12pm):  
+Register for our 1-hour training webinars from midday (12pm):
 
 * [Wednesday 28 August](https://events.teams.microsoft.com/event/31f6f977-5d32-4f9d-ae06-476016dda5c7@37c354b2-85b0-47f5-b222-07b48d774ee3)
-* [Tuesday 3 September](https://events.teams.microsoft.com/event/7a0b9e2e-adba-4249-a1de-793bb4b15c01@37c354b2-85b0-47f5-b222-07b48d774ee3) 
+* [Tuesday 3 September](https://events.teams.microsoft.com/event/7a0b9e2e-adba-4249-a1de-793bb4b15c01@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Wednesday 11 September](https://events.teams.microsoft.com/event/493133b7-8eb2-4d99-900e-557603d4f8a1@37c354b2-85b0-47f5-b222-07b48d774ee3)
+
+## Data RAVS records, shows and sends
+
+</div></div>
+<div class="nhsuk-grid-row"><div class="nhsuk-grid-column-full">
+
+| What RAVS does                | COVID‑19         | Flu         | RSV                        | Pertussis                  |
+|-------------------------------|-------------------|-------------|----------------------------|----------------------------|
+| Records                       | Yes               | Yes         | Yes (from 28 August 2024)  | Yes (from 28 August 2024)  |
+| Shows GP vaccination data     | Yes               | Yes         | No                         | No                         |
+| Sends vaccination data to GPs | Yes               | Yes         | Yes (from 11 October 2024) | Yes (from 11 October 2024) |
+
+</div></div>
+<div class="nhsuk-grid-row"><div class="nhsuk-grid-column-two-thirds">
+
 
 ## Regional commissioners
 
@@ -37,7 +51,7 @@ If you work for one of the NHS regions, find out [how to onboard organisations](
 
 ## Get help
 
-* [What to do if there’s a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/) 
+* [What to do if there’s a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/)
 * [Record your vaccinations using our paper form](/files/record-a-vaccination.docx)
 
 ## Helpdesk

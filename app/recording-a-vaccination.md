@@ -109,3 +109,9 @@ You can edit most information you have recorded, but there are exceptions:
 * editing information recorded on the assessment or consent screen changes the vaccination outcome. As a result, RAVS will remove the data you have entered on the vaccinate screen and ask you to reenter it.
 
 ![Screen showing the user a list of the vaccination details they have recorded and can and cannot edit before submitting](/images/check-and-confirm.png)
+
+## Do not send letters to GPs
+
+On 11 October 24, we’ll automatically send RAVS RSV and Pertussis vaccination data to GPs.
+
+If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. Sending these records may result in duplicate entries in the patient’s GP record.
