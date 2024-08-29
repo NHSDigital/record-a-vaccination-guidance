@@ -46,6 +46,8 @@ Make sure you ask the patient to:
 * spell their name, for example, Catherine could be Katherine, or Smith could be Smythe
 * confirm their previous postcode if they have recently moved
 
+If a patient is homeless, enter the postcode ZZ99 3VZ to find them. 
+
 ## If you cannot find a match
 
 You can create a new patient if you’ve tried searching by their NHS number and demographics and you’re confident there is no existing patient record.
@@ -53,6 +55,8 @@ You can create a new patient if you’ve tried searching by their NHS number and
 If your demographic search returns no results, the opportunity to create a new patient will appear.
 
 **Important**: Adding duplicate records unnecessarily could result in incorrect or delayed patient care.
+
+## Adding homeless 
 
 Once you have entered all required fields to create a new patient record, you can save it to RAVS and find it by searching your local records.
 
