@@ -56,8 +56,6 @@ If your demographic search returns no results, the opportunity to create a new p
 
 **Important**: Adding duplicate records unnecessarily could result in incorrect or delayed patient care.
 
-## Adding homeless 
-
 Once you have entered all required fields to create a new patient record, you can save it to RAVS and find it by searching your local records.
 
 ![Screen showing a user a create a new patient button after they have searched and not found a patient by their demographics](/images/add-a-new-patient.png)
