@@ -32,20 +32,20 @@ Register for our 1-hour training webinars from midday (12pm):
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-full">
 
-| What RAVS does                | COVID‑19         | Flu         | RSV                        | Pertussis                  |
-|-------------------------------|-------------------|-------------|----------------------------|----------------------------|
-| Records                       | Yes               | Yes         | Yes (from 28 August 2024)  | Yes (from 28 August 2024)  |
-| Shows GP vaccination data     | Yes               | Yes         | No                         | No                         |
-| Sends vaccination data to GPs | Yes               | Yes         | Yes (from 11 October 2024) | Yes (from 11 October 2024) |
+| What RAVS does                | COVID‑19         | Flu         | RSV                      | Pertussis                |
+|-------------------------------|------------------|-------------|--------------------------|--------------------------|
+| Records                       | Yes              | Yes         | Yes                      | Yes                      |
+| Shows GP vaccination data     | Yes              | Yes         | No                       | No                       |
+| Sends vaccination data to GPs | Yes              | Yes         | Yes (by 11 October 2024) | Yes (by 11 October 2024) |
 
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-two-thirds">
 
-### Do not send letters to GPs
+### Data sent to GPs
 
-On 11 October 24, we’ll automatically send RAVS RSV and Pertussis vaccination data to GPs.
+Vaccinations recorded in RAVS from 1 September onwards will be visible in the GP record by 11 October.
 
-If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. Sending these records may create duplicate entries in the patient’s GP record.
+If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. This may create duplicate entries in the patient’s GP record.
 
 ## Regional commissioners
 
