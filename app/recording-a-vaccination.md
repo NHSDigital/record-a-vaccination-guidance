@@ -39,7 +39,9 @@ We’ve provided COVID-19 screening questions to consider when assessing a patie
 
 ### Selecting an assessing clinician
 
-Select a registered clinician that appears under ‘Assessing clinician’. The clinician will remain the same until you make new selections during your session or log out.
+Select a registered clinician that appears under ‘Assessing clinician’. You’ll only see users that have been added with a clinician status. For more information, see [managing users](https://guide.ravs.england.nhs.uk/managing-users/).
+
+The clinician will remain the same until you make new selections during your session or log out.
 
 ### Selecting an assessment date
 
@@ -61,7 +63,9 @@ Before vaccinating a patient, capture their consent or the details of the person
 
 ### Selecting a consenting clinician
 
-Select a registered clinician that appears under ‘Consenting clinician’. The clinician will remain the same until you make new selections during your session or log out.
+Select a registered clinician that appears under ‘Consenting clinician’. You’ll only see users that have been added with a clinician status. For more information, see [managing users](https://guide.ravs.england.nhs.uk/managing-users/).
+
+The clinician will remain the same until you make new selections during your session or log out.
 
 ### Exiting if consent is declined
 
@@ -91,7 +95,9 @@ If you’re recording a vaccination that happened in the past, you can select a 
 
 ### Selecting a vaccinator
 
-Select and record registered clinicians or non-registered staff that appear under ‘Vaccinator’. A vaccinator will remain the same until you make new selections during your session or log out.
+Select and record registered clinicians or non-registered staff that appear under ‘Vaccinator’. You’ll see users that have been added with or without a clinician status. For more information, see [managing users](https://guide.ravs.england.nhs.uk/managing-users/). 
+
+A vaccinator will remain the same until you make new selections during your session or log out.
 
 ### Selecting where the vaccination is taking place
 
