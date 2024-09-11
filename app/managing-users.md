@@ -28,7 +28,9 @@ To add a user, you must enter their:
 
 ## Selecting clinician status
 
-Select ‘yes’ if users are registered clinicians. As a result, they can be selected as assessing and consenting clinicians.
+Select ‘yes’ if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council. 
+
+As a result, they can be selected as assessing and consenting clinicians when recording vaccinations.
 
 ## Selecting permission levels
 
