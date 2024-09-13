@@ -21,8 +21,6 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 
 Register for our 1-hour training webinars from midday (12pm):
 
-* [Tuesday 3 September](https://events.teams.microsoft.com/event/7a0b9e2e-adba-4249-a1de-793bb4b15c01@37c354b2-85b0-47f5-b222-07b48d774ee3)
-* [Wednesday 11 September](https://events.teams.microsoft.com/event/493133b7-8eb2-4d99-900e-557603d4f8a1@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Thursday 19 September](https://events.teams.microsoft.com/event/078a6522-1455-4857-a98e-2d23eaeb3df6@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Wednesday 25 September](https://events.teams.microsoft.com/event/f6bc0f96-800b-437f-a831-4d65a73705e2@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * [Tuesday 1 October](https://events.teams.microsoft.com/event/237cfa8e-9030-4224-997c-19ee149315d8@37c354b2-85b0-47f5-b222-07b48d774ee3)
