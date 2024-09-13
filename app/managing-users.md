@@ -74,7 +74,7 @@ If you’re a lead user at:
 
 You cannot add users to other organisations.  
 
-###What happens next? 
+### What happens next? 
 
 * Each email will have its own OKTA account and is linked to one organisation.  
 * When you add users to your organisation with a variation of their email, we’ll automatically send a RAVS and Okta welcome email. Emails are sent to users' primary email inboxes with instructions to activate their accounts.  
