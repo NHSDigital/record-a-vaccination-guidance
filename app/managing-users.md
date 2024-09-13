@@ -61,7 +61,7 @@ Okta allows new users to sign in and use RAVS.
 
 RAVS cannot onboard users to multiple organisations with the same email address. Only one email can be linked to one organisation. 
 
-If you encounter an ‘email already exists’ error message while adding a user, their email is already linked to another organisation. To add this user to your organisation, you can use a variation of their email by including '+organisationname’ to their email address.  
+If you encounter an ‘email already exists’ error message while adding a user, their email is already linked to another organisation. To add this user to your organisation, you can use a variation of their email by including `+organisationname` to their email address.  
 
 You must do this to help users identify which account they’re logging into. Not doing so, could lead to users recording vaccinations under an incorrect organisation.  
 
