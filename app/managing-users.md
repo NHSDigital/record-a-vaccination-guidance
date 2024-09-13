@@ -78,7 +78,7 @@ You cannot add users to other organisations.
 
 * Each email will have its own OKTA account and is linked to one organisation.  
 * When you add users to your organisation with a variation of their email, we’ll automatically send a RAVS and Okta welcome email. Emails are sent to users’ primary email inboxes with instructions to activate their accounts.  
-* Users must log in with the email linked to the organisation they’re delivering vaccinations to maintain accurate clinical records. 
+* Users must log in with the email linked to the organisation where they’re delivering vaccinations to maintain accurate clinical records. 
 
 **Note**: In future, you'll be able to add users to your organisation even if their email is linked to another. This means when users log in they can switch between organisations. When we introduce this change, all varying email accounts will be merged into users’ primary emails.   
 
