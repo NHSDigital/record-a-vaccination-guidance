@@ -19,11 +19,11 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 
 ## Join training webinars
 
-Register for our 1-hour training webinars from midday (12pm):
+Register for our training webinars:
 
-* [Thursday 19 September](https://events.teams.microsoft.com/event/078a6522-1455-4857-a98e-2d23eaeb3df6@37c354b2-85b0-47f5-b222-07b48d774ee3)
-* [Wednesday 25 September](https://events.teams.microsoft.com/event/f6bc0f96-800b-437f-a831-4d65a73705e2@37c354b2-85b0-47f5-b222-07b48d774ee3)
-* [Tuesday 1 October](https://events.teams.microsoft.com/event/237cfa8e-9030-4224-997c-19ee149315d8@37c354b2-85b0-47f5-b222-07b48d774ee3)
+* [Wednesday 25 September at midday (12pm)](https://events.teams.microsoft.com/event/f6bc0f96-800b-437f-a831-4d65a73705e2@37c354b2-85b0-47f5-b222-07b48d774ee3)
+* [Tuesday 1 October at midday (12pm)](https://events.teams.microsoft.com/event/237cfa8e-9030-4224-997c-19ee149315d8@37c354b2-85b0-47f5-b222-07b48d774ee3)
+* [Book other dates in October](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/)
 
 ## Data RAVS records, shows and sends
 
