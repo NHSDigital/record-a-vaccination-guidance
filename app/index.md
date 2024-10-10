@@ -19,7 +19,7 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 
 ## Join a training webinar
 
-* [Book a webinar](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/)
+[Book a webinar](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/)
 
 ## Data RAVS records, shows and sends
 
