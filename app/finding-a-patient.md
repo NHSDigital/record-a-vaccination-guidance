@@ -43,7 +43,7 @@ Patients’ names and postcodes are frequently misspelt or misentered.
 
 Make sure you ask the patient to:
 
-* spell their name, for example, Catherine could be Katherine, or Smith could be Smythe
+* spell their name, for example, Catherine could be Katherine, or Smith could be Smyth
 * confirm their previous postcode if they have recently moved
 
 If a patient is homeless, enter the postcode ZZ99 3VZ to find them. 
