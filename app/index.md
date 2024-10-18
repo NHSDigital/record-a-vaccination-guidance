@@ -30,14 +30,14 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 |-------------------------------|------------------|-------------|--------------------------|--------------------------|
 | Records                       | Yes              | Yes         | Yes                      | Yes                      |
 | Shows GP vaccination data     | Yes              | Yes         | No                       | No                       |
-| Sends vaccination data to GPs | Yes              | Yes         | Yes (by 11 October 2024) | Yes (by 11 October 2024) |
+| Sends vaccination data to GPs | Yes              | Yes         | Yes                      | Yes                      |
 
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-two-thirds">
 
 ### Data sent to GPs
 
-Vaccinations recorded in RAVS from 1 September onwards will be visible in the GP record by 11 October.
+Vaccinations recorded in RAVS are visible in the GP record.
 
 If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. This may create duplicate entries in the patient’s GP record.
 
