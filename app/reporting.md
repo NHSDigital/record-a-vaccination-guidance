@@ -25,14 +25,6 @@ Vaccination data is available for extract as soon as it’s recorded and saved. 
 
 You can create reports as often as you like.
 
-## Choosing dates
-
-Select preset dates or a custom date range of up to 31 days.
-
-Dates must be in the past.
-
-![Screen showing a user selecting a custom date range](/images/report-dates.png)
-
 ## Choosing vaccines
 
 To support the Autumn Winter campaign, RAVS records the following 4 vaccines:
