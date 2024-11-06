@@ -86,7 +86,7 @@ You cannot add users to other organisations.
 
 To change a user’s permission levels or clinician status, select ‘Change’ next to their name on the ‘Manage users’ screen.
 
-A change to permission levels becomes active when the user next logs in.You can change user permission levels and clinician status from the 'Manage users' screen.
+A change to permission levels becomes active when the user next logs in.
 
 ![Screen shows user the manage users screen](/images/manage-users-home.png)
 
