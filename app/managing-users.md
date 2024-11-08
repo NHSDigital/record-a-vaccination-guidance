@@ -100,6 +100,6 @@ Deactivated users will not be able to sign in to the Record a vaccination servic
 
 You can reactivate users at any time from the ‘Manage users’ screen.
 
-## Users across multiple organisation
+## Users across multiple organisations
 
 To add users to your organisation that are users in another organisation, they’ll need a different email address. They need a unique email address for each organisation.
