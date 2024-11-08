@@ -82,22 +82,24 @@ You cannot add users to other organisations.
 
 **Note**: In future, you'll be able to add users to your organisation even if their email is linked to another. This means when users log in they can switch between organisations. When we introduce this change, all varying email accounts will be merged into users’ primary emails.   
 
-## Changing users
+## Changing a user’s permissions or clinician status
 
-You can change user permission levels and clinician status from the 'Manage users' screen.
+To change a user’s permission levels or clinician status, select ‘Change’ next to their name on the ‘Manage users’ screen.
 
-If you remove their clinician status, they can no longer assess patients and record their consent.
-
-If you change their permission levels, this will become active when they log back into the service.
-
-**Important:** You cannot change your permission level if you’re the only 'Lead administrator' for your organisation.
+A change to permission levels becomes active when the user next logs in.
 
 ![Screen shows user the manage users screen](/images/manage-users-home.png)
 
-## Deleting users
+## Deactivating users
 
-Delete a user account by emailing [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) or by calling **0121 611 0187** (select option 3).
+If a user no longer works at your organisation, you can deactivate their account.
 
-## Users across multiple organisation
+Select ‘Change’ next to a name on the 'Manage users' screen. On the next screen you'll have the option to deactivate the account.
+
+Deactivated users will not be able to sign in to the Record a vaccination service.
+
+You can reactivate users at any time from the ‘Manage users’ screen.
+
+## Users across multiple organisations
 
 To add users to your organisation that are users in another organisation, they’ll need a different email address. They need a unique email address for each organisation.
