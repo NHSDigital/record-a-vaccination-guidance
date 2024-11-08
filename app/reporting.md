@@ -19,25 +19,15 @@ Only lead administrators and administrators can create reports.
 
 Vaccination data is available for extract as soon as it’s recorded and saved. You can extract data in a ‘.csv format’ (comma separated values) to support reporting within your organisation by choosing from a combination of:
 
-* dates (up to a maximum of 2 weeks)
+* dates (up to a maximum of 31 days)
 * vaccines
 * sites
 
-You aren’t restricted to how often or when you can create reports.
-
-## Choosing dates
-
-Select preset dates or a custom date range.
-
-The date range for custom reports is limited to 2 weeks. Dates must be in the past.
-
-**Note:** The maximum 2 week restriction is temporary, and we’re looking to remove this soon.
-
-![Screen showing a user selecting a custom date range](/images/report-dates.png)
+You can create reports as often as you like.
 
 ## Choosing vaccines
 
-To support the Autumn Winter campaign, RAVS will record the following 4 vaccines:
+To support the Autumn Winter campaign, RAVS records the following 4 vaccines:
 
 * COVID-19
 * Flu
