@@ -17,6 +17,4 @@ next:
 
 Only lead administrators and administrators can manage vaccines and batches.
 
-In this section you can add and manage vaccine batches.
-
 When a batch has run out, you can mark it as depleted. This means you will no longer be able to select that batch when recording a vaccination.
