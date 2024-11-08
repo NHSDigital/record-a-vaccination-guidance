@@ -82,7 +82,7 @@ You cannot add users to other organisations.
 
 **Note**: In future, you'll be able to add users to your organisation even if their email is linked to another. This means when users log in they can switch between organisations. When we introduce this change, all varying email accounts will be merged into users’ primary emails.   
 
-## Changing a user's permissions or clinician status
+## Changing a user’s permissions or clinician status
 
 To change a user’s permission levels or clinician status, select ‘Change’ next to their name on the ‘Manage users’ screen.
 
