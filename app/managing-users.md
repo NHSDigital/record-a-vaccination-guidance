@@ -23,7 +23,7 @@ To add a user, you must enter their:
 
 * First name
 * Last name
-* NHS-approved email address, for a list of approved domains. See the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
+* NHS-approved email address. For a list of approved domains, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
 * Clinician status
 
 ## Selecting clinician status
