@@ -23,7 +23,7 @@ To add a user, you must enter their:
 
 * First name
 * Last name
-* NHS-approved email address, for a list of approved domains, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
+* NHS-approved email address, for a list of approved domains. See the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
 * Clinician status
 
 ## Selecting clinician status
@@ -57,15 +57,15 @@ Okta allows new users to sign in and use RAVS.
 
 ## Adding a user to multiple organisations 
 
-From 13 December 2023 , you can add a user to more than 1 organisation, using the same email address for that user. 
+From 13 December 2023, you can add a user to more than 1 organisation, using the same email address for that user. 
 
-The user will be able to use the same email address to access RAVS at each organisation. 
+The user will then be able to use the same email address to access RAVS at each organisation. 
 
 Users can have different permission levels at each organisation.
 
 ## If a user was added to multiple organisations before 13 December 2024
 
-Before 13 December 2024 , to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
+Before 13 December 2024, to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
 
 If a user has more than 1 email address to access RAVS, they can continue to log in as before, using separate emails for each organisation.
 
