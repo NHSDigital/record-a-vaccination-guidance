@@ -59,7 +59,7 @@ Okta allows new users to sign in and use RAVS.
 
 From 16 December 2024, you can add a user to more than 1 organisation, using the same email address for that user. 
 
-The user will then be able to use the same email address to access RAVS at each organisation. 
+The user will then be able to use the same email address and Okta account to access RAVS at each organisation. 
 
 Users can have different permission levels at each organisation.
 
