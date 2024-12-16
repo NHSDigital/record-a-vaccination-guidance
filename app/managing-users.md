@@ -67,7 +67,7 @@ Users can have different permission levels at each organisation.
 
 Before 16 December 2024, to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
 
-If a user has more than 1 email address to access RAVS, they can continue to log in as before, using separate emails for each organisation.
+If a user has more than 1 email address to access RAVS, they can continue to log in as before, using separate emails and Okta accounts for each organisation.
 
 Or, if they want to only use their main email address to access RAVS at each organisation, they can do the following:
 
