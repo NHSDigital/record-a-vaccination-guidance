@@ -78,7 +78,7 @@ Any records previously created with an extra email account will remain unchanged
 
 ## If a user has been added to multiple organisations after 16 December 2024
 
-Each time they log in, they will see a screen listing all the organisations they’ve been added to. They then have to select the relevant organisation.
+Each time they log in, they will see a screen listing all the organisations they’re currently associated with. They then have to select the relevant organisation.
 
 To switch organisations, they need to log out, log back in and select a new organisation.
 
