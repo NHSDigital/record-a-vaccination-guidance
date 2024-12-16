@@ -23,7 +23,7 @@ To add a user, you must enter their:
 
 * First name
 * Last name
-* NHS-approved email address
+* NHS-approved email address. For a list of approved domains, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
 * Clinician status
 
 ## Selecting clinician status
@@ -55,32 +55,32 @@ Okta allows new users to sign in and use RAVS.
 * If users already have an Okta account for other NHS applications, then their RAVS account will be added to their existing Okta account.
 * If users are new to Okta, they’ll also receive an Okta email with instructions to set up their account. They’ll need to do this first to access RAVS.
 
-![Screen shows user a preview email before they send it](/images/manage-users-check.png)
+## Adding a user to multiple organisations 
 
-## Adding users when their ‘email already exists’ 
+From 16 December 2024, you can add a user to more than 1 organisation, using the same email address for that user. 
 
-RAVS cannot onboard users to multiple organisations with the same email address. Only one email can be linked to one organisation. 
+The user will then be able to use the same email address and Okta account to access RAVS at each organisation. 
 
-If you encounter an ‘email already exists’ error message while adding a user, their email is already linked to another organisation. To add this user to your organisation, you can use a variation of their email by including `+organisationname` to their email address.  
+Users can have different permission levels at each organisation.
 
-You must do this to help users identify which account they’re logging into. Not doing so, could lead to users recording vaccinations under an incorrect organisation.  
+## If a user was added to multiple organisations before 16 December 2024
 
-For example, Jane works across multiple organisations. Her primary email jane.carlton2@nhs.net is linked to Hollybrook hospital.  
+Before 16 December 2024, to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
 
-If you’re a lead user at: 
+If a user has more than 1 email address to access RAVS, they can continue to log in as before, using separate emails and Okta accounts for each organisation.
 
-* Greenwood pharmacy, add Jane to your organisation by entering jane.carlton2+greenwoodpharmacy@nhs.net 
-* Rosebush hospital, add Jane to your organisation by entering jane.carlton2+rosebushhospital@nhs.net
+Or, if they want to only use their main email address to access RAVS at each organisation, they can do the following:
 
-You cannot add users to other organisations.  
+* add themselves (or ask a lead admin to add them) to an organisation using their main email address
+* then deactivate (or ask a lead admin to deactivate) the extra email account they used previously for that organisation
 
-### What happens next? 
+Any records previously created with an extra email account will remain unchanged. 
 
-* Each email will have its own OKTA account and is linked to one organisation.  
-* When you add users to your organisation with a variation of their email, we’ll automatically send a RAVS and Okta welcome email. Emails are sent to users’ primary email inboxes with instructions to activate their accounts.  
-* Users must log in with the email linked to the organisation where they’re delivering vaccinations to maintain accurate clinical records. 
+## If a user has been added to multiple organisations after 16 December 2024
 
-**Note**: In future, you'll be able to add users to your organisation even if their email is linked to another. This means when users log in they can switch between organisations. When we introduce this change, all varying email accounts will be merged into users’ primary emails.   
+Each time they log in, they will see a screen listing all the organisations they’re currently associated with. They then have to select the relevant organisation.
+
+To switch organisations, they need to log out, log back in and select a new organisation.
 
 ## Changing a user’s permissions or clinician status
 
@@ -92,14 +92,12 @@ A change to permission levels becomes active when the user next logs in.
 
 ## Deactivating users
 
-If a user no longer works at your organisation, you can deactivate their account.
+If a user no longer works at your organisation, you must deactivate their account.
 
 Select ‘Change’ next to a name on the 'Manage users' screen. On the next screen you'll have the option to deactivate the account.
 
-Deactivated users will not be able to sign in to the Record a vaccination service.
+Deactivated users will no longer be able to sign in to RAVS at your organisation.
+
+If you deactivate a user who works at several organisations, they will only be deactivated from your organisation. Their access to RAVS at other organisations will not change. 
 
 You can reactivate users at any time from the ‘Manage users’ screen.
-
-## Users across multiple organisations
-
-To add users to your organisation that are users in another organisation, they’ll need a different email address. They need a unique email address for each organisation.
