@@ -9,6 +9,8 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-We’ve designed the Record a vaccination service (RAVS) with users to ensure it’s intuitive and easy to use.
+This guide explains how to use the Record a vaccination service. 
 
-This guidance and our [training webinar](https://vimeo.com/1004506156) explains how features work to make recording vaccinations easier. They may differ from how you’re used to recording vaccinations in other point of care systems.
+Not all sections will be relevant to all users.
+
+Reporting and managing vaccines will only be relevant if you are an administrator on RAVS. The section on managing users will only be relevant for lead administrators.
