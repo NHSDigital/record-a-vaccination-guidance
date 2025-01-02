@@ -59,7 +59,7 @@ If you work for one of the NHS regions, find out [how to onboard organisations](
 
 Telephone: 0121 611 0187 (select option 3)<br>
 Email: [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk)<br>
-Monday to Friday: 8am to 6pm.
+Monday to Friday: 8am to 6pm
 
 
 
