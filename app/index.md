@@ -53,7 +53,7 @@ If you work for one of the NHS regions, find out [how to onboard organisations](
 ## Get help
 
 * [What to do if there’s a service issue](https://guide.ravs.england.nhs.uk/service-unavailable/)
-* [Record your vaccinations using our paper form](/files/record-a-vaccination.docx)
+* [Record your vaccinations using our paper form](/files/record-a-vaccination-form.docx)
 
 ## Helpdesk
 
