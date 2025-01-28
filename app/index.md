@@ -4,7 +4,7 @@ title: Service guidance
 analytics_key: home
 ---
 
-The Record a vaccination service (RAVS) allows you to record COVID‑19, Flu, Pertussis and RSV patient and staff vaccinations.
+The Record a vaccination service (RAVS) allows you to record COVID‑19, flu, pertussis and RSV patient and staff vaccinations.
 
 The service only records data. You have control over clinical judgements or decisions.
 
@@ -39,11 +39,11 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 
 Vaccinations recorded in RAVS are visible in the GP record.
 
-If you record RSV and Pertussis vaccinations in RAVS, please do not send these records to GPs. This may create duplicate entries in the patient’s GP record.
+If you record RSV and pertussis vaccinations in RAVS, do not send these records to GPs. This may create duplicate entries in the patient’s GP record.
 
 ## Regional commissioners
 
-If you work for one of the NHS regions, find out [how to onboard organisations](/onboarding-organisations/).
+If you work for an NHS region, find out [how to onboard organisations](/onboarding-organisations/).
 
 ## Help us improve
 
@@ -57,7 +57,7 @@ If you work for one of the NHS regions, find out [how to onboard organisations](
 
 ## Helpdesk
 
-Telephone: 0121 611 0187 (select option 3)<br>
+Phone: 0333 038 4268 (select option 3)<br>
 Email: [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk)<br>
 Monday to Friday: 8am to 6pm
 
