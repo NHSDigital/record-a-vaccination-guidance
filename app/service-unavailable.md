@@ -39,8 +39,8 @@ previous:
 
 ## Report an issue
 
-To resolve system issues, please report them by calling our service desk on 0121 611 0187 (select option 3) or emailing <ravs.support@england.nhs.uk>.
+To resolve system issues, report them to our service desk by calling 0333 038 4268 (select option 3) or emailing <ravs.support@england.nhs.uk>.
 
 ## Download a paper form
 
-If you urgently need to record vaccinations, please [download our paper form](/files/record-a-vaccination-form.docx). When the service is available, you can enter the information from the form into RAVS.
+If you urgently need to record vaccinations, [download our paper form](/files/record-a-vaccination-form.docx). When the service is available, you can enter the information from the form into RAVS.
