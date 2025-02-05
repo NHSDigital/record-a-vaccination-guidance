@@ -23,8 +23,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./app/files')
 
   eleventyConfig.addPassthroughCopy({
-	"node_modules/@nhsbsa/cookie-consent-component/dist/cookie-banner.js": "cookie-banner.js"
-});
+    "node_modules/@nhsbsa/cookie-consent-component/dist/cookie-banner.js": "cookie-banner.js",
+    "node_modules/nhsuk-frontend/packages/assets": "nhsuk-frontend/assets",
+  });
 
   // Set up SASS
   eleventyConfig.addTemplateFormats("scss");
