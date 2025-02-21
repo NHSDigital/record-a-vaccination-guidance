@@ -29,7 +29,7 @@ To access the service, visit [www.ravs.england.nhs.uk](https://www.ravs.england.
 | What RAVS does                | COVID‑19         | Flu         | RSV                      | Pertussis                |
 |-------------------------------|------------------|-------------|--------------------------|--------------------------|
 | Records                       | Yes              | Yes         | Yes                      | Yes                      |
-| Shows GP vaccination data     | Yes              | Yes         | No                       | No                       |
+| Shows GP vaccination data     | Yes              | Yes         | Yes                       | No                       |
 | Sends vaccination data to GPs | Yes              | Yes         | Yes                      | Yes                      |
 
 </div></div>
