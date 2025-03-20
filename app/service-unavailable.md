@@ -7,7 +7,7 @@ parent:
   url: /guide
 previous:
   title: Managing vaccines
-  url: /manage-vaccines
+  url: /managing-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
