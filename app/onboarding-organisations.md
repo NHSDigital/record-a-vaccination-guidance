@@ -3,7 +3,7 @@ layout: page
 title: How to onboard organisations
 analytics_key: how-to-onboard-organisations
 ---
-Follow these steps or [watch our webinar](https://vimeo.com/1001103401) if your region has nominated you to invite providers to start using the Record a Vaccination Service (RAVS).
+Follow these steps or [watch our webinar](https://vimeo.com/1001103401) if your region has nominated you to invite providers to start using the Record a vaccination service (RAVS).
 
 1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account.
 
@@ -31,8 +31,8 @@ You can view all providers you’ve invited on the homepage. The ‘status’ wi
 
 ## Problems signing in?
 
-If you cannot find your Okta activation email, check your junk. Or email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) if it’s expired or you need help.
+If you cannot find your Okta activation email, check your junk. Or email [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) if it’s expired or you need help.
 
 ## Adding other users to the regional onboarding tool
 
-To add another regional user, a nominated user must email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) to request this.
+To add another regional user, send a request to [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) from your Regional Vaccination Operation Centre (RVOC) mailbox.
