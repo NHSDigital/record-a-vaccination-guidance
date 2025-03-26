@@ -31,8 +31,8 @@ You can view all providers you’ve invited on the homepage. The ‘status’ wi
 
 ## Problems signing in?
 
-If you cannot find your Okta activation email, check your junk. Or email [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) if it’s expired or you need help.
+If you cannot find your Okta activation email, check your junk. Or email [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) if it’s expired or you need help.
 
 ## Adding other users to the regional onboarding tool
 
-To add another regional user, send a request to [ravs.support@england.nhs.uk](ravs.support@england.nhs.uk) from your Regional Vaccination Operation Centre (RVOC) mailbox.
+To add another regional user, send a request to [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) from your Regional Vaccination Operation Centre (RVOC) mailbox.
