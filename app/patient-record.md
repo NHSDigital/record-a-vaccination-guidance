@@ -16,7 +16,7 @@ next:
 {% include 'guide-contents.njk' %}
 
 
-Once you've found a patient and opened their record, you'll see their details and vaccination history. You can check in patients using their patient identifiers and review their previous vaccinations.
+Once you've found a patient and opened their record, you'll see their details and vaccination history.
 
 If everything looks OK, continue to 'Choose vaccine'.
 
@@ -24,9 +24,9 @@ If everything looks OK, continue to 'Choose vaccine'.
 
 ## Vaccination history
 
-**You can view COVID-19 and Flu vaccinations in the history, unless the vaccine was recorded in the last 24 hours**. 
+**You can view COVID-19, flu and RSV vaccinations in the history, unless the vaccine was recorded in the last 24 hours**. 
 
-**You can view RSV and Pertussis vaccinations in history only if they’re recorded in RAVS**. Vaccinations recorded in other systems (like point of care and GP systems) will not be shown.  
+**You can only view pertussis vaccinations in the history if they were recorded in RAVS**. Pertussis vaccinations recorded in other systems (like point of care and GP systems) will not be shown.  
 
 ## Editing or deleting records within the vaccination history
 
@@ -43,4 +43,4 @@ If a duplicate or similar record exists in PDS and RAVS, they will appear on the
 
 ### Adding vaccination records after they have been administered
 
-**Important**: If you add vaccination records into RAVS after they have been administered, please check who gave the vaccine. For example, if another healthcare provider or setting administered it, RAVS will be recorded and displayed as the data source.
+**Important**: If you add vaccination records into RAVS after they have been administered, check who gave the vaccine. For example, if another healthcare provider or setting administered it, RAVS will be recorded and displayed as the data source.
