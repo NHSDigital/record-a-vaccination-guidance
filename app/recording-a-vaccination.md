@@ -45,7 +45,7 @@ The clinician will remain the same until you make new selections during your ses
 
 ### Selecting an assessment date
 
-Select an ‘Assessment date’ the patient is assessed. The date will remain the same until you make new selections during your session or log out. Select ‘Choose another date’ if the vaccination was in the past.
+Select the date the patient is assessed. The date will remain the same until you make new selections during your session or log out.
 
 ### Selecting an estimated due date (for maternity services)
 
@@ -55,7 +55,7 @@ The Pertussis or RSV vaccine should be given at a specific stage of the pregnanc
 
 If you do not vaccinate the patient, select a ‘Vaccine not given’ reason before you save and exit the patient’s record.
 
-![Screen showing a user a button to save and exit a patient’s record when they have chosen not to give them a vaccine](/images/assess-the-patient.png)
+![Screenhot of the Assess the patient screen](/images/assess-the-patient.png)
 
 ## Recording consent
 
