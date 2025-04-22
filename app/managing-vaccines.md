@@ -3,7 +3,7 @@ layout: page
 title: Managing vaccines
 analytics_key: managing-vaccines
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Managing users

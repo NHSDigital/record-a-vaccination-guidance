@@ -1,7 +1,7 @@
 {
   "name": "record-a-vaccination-guidance",
   "version": "0.0.1",
-  "description": "Guidance for the Record a vaccination pilot.",
+  "description": "Guidance for the Record a vaccination service.",
   "scripts": {
     "build": "eleventy --quiet",
     "start": "eleventy --serve --quiet"
