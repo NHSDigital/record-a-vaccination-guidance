@@ -3,7 +3,7 @@ layout: page
 title: Managing users
 analytics_key: managing-users
 parent:
-  title: How to use the pilot service
+  title: How to use the service
   url: /guide
 previous:
   title: Reporting
