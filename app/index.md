@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User guide
+title: User guide for the Record a vaccination service
 analytics_key: home
 next:
   title: Vaccination data
