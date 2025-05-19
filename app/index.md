@@ -1,7 +1,10 @@
 ---
-layout: home
-title: Service guidance
+layout: page
+title: User guide
 analytics_key: home
+next:
+  title: Vaccination data
+  url: /data
 ---
 
 {% include 'guide-contents.njk' %}
