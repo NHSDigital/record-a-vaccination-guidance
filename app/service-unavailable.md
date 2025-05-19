@@ -1,6 +1,6 @@
 ---
 layout: page
-title: If the service is unavailable
+title: Help and support
 analytics_key: service-unavailable
 previous:
   title: Managing vaccines
@@ -9,11 +9,19 @@ previous:
 
 {% include 'guide-contents.njk' %}
 
-## How to resolve issues
+## Helpdesk
 
-1. Try our mobile and web app troubleshooting tips
-2. If the issue persists, report an issue.
-3. Download our paper form if you need to record vaccinations urgently.
+To report a problem, contact our helpdesk.
+
+Phone: 0333 038 4268 (select option 3)
+Email: <ravs.support@england.nhs.uk>
+Monday to Friday: 8am to 6pm
+
+## Download a paper form
+
+If the service is not available and you urgently need to record vaccinations, [download our paper form](/files/record-a-vaccination-form.docx). 
+
+When the service is available, you can enter the information from the form into the system.
 
 ## Troubleshooting tips
 
@@ -34,10 +42,4 @@ previous:
 - Open RAVS in a different browser
 - Restart your computer
 
-## Report an issue
 
-To resolve system issues, report them to our service desk by calling 0333 038 4268 (select option 3) or emailing <ravs.support@england.nhs.uk>.
-
-## Download a paper form
-
-If you urgently need to record vaccinations, [download our paper form](/files/record-a-vaccination-form.docx). When the service is available, you can enter the information from the form into RAVS.
