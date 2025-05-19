@@ -2,9 +2,6 @@
 layout: page
 title: Reporting
 analytics_key: reporting
-parent:
-  title: How to use the service
-  url: /guide
 previous:
   title: Recording a vaccination
   url: /recording-a-vaccination
