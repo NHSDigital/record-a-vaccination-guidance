@@ -2,12 +2,9 @@
 layout: page
 title: Vaccination data
 analytics_key: reporting
-parent:
-  title: How to use the service
-  url: /guide
 previous:
   title: Overview
-  url: /guide
+  url: /
 next:
   title: Finding a patient
   url: /finding-a-patient
