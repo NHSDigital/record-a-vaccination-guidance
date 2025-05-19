@@ -2,12 +2,9 @@
 layout: page
 title: Finding a patient
 analytics_key: finding-a-patient
-parent:
-  title: How to use the service
-  url: /guide
 previous:
-  title: Overview
-  url: /guide
+  title: Vaccination data
+  url: /data
 next:
   title: Patient record
   url: /patient-record
