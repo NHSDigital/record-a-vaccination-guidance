@@ -1,12 +1,11 @@
 ---
 layout: page
-title: User guide
+title: How to use the Record a vaccination service
 analytics_key: home
 next:
   title: Vaccination data
   url: /data
 ---
-How to use the Record a vaccination service.
 
 {% include 'guide-contents.njk' %}
 
