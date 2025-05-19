@@ -11,10 +11,11 @@ previous:
 
 ## Helpdesk
 
-To report a problem, contact our helpdesk.
+To report a problem, contact our helpdesk:
 
-Phone: 0333 038 4268 (select option 3)  
-Email: <ravs.support@england.nhs.uk>  
+- call 0333 038 4268 (select option 3)
+- email <ravs.support@england.nhs.uk>
+
 Monday to Friday: 8am to 6pm
 
 ## Download a paper form
@@ -26,9 +27,9 @@ When the service is available, you can enter the information from the form into 
 ## Troubleshooting tips
 
 - Check you’re on the latest version of your browser
-- Clear your browser’s cache (press control, shift and delete together)
+- Clear your browser’s cache (press control, shift and delete together).
 - Open RAVS in a private or incognito window. You can typically do this from your browser’s tabs or menu buttons (often represented by 3 dots or bars).
-- Open RAVS in a different browser
-- Restart your computer
+- Open RAVS in a different browser.
+- Restart your computer.
 
 
