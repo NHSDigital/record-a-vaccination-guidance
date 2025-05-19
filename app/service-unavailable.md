@@ -13,8 +13,8 @@ previous:
 
 To report a problem, contact our helpdesk.
 
-Phone: 0333 038 4268 (select option 3)
-Email: <ravs.support@england.nhs.uk>
+Phone: 0333 038 4268 (select option 3)  
+Email: <ravs.support@england.nhs.uk>  
 Monday to Friday: 8am to 6pm
 
 ## Download a paper form
@@ -24,17 +24,6 @@ If the service is not available and you urgently need to record vaccinations, [d
 When the service is available, you can enter the information from the form into the system.
 
 ## Troubleshooting tips
-
-### Mobile app tips
-
-- Restart the app to resolve any temporary glitches or conflicts
-- Make sure your internet connection is active and stable
-- Switch off your device’s Wi-Fi connection. After 30 seconds, switch it back on
-- Update your devices’ operating system
-- Restart your device
-- Reinstall the app
-
-### Web app tips
 
 - Check you’re on the latest version of your browser
 - Clear your browser’s cache (press control, shift and delete together)
