@@ -15,9 +15,11 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-To find a patient quickly, follow these steps.
+To record a vaccination, first select the 'Find a patient' link in the header.
 
-## By NHS number
+You can search for a patient 3 different ways: by NHS number, by demographics or by searching local records. 
+
+## NHS number search
 
 The easiest way to find a matching result is to enter the patient’s 10-digit NHS number. For example, 485 777 3456.
 
@@ -25,13 +27,13 @@ If the patient needs to find their number, refer them to [Find your NHS number](
 
 ![Screen showing a user searching for a patient by entering their NHS number](/images/search-by-NHS-number.png)
 
-## By demographics
+## Demographics search
 
-Enter at least the patient’s first name, last name and date of birth. However, entering all 5 fields will increase your chances of finding an exact match immediately.
+If you do not have the patient's NHS number, you can try searching with demographic information. Enter at least the patient’s first name, last name and date of birth. However, entering all 5 fields will increase your chances of finding an exact match immediately.
 
 ![Screen showing a user searching for a patient by their demographics entering the required information](/images/find-by-demographic-search.png)
 
-## By local records
+## Local records search
 
 Local records are vaccinations saved in RAVS. Enter at least the first and last name to find a matching record.
 
@@ -39,7 +41,7 @@ Local records are vaccinations saved in RAVS. Enter at least the first and last 
 
 ## Search tips
 
-Patients’ names and postcodes are frequently misspelt or misentered.
+Patients’ names and postcodes are often incorrectly spelled or entered. 
 
 Make sure you ask the patient to:
 
