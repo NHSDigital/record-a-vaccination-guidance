@@ -1,19 +1,5 @@
 {% extends "_base.njk" %}
-{% from 'breadcrumb/macro.njk' import breadcrumb %}
 {% from 'pagination/macro.njk' import pagination %}
-
-{% block beforeContent %}
-  {{ breadcrumb({
-    items: [
-      {
-        href: ("/" | url),
-        text: "Home"
-      }
-    ],
-    href: (parent.url | url) if parent,
-    text: parent.title if parent
-  }) }}
-{% endblock %}
 
 {% block content %}
   <div class="nhsuk-grid-row">
