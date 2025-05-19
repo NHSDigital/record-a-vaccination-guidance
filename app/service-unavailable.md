@@ -2,9 +2,6 @@
 layout: page
 title: If the service is unavailable
 analytics_key: service-unavailable
-parent:
-  title: How to use the service
-  url: /guide
 previous:
   title: Managing vaccines
   url: /managing-vaccines
