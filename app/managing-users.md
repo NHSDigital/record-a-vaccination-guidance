@@ -12,9 +12,9 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-## Adding new users
-
 Only lead administrators can add and manage users.
+
+## Adding new users
 
 To add a user, you must enter their:
 
@@ -54,11 +54,17 @@ Okta allows new users to sign in and use RAVS.
 
 ## Adding a user to multiple organisations 
 
-From 16 December 2024, you can add a user to more than 1 organisation, using the same email address for that user. 
+You can add a user to more than 1 organisation, using the same email address for that user. 
 
 The user will then be able to use the same email address and Okta account to access RAVS at each organisation. 
 
 Users can have different permission levels at each organisation.
+
+### If a user has been added to multiple organisations
+
+Each time they log in, they will see a screen listing all the organisations they're currently associated with. They then have to select the relevant organisation.
+
+To switch organisations, they need to log out, log back in and select a new organisation.
 
 ## If a user was added to multiple organisations before 16 December 2024
 
@@ -68,16 +74,10 @@ If a user has more than 1 email address to access RAVS, they can continue to log
 
 Or, if they want to only use their main email address to access RAVS at each organisation, they can do the following:
 
-* add themselves (or ask a lead admin to add them) to an organisation using their main email address
-* then deactivate (or ask a lead admin to deactivate) the extra email account they used previously for that organisation
+* add themselves (or ask a lead administrator to add them) to an organisation using their main email address
+* then deactivate (or ask a lead administrator to deactivate) the extra email account they used previously for that organisation
 
 Any records previously created with an extra email account will remain unchanged. 
-
-## If a user has been added to multiple organisations after 16 December 2024
-
-Each time they log in, they will see a screen listing all the organisations they're currently associated with. They then have to select the relevant organisation.
-
-To switch organisations, they need to log out, log back in and select a new organisation.
 
 ## Changing a user's permissions or clinician status
 
