@@ -25,7 +25,7 @@ To add a user, you must enter their:
 
 ## Selecting clinician status
 
-Select ‘yes’ if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council. 
+Select 'yes' if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council. 
 
 As a result, they can be selected as assessing and consenting clinicians when recording vaccinations.
 
@@ -45,12 +45,12 @@ You can have more than one user for each permission level.
 
 ## Creating a RAVS account
 
-Once you have added a new user, we’ll automatically create a RAVS account and send them a welcome email to access the service.
+Once you have added a new user, we'll automatically create a RAVS account and send them a welcome email to access the service.
 
 Okta allows new users to sign in and use RAVS.
 
 * If users already have an Okta account for other NHS applications, then their RAVS account will be added to their existing Okta account.
-* If users are new to Okta, they’ll also receive an Okta email with instructions to set up their account. They’ll need to do this first to access RAVS.
+* If users are new to Okta, they'll also receive an Okta email with instructions to set up their account. They'll need to do this first to access RAVS.
 
 ## Adding a user to multiple organisations 
 
@@ -75,13 +75,13 @@ Any records previously created with an extra email account will remain unchanged
 
 ## If a user has been added to multiple organisations after 16 December 2024
 
-Each time they log in, they will see a screen listing all the organisations they’re currently associated with. They then have to select the relevant organisation.
+Each time they log in, they will see a screen listing all the organisations they're currently associated with. They then have to select the relevant organisation.
 
 To switch organisations, they need to log out, log back in and select a new organisation.
 
-## Changing a user’s permissions or clinician status
+## Changing a user's permissions or clinician status
 
-To change a user’s permission levels or clinician status, select ‘Change’ next to their name on the ‘Manage users’ screen.
+To change a user's permission levels or clinician status, select 'Change' next to their name on the 'Manage users' screen.
 
 A change to permission levels becomes active when the user next logs in.
 
@@ -91,10 +91,10 @@ A change to permission levels becomes active when the user next logs in.
 
 If a user no longer works at your organisation, you must deactivate their account.
 
-Select ‘Change’ next to a name on the 'Manage users' screen. On the next screen you'll have the option to deactivate the account.
+Select 'Change' next to a name on the 'Manage users' screen. On the next screen you'll have the option to deactivate the account.
 
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
 If you deactivate a user who works at several organisations, they will only be deactivated from your organisation. Their access to RAVS at other organisations will not change. 
 
-You can reactivate users at any time from the ‘Manage users’ screen.
+You can reactivate users at any time from the 'Manage users' screen.
