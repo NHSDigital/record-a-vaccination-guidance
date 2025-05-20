@@ -30,5 +30,5 @@ next:
 
 All vaccinations recorded in RAVS are visible in the patient's GP record.
 
-If you record RSV and pertussis vaccinations in RAVS, do not send these records to GPs. This may create duplicate entries in the patient’s GP record.
+If you record RSV and pertussis vaccinations in RAVS, do not send these records to GPs. This may create duplicate entries in the patient's GP record.
 
