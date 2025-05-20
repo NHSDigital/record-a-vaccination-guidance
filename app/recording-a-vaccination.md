@@ -3,8 +3,8 @@ layout: page
 title: Recording a vaccination
 analytics_key: recording-vaccinations
 previous:
-  title: Finding a patient
-  url: /finding-a-patient
+  title: Patient record
+  url: /patient-record
 next:
   title: Managing vaccines
   url: /managing-vaccines
