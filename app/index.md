@@ -10,7 +10,7 @@ next:
 {% include 'guide-contents.njk' %}
 
 
-- To log in, go to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk).
+- To log in, go to [www.ravs.england.nhs.uk/login](https://www.ravs.england.nhs.uk/login).
 
 - To help you get started, [book a training webinar](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/).
 
