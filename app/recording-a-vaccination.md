@@ -6,8 +6,8 @@ previous:
   title: Finding a patient
   url: /finding-a-patient
 next:
-  title: Reporting
-  url: /reporting
+  title: Managing vaccines
+  url: /managing-vaccines
 ---
 
 {% include 'guide-contents.njk' %}
