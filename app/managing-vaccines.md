@@ -3,11 +3,11 @@ layout: page
 title: Managing vaccines
 analytics_key: managing-vaccines
 previous:
-  title: Managing users
-  url: /managing-users
+  title: Recording a vaccination
+  url: /recording-a-vaccination
 next:
-  title: Service unavailable
-  url: /service-unavailable
+  title: Reporting
+  url: /reporting
 ---
 
 {% include 'guide-contents.njk' %}
