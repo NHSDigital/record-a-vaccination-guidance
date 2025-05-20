@@ -6,8 +6,8 @@ previous:
   title: Reporting
   url: /reporting
 next:
-  title: Managing vaccines
-  url: /managing-vaccines
+  title: Help and support
+  url: /service-unavailable
 ---
 
 {% include 'guide-contents.njk' %}
