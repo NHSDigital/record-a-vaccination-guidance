@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A guide to using Record a vaccination
+title: User guide for the Record a vaccination service
 analytics_key: home
 next:
   title: Vaccination data
