@@ -1,12 +1,11 @@
 ---
 layout: page
-title: How to use the Record a vaccination service
+title: A guide to the Record a vaccination service
 analytics_key: home
 next:
   title: Vaccination data
   url: /data
 ---
-Find out how to use the different sections of the service.
 
 To help you get started, you can also [book a training webinar](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/).
 
