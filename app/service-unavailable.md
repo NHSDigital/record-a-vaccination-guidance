@@ -26,8 +26,8 @@ When the service is available, you can enter the information from the form into 
 
 ## Troubleshooting tips
 
-- Check you're on the latest version of your browser
-- Clear your browser's cache (press control, shift and delete together).
+- Check you're on the latest version of your browser.
+- Clear your browser's cache.
 - Open RAVS in a private or incognito window. You can typically do this from your browser's tabs or menu buttons (often represented by 3 dots or bars).
 - Open RAVS in a different browser.
 - Restart your computer.
