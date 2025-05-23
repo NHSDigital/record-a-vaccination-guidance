@@ -3,10 +3,15 @@
 {{ contentsList({
   items: [
     {
-      href: "/guide",
+      href: "/",
       text: "Overview",
-      current: (page.url == "/guide/")
+      current: (page.url == "/")
     },
+    {
+      href: "/data",
+      text: "Vaccination data",
+      current: (page.url == "/data/")
+    }, 
     {
       href: "/finding-a-patient/",
       text: "Finding a patient",
@@ -23,6 +28,11 @@
       current: (page.url == "/recording-a-vaccination/")
     },
     {
+      href: "/managing-vaccines/",
+      text: "Managing vaccines",
+      current: (page.url == "/managing-vaccines/")
+    },
+    {
       href: "/reporting/",
       text: "Reporting",
       current: (page.url == "/reporting/")
@@ -32,14 +42,10 @@
       text: "Managing users",
       current: (page.url == "/managing-users/")
     },
-    {
-      href: "/managing-vaccines/",
-      text: "Managing vaccines",
-      current: (page.url == "/managing-vaccines/")
-    },
+    
     {
       href: "/service-unavailable/",
-      text: "If the service is unavailable",
+      text: "Help and support",
       current: (page.url == "/service-unavailable/")
     }
   ]

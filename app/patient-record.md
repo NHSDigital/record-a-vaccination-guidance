@@ -2,9 +2,6 @@
 layout: page
 title: Patient record
 analytics_key: patient-record
-parent:
-  title: How to use the service
-  url: /guide
 previous:
   title: Finding a patient
   url: /finding-a-patient
@@ -35,7 +32,7 @@ You can only:
 * edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.  
 * edit the information recorded on the 'Vaccinate' screen. You cannot change the assessment or consent screen because it changes the vaccination outcome. 
 
-**Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient’s future care.
+**Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient's future care.
 
 ### Duplicate records
 
