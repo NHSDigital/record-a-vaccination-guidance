@@ -9,7 +9,9 @@ Follow these steps if you are a regional lead responsible for inviting organisat
 
 ![Screen showing the user the onboarding tool home screen](/images/onboarding-organisations-home-empty.png)
 
-2. Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/). If you have any issues, email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net).
+2. Search and select an organisation by its ODS code, name, address or postcode. 
+
+This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/). If you have any issues, email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net).
 
 ![Screen showing the user has searched and selected an organisation](/images/onboarding-organisation-find.png)
 
@@ -26,7 +28,7 @@ Once a user activates their account, they can start using the service.
 
 ## Closing an organisation
 
-If an organisation has stopped using RAVS for any reason, you should deactivate it. 
+If an organisation has stopped using RAVS for any reason, you should deactivate it. This will start the closing process.
 
 1.	On the home page, select the organisation you want to close.
 2.	On the next page showing details of the organisation, select 'Deactivate organisation' and follow the instructions on screen.
@@ -54,7 +56,7 @@ The newly onboarded organisation will not have access to records that were creat
 
 You can view all the organisations you’ve invited on the home page. 
 
-The status will update from 'invited' to 'active' when the user logs into RAVS for the first time.
+The status will update from 'Invited' to 'Active' when the user logs into RAVS for the first time.
 
 You can also see if an organisation is 'Deactivated' or 'Closed'.  
 
