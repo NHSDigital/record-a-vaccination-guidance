@@ -3,7 +3,7 @@ layout: page
 title: How to onboard organisations
 analytics_key: how-to-onboard-organisations
 ---
-Follow these steps if your region has nominated you to invite organisations to start using the Record a vaccination service (RAVS).
+Follow these steps if you are a regional lead responsible for inviting organisations to start using the Record a vaccination service (RAVS).
 
 1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account.
 
@@ -28,13 +28,13 @@ Once a user activates their account, they can start using the service.
 
 If an organisation has stopped using RAVS for any reason, you should deactivate it. 
 
-As soon as an organisation has been deactivated, users will stop being able to record vaccinations for that organisation. 
-
-For 90 days, users will still be able to edit records and create reports. After 90 days, the organisation will be closed and users will no longer have any access to RAVS for that organisation.
-
 1.	On the home page, select the organisation you want to close.
 2.	On the next page showing details of the organisation, select 'Deactivate organisation' and follow the instructions on screen.
 3.	All the lead administrators at that organisation will receive an email telling them the organisation has been deactivated, and explaining how this will affect their access to RAVS.
+
+As soon as an organisation has been deactivated, users will stop being able to record vaccinations for that organisation. 
+
+For 90 days, users will still be able to edit records and create reports. After 90 days, the organisation will be closed and users will no longer have any access to RAVS for that organisation.
 
 ### How to reactivate a deactivated organisation
 
@@ -52,7 +52,9 @@ The newly onboarded organisation will not have access to records that were creat
 
 ## Viewing the status of organisations
 
-You can view all the organisations you’ve invited on the homepage. The status will update from 'invited' to 'active' when the user logs into RAVS for the first time.
+You can view all the organisations you’ve invited on the home page. 
+
+The status will update from 'invited' to 'active' when the user logs into RAVS for the first time.
 
 You can also see if an organisation is 'Deactivated' or 'Closed'.  
 
