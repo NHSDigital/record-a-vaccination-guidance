@@ -38,7 +38,9 @@ If an organisation has stopped using RAVS for any reason, you should deactivate 
 
 As soon as an organisation has been deactivated, users will stop being able to record vaccinations for that organisation. 
 
-For 90 days, users will still be able to edit records and create reports. After 90 days, the organisation will be closed and users will no longer have any access to RAVS for that organisation.
+For 90 days, users will still be able to edit records and create reports. 
+
+After 90 days, the organisation will be closed and users will no longer have any access to RAVS for that organisation.
 
 ### How to reactivate a deactivated organisation
 
