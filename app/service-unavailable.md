@@ -20,7 +20,10 @@ Monday to Friday: 8am to 6pm
 
 ## Download a paper form
 
-If the service is not available and you urgently need to record vaccinations, [download our paper form](/files/record-a-vaccination-form.docx). 
+If the service is not available and you urgently need to record vaccinations, download our paper form:
+
+- [RAVS paper form (Word)](/files/record-a-vaccination-form.docx)
+- [RAVS paper form (PDF)](/files/record-a-vaccination-form.pdf)
 
 When the service is available, you can enter the information from the form into the system.
 
