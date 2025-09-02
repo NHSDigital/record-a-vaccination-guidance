@@ -1,8 +1,10 @@
 ---
 layout: page
-title: How to onboard and offboard organisations
+title: Guidance for regional leads
 analytics_key: how-to-onboard-organisations
 ---
+How to onboard and offboard organisations, and how to give organisations access to additional vaccine types.  
+
 ## Onboarding an organisation
 
 Follow these steps if you are a regional lead responsible for inviting organisations to use the Record a vaccination service (RAVS).
@@ -13,11 +15,11 @@ Follow these steps if you are a regional lead responsible for inviting organisat
 
 2. Search and select an organisation by its ODS code, name, address or postcode. 
 
-This information is sourced from the [ODS (Organisation Data Service) portal](https://odsportal.digital.nhs.uk/). If you have any issues, email [exeter.helpdesk@nhs.net](mailto:exeter.helpdesk@nhs.net).
+This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/). 
 
-![Screen showing the user has searched and selected an organisation](/images/onboarding-organisation-find.png)
+3. Select the vaccinations the organisation can record.
 
-3. Nominate at least 2 users at the organisation.
+4. Nominate at least 2 users at the organisation.
 
 Your nominated users will:
 
@@ -65,6 +67,16 @@ The status will update from 'Invited' to 'Active' when the user logs into RAVS f
 You can also see if an organisation is 'Deactivated' or 'Closed'.  
 
 ![Screen showing the user has invited several organisations](/images/onboarding-organisations-home-invited.png)
+
+## Giving organisations access to additional vaccine types
+
+To give an organisation that is already using RAVS access to another vaccine type, follow these steps:
+
+1.	On the home page, select the organisation.
+2.	On the next page showing details of the organisation, select 'Add vaccines'.
+3.	On the next page, select the vaccines you want to add.
+
+Once you've added a vaccine type to an organisation, you cannot remove it. If you add one by mistake, email [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk).
 
 ## Problems signing in?
 
