@@ -17,8 +17,6 @@ Follow these steps if you are a regional lead responsible for inviting organisat
 
 This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/). 
 
-![Screen showing the user has searched and selected an organisation](/images/onboarding-organisation-find.png)
-
 3. Select the vaccinations the organisation can record.
 
 4. Nominate at least 2 users at the organisation.
