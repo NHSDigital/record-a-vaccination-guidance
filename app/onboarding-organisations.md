@@ -70,7 +70,7 @@ You can also see if an organisation is 'Deactivated' or 'Closed'.
 
 ## Giving organisations access to additional vaccine types
 
-To give an organisation that is already using RAVS access to another vaccine type , follow these steps:
+To give an organisation that is already using RAVS access to another vaccine type, follow these steps:
 
 1.	On the home page, select the organisation.
 2.	On the next page showing details of the organisation, select 'Add vaccines'.
