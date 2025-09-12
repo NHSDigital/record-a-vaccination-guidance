@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Help and support
+<span class="nhsuk-caption-l">User guide</span>
 analytics_key: service-unavailable
 previous:
   title: Managing vaccines
