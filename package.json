@@ -10,7 +10,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@x-govuk/govuk-eleventy-plugin": "^6.2.1",
     "@nhsbsa/cookie-consent-component": "^0.0.6",
-    "nhsuk-frontend": "^9.1.0"
+    "nhsuk-frontend": "^10.0.0"
   },
   "private": true
 }

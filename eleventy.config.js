@@ -7,9 +7,10 @@ module.exports = function(eleventyConfig) {
   // Set up Nunjucks
   let nunjucksEnvironment = new Nunjucks.Environment(
 		new Nunjucks.FileSystemLoader([
-      './node_modules/nhsuk-frontend/packages/components',
-      './node_modules/nhsuk-frontend/packages/macros',
-      './node_modules/govuk-frontend/dist',
+      './node_modules/nhsuk-frontend/dist/nhsuk/components',
+      './node_modules/nhsuk-frontend/dist/nhsuk/macros',
+      './node_modules/nhsuk-frontend/dist/nhsuk',
+      './node_modules/nhsuk-frontend/dist',
       'app/layouts',
       'app/_includes'
     ])

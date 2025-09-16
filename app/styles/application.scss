@@ -6,7 +6,7 @@ $govuk-assets-path: "/govuk/assets/";
 $govuk-border-colour: #d8dde0;
 
 // Import NHS Frontend
-@import "node_modules/nhsuk-frontend/packages/nhsuk";
+@import "nhsuk-frontend/dist/nhsuk";
 
 // Import GOV.UK Frontend
 @import "govuk-frontend/dist/govuk/all";
