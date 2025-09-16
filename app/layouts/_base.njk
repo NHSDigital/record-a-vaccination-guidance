@@ -26,10 +26,12 @@
 
 {% block footer %}
   {{ footer({
-    "links": [
-      {
-        "URL": "/cookie-preferences",
-        "label": "Cookies"
+    meta: {
+      items: [
+        {
+          href: "/cookie-preferences",
+          text: "Cookies"
+        }
       }
     ]
    })}}
