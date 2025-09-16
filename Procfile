@@ -1,1 +1,1 @@
-web: npx eleventy --serve --quiet --port=$PORT
+web: npx eleventy --serve --port=$PORT
