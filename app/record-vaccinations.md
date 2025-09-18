@@ -24,7 +24,7 @@ To find out more:
 
 ## What you’ll be asked in the new journey 
 
-When you record you first vaccination of the day or session, you’ll be asked the following in this order:
+When you record your first vaccination of the day or session, you’ll be asked the following in this order:
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
