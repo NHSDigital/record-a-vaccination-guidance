@@ -13,10 +13,8 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-On 1 October, we will be adding a new section called **Records**. 
+From 1 October 2025, there will be a new **Records** section, where you can view and edit vaccination records created by your organisation.  
 
-You'll be able to view and edit vaccination records your organisation has created. 
-
-Compared to the current edit journey, you'll be able to edit more fields. 
+You'll be able to edit more fields than previously.  
 
 It will not be possible initially to delete a record from this section. To delete a record, you will still need to go to the **Find a patient** section. 
