@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Record vaccinations
+title: NEW Record vaccinations
 analytics_key: record-vaccinations
 previous:
   title: Vaccination data
@@ -12,38 +12,65 @@ next:
 
 {% include 'guide-contents.njk' %}
 
+On 1 October, we will be adding a new simpler way to record vaccinations. 
+ 
+Until the end of November, the new **Record vaccinations** section will be available alongside the existing **Find a patient** section. 
 
-We have introduced a quicker and simpler way to record vaccinations.
+To familiarise yourself with the new **Record vaccinations** journey before 1 October, you can: 
 
-You can use this as an alternative to the existing **Find a patient** interface, which will remain available until 31 November 2025.
+•	watch this short video  
+•	read about the new journey on this page 
 
-## What’s changed?
 
-We have designed the new Record vaccinations interface to make it easier to select the most common options.
+## What you’ll be asked in the new journey 
 
-This means that you can more easily select:
+When you record you first vaccination of the day or session, you’ll be asked in this order for the following:
 
-* the vaccination date as being today
-* yourself as the vaccinator
-* that the patient gave their own consent
-* left or right arm for the injection site
+•	Date of vaccination 
+•	Site or team (only asked if your organisation has several sites) 
+•	Name of the vaccinator 
+•	Vaccine details  
+•	Batch  
+•	Eligibility (asked for all vaccinations except pertussis) 
+•	Location type (only asked for COVID-19) 
+•	Patient's NHS number or details 
+ 
+At this point you will be shown the patient's details and vaccination history.  
+You may then be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination. 
 
-Once you’ve recorded the vaccination, you have the option to give record a different vaccination for the same patient (co-administration) or to record the same vaccination for another patient. This will avoid having to re-answer the same questions.
+Next you'll be asked: 
 
-## Information no longer collected
+•	Patient's estimated due date (only asked for pertussis, and RSV if pregnant) 
+•	Consent details 
+•	Where on the body the vaccination was given (only asked for injected vaccines) 
+•	If a full dose was given (only asked for Fluenz nasal spray) 
+ 
+You'll then go to a Check and confirm screen, where you can review your answers and save the vaccination record.  
 
-Following a review, we no longer collect the following:
+### Recording the next vaccination 
 
-* assessment date
-* assessing and consenting clinician
-* legal mechanism
+Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record: 
 
-This information was never sent to GP records, and there is no national requirement to record this.
+•	another vaccination for the same patient (co-admin) 
+•	the same vaccination for another patient  
+•	a different vaccination for another patient  
 
+If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved. 
+
+## What’s changed compared to the old journey
+
+We’ve designed the new Record vaccinations journey to make it easier to select the most common answers. 
+
+We’ve dropped a few questions compared to the old **Find a patient** recording journey. Because NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
+
+•	Assessment date 
+•	Legal mechanism 
+•	Assessing clinician 
+•	Assessment outcome 
+•	Consenting clinician 
+  
+We’ve also made it easier and quicker to record another vaccination for the same patient, or to record the same vaccination for multiple patients.  
+ 
 ## Editing records
 
 If you need to correct a vaccination record you previously recorded, this feature has moved to the new **Records** section.
-
-You are now able to edit all of the fields except for date, vaccine and product.
-
-It is not yet possible to delete a record from this section. If you need to delete a record you should do so from the **Find a patient** section.
