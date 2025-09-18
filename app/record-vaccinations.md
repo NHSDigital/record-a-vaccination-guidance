@@ -24,7 +24,7 @@ To find out more:
 
 ## What you’ll be asked in the new journey 
 
-When you record you first vaccination of the day or session, you’ll be asked for the following in this order:
+When you record you first vaccination of the day or session, you’ll be asked the following in this order:
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
@@ -46,7 +46,7 @@ Next you'll be asked:
 * Where on the body the vaccination was given (only asked for injected vaccines)
 * If a full dose was given (only asked for Fluenz nasal spray) 
  
-You'll then go to a Check and confirm screen, where you can review your answers and save the vaccination record.  
+You'll then see a Check and confirm screen, where you can review your answers and save the vaccination record.  
 
 ### Recording the next vaccination 
 
@@ -74,4 +74,4 @@ We’ve also made it easier and quicker to record another vaccination for the sa
  
 ## Editing records
 
-If you need to correct a vaccination record you previously recorded, this feature has moved to the new **Records** section.
+If you need to edit a vaccination record you previously recorded, this feature has moved to the new **Records** section.
