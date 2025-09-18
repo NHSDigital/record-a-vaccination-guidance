@@ -12,13 +12,13 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-On 1 October, we will be adding a new simpler way to record vaccinations. 
+From 1 October 2025, there will be a new simpler way to record vaccinations.
  
-Until the end of November, the new **Record vaccinations** section will be available alongside the existing **Find a patient** section. 
+The new **Record vaccinations** section will be available alongside the existing **Find a patient** section until the end of November. In December, the **Find a patient** section will be removed.  
 
-To familiarise yourself with the new **Record vaccinations** journey before 1 October, you can: 
+To find out more: 
 
-* watch this short video
+* watch this short video of the new journey
 * read about the new journey on this page 
 
 
