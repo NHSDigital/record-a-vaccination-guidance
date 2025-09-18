@@ -61,6 +61,22 @@ Once you have entered all required fields to create a new patient record, you ca
 
 Once you've found a patient and opened their record, you'll see their details and vaccination history.
 
-## Vaccination history
+## Patient record and vaccination history
 
+![Screen showing a user the patient’s details and vaccination history](/images/patient-details.png)
+
+You can view NHS vaccinations given in England and recorded at least 24 hours ago. Currently the history includes COVID-19, flu, MMR and RSV, plus some pertussis and pneumococcal vaccination records. 
+
+## Editing or deleting records within the vaccination history
+
+You can only:
+
+* edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.  
+* edit the information recorded on the 'Vaccinate' screen. You cannot change the assessment or consent screen because it changes the vaccination outcome. 
+
+**Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient's future care.
+
+If everything looks OK in the vaccination history, continue to **Choose a vaccine**.
+
+## Choose a vaccine
 
