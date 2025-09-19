@@ -12,16 +12,20 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-## Data the service records, shows and sends
+## Data the service records, sends and shows
 
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-full">
 
-| What RAVS does                | COVID‑19    | Flu         | MMR         | Pertussis   | Pneumococcal | RSV         |
-|-------------------------------|-------------|-------------|-------------|-------------|--------------|-------------|
-| Records                       | Yes         | Yes         | Yes         | Yes         | Yes          |  Yes        |
-| Shows GP vaccination data     | Yes         | Yes         | No          | No          | No           |  Yes        |
-| Sends vaccination data to GPs | Yes         | Yes         | Yes         | Yes         | Yes          |  Yes        |
+| Vaccine          | Can be recorded | Records sent to GPs | Vaccination data from GPs shown |
+|------------------|-----------------|---------------------|---------------------------------|
+| COVID-19         | Yes             | Yes                 | Yes                             |
+| Flu              | Yes             | Yes                 | Yes                             |
+| MMR              | Yes             | Yes                 | No                              |
+| Pertussis        | Yes             | Yes                 | No                              |
+| Pneumococcal     | Yes             | Yes                 | No                              |
+| RSV              | Yes             | Yes                 | Yes                             |
+
 
 </div></div>
 <div class="nhsuk-grid-row"><div class="nhsuk-grid-column-two-thirds">
