@@ -14,7 +14,7 @@ next:
 
 From 1 October 2025, there will be a new simpler way to record vaccinations.
  
-The new **Record vaccinations** section will be available alongside the existing **Find a patient** section until the end of November. In December, the **Find a patient** section will be removed.  
+The new **Record vaccinations** section will be available alongside the existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section until the end of November. In December, **Find a patient** will be removed.  
 
 To find out more: 
 
@@ -22,7 +22,7 @@ To find out more:
 * read about the new journey on this page 
 
 
-## What you’ll be asked in the new journey 
+## What you’ll be asked 
 
 When you record your first vaccination of the day or session, you’ll be asked the following in this order:
 
@@ -74,4 +74,4 @@ We’ve also made it easier and quicker to record another vaccination for the sa
  
 ## Editing records
 
-If you need to edit a vaccination record you previously recorded, this feature has moved to the new **Records** section.
+If you need to edit a vaccination record you previously recorded, this feature has moved to the new [Records](https://guide.ravs.england.nhs.uk/records/) section.
