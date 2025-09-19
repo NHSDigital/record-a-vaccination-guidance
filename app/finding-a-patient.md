@@ -3,8 +3,8 @@ layout: page
 title: Finding a patient
 analytics_key: finding-a-patient
 previous:
-  title: Vaccination data
-  url: /data
+  title: Overview
+  url: /
 next:
   title: Patient record
   url: /patient-record
