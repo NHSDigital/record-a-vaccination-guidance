@@ -14,7 +14,7 @@ next:
 
 From 1 October 2025, there will be a new **Records** section, where you can view and edit vaccination records created by your organisation.  
 
-You'll be able to edit more fields than previously. Any of the following can now be edited:   
+More fields can be edited than previously. You'll be able to change any of the following:   
 
 * Batch
 * Vaccinator
