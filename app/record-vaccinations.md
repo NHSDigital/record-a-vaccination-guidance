@@ -3,11 +3,11 @@ layout: page
 title: NEW Record vaccinations
 analytics_key: record-vaccinations
 previous:
-  title: Vaccination data
-  url: /data
-next:
-  title: Finding a patient
+  title: Find a patient and record a vaccinations
   url: /finding-a-patient
+next:
+  title: Managing vaccines
+  url: /managing-vaccines
 ---
 
 {% include 'guide-contents.njk' %}

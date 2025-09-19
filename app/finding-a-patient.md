@@ -6,8 +6,8 @@ previous:
   title: Vaccination data
   url: /data
 next:
-  title: Patient record
-  url: /patient-record
+  title: Record vaccinations
+  url: /record-vaccinations
 ---
 
 {% include 'guide-contents.njk' %}

@@ -6,7 +6,7 @@ previous:
   title: Overview
   url: /
 next:
-  title: Finding a patient
+  title: Find a patient and record a vaccinations
   url: /finding-a-patient
 ---
 
