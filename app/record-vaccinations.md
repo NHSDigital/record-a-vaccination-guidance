@@ -18,13 +18,13 @@ The new **Record vaccinations** section will be available alongside the existing
 
 To find out more: 
 
-* watch this short video of the new journey
-* read about the new journey on this page 
+* watch this short video
+* read this page
 
 
-## What you’ll be asked 
+## What you’ll be asked in Record vaccinations
 
-When you record your first vaccination of the day or session, you’ll be asked the following in this order:
+When you record your first vaccination of the day or session, you’ll be asked the following, in this order:
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
@@ -58,11 +58,11 @@ Once the first vaccination you've recorded has been saved, you have 3 options fo
 
 If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved. 
 
-## What’s changed compared to the old journey
+## What’s changed
 
-We’ve designed the new Record vaccinations journey to make it easier to select the most common answers. 
+We’ve designed **Record vaccinations** to make it easier to select the most common answers. 
 
-We’ve dropped a few questions compared to the old **Find a patient** recording journey. Because NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
+We’ve dropped a few questions compared to **Find a patient**. Because NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
 
 * Assessment date
 * Legal mechanism
