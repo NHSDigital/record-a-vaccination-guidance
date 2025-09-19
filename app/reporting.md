@@ -3,8 +3,8 @@ layout: page
 title: Reporting
 analytics_key: reporting
 previous:
-  title: Managing vaccines
-  url: /managing-vaccines
+  title: Records
+  url: /records
 next:
   title: Managing users
   url: /managing-users

@@ -3,11 +3,11 @@ layout: page
 title: Managing vaccines
 analytics_key: managing-vaccines
 previous:
-  title: Recording a vaccination
-  url: /recording-a-vaccination
+  title: Record vaccinations
+  url: /record-vaccinations
 next:
-  title: Reporting
-  url: /reporting
+  title: Records
+  url: /records
 ---
 
 {% include 'guide-contents.njk' %}
