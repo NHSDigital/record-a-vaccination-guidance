@@ -46,7 +46,7 @@ Next you'll be asked:
 * Where on the body the vaccination was given (only asked for injected vaccines)
 * If a full dose was given (only asked for Fluenz nasal spray) 
  
-You'll then see a Check and confirm screen, where you can review your answers and save the vaccination record.  
+You'll then see a Check and confirm screen, where you can review your answers, add an optional note and save the vaccination record.  
 
 ### Recording the next vaccination 
 
@@ -62,7 +62,7 @@ If you choose either of the first 2 options, you’ll skip a number of questions
 
 We’ve designed **Record vaccinations** to make it easier to select the most common answers. 
 
-We’ve dropped a few questions compared to **Find a patient**. Because NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
+We’ve dropped a few questions compared to **Find a patient**. As NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
 
 * Assessment date
 * Legal mechanism
