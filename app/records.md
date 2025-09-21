@@ -16,10 +16,10 @@ From 1 October 2025, there will be a new **Records** section, where you can view
 
 More fields can be edited than previously. You'll be able to change any of the following:   
 
-* Batch
 * Vaccinator
-* Location (only applies to COVID-19)
+* Batch
 * Eligibility
+* Location type (only applies to COVID-19)
 * Consent details
 * Injection site
 * Full or half dose (only applies to Fluenz nasal spray)
