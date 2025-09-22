@@ -14,9 +14,9 @@ next:
 
 From 1 October 2025, there will be a new simpler way to record vaccinations.
  
-Until the end of November, the new **Record vaccinations** section will be available alongside the existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section. In December, **Find a patient** will be removed.  
+The new **Record vaccinations** section will be available alongside the existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section until 30 November 2025. You can use either option to record vaccinations.
 
-Find out more about the new section on this page.
+INSERT VIDEO OR LINK TO VIDEO HERE
 
 ## What you’ll be asked in Record vaccinations
 
@@ -46,6 +46,8 @@ You'll then see a Check and confirm screen, where you can review your answers, a
 
 ### Recording the next vaccination 
 
+We’ve made it easier and quicker to record more than 1 vaccination for the same patient, or to record the same vaccination for multiple patients.  
+
 Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record: 
 
 * another vaccination for the same patient (co-admin)
@@ -58,7 +60,7 @@ If you choose either of the first 2 options, you’ll skip a number of questions
 
 We’ve designed **Record vaccinations** to make it easier to select the most common answers. 
 
-We’ve dropped a few questions compared to **Find a patient**. As NHS England does not require these details to be recorded in RAVS, we no longer ask for: 
+We’ve removed the following questions because NHS England no longer requires these details to be recorded in RAVS: 
 
 * Assessment date
 * Legal mechanism
@@ -66,8 +68,6 @@ We’ve dropped a few questions compared to **Find a patient**. As NHS England d
 * Assessment outcome
 * Consenting clinician 
   
-We’ve also made it easier and quicker to record another vaccination for the same patient, or to record the same vaccination for multiple patients.  
- 
 ## Editing records
 
 If you need to edit a vaccination record you previously recorded, this feature has moved to the new [Records](https://guide.ravs.england.nhs.uk/records/) section.
