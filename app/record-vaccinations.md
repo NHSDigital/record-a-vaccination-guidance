@@ -46,7 +46,7 @@ You'll then see a Check and confirm screen, where you can review your answers, a
 
 ### Recording the next vaccination 
 
-We’ve made it easier and quicker to record more than 1 vaccination for the same patient, or to record the same vaccination for multiple patients.  
+We’ve made it easier and quicker to record several vaccinations for the same patient, or to record the same vaccination for multiple patients.  
 
 Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record: 
 
