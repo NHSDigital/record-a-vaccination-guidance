@@ -16,6 +16,10 @@ From 1 October 2025, there will be a new simpler way to record vaccinations.
  
 The new **Record vaccinations** section will be available alongside the existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section until 30 November 2025. You can use either option to record vaccinations.
 
+## Video: Record vaccinations
+
+This short video shows the new way to record a vaccination 
+
 INSERT VIDEO OR LINK TO VIDEO HERE
 
 ## What you’ll be asked in Record vaccinations
