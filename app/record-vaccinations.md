@@ -35,7 +35,7 @@ When you record your first vaccination of the day or session, you’ll be asked 
 * Location type (only asked for COVID-19)
 * Patient's NHS number or details 
  
-At this point the system will search for the patient and show you the patient's details and vaccination history.  
+At this point you'll be shown the patient's details and vaccination history.  
 
 You may also be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination. 
 
@@ -64,7 +64,7 @@ If you choose either of the first 2 options, you’ll skip a number of questions
 
 We’ve designed **Record vaccinations** to make it easier to select the most common answers. 
 
-We’ve removed the following questions because NHS England no longer requires these details to be recorded in RAVS: 
+We’ve removed the following questions because this information is not sent to NHS England or to GP records: 
 
 * Assessment date
 * Legal mechanism
