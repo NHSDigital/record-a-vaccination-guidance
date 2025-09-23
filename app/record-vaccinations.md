@@ -18,7 +18,7 @@ The new **Record vaccinations** section will be available alongside the existing
 
 ## Video: Record vaccinations
 
-This short video shows the new way to record a vaccination 
+This short video shows the new way to record a vaccination.
 
 INSERT VIDEO OR LINK TO VIDEO HERE
 
