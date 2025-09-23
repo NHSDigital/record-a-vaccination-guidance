@@ -35,9 +35,9 @@ When you record your first vaccination of the day or session, you’ll be asked 
 * Location type (only asked for COVID-19)
 * Patient's NHS number or details 
  
-At this point the system will search for the patient and you will be shown the patient's details and vaccination history.  
+At this point the system will search for the patient and show you the patient's details and vaccination history.  
 
-You may then be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination. 
+You may also be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination. 
 
 Next you'll be asked: 
 
