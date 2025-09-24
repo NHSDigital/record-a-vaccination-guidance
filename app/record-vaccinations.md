@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEW Record vaccinations
+title: Record vaccinations
 analytics_key: record-vaccinations
 previous:
   title: Find a patient and record a vaccinations

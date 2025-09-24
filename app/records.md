@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEW Records
+title: Records
 analytics_key: record-vaccinations
 previous:
   title: Managing vaccines
