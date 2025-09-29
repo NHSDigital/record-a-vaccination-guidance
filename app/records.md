@@ -12,7 +12,7 @@ next:
 
 {% include 'guide-contents.njk' %}
 
-From the first week of October, there will be a new **Records** section, where you can view and edit vaccination records created by your organisation.  
+**Records** is a new section, where you can view and edit vaccination records created by your organisation.  
 
 More fields can be edited than previously. You'll be able to change any of the following:   
 
