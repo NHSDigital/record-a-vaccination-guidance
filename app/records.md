@@ -18,7 +18,6 @@ More fields can be edited than previously. You'll be able to change any of the f
 
 * Vaccinator
 * Batch
-* Eligibility
 * Location type (only applies to COVID-19)
 * Consent details
 * Injection site
