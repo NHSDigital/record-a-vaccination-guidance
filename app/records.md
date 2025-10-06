@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Records
-analytics_key: record-vaccinations
+analytics_key: records
 previous:
   title: Managing vaccines
   url: /managing-vaccines
