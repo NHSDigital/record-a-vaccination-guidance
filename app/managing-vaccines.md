@@ -24,7 +24,7 @@ This short video shows you how to add vaccines.
 <br>
 <br>
 
-## Adding vaccines
+## How to add vaccines
 
 Select the 'Vaccines' link in the header. This will take you to the Vaccines home screen. 
 
