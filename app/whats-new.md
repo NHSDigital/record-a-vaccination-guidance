@@ -32,4 +32,3 @@ Find out about the latest changes to the Record a vaccination service.
 - Record vaccinations is a new section for recording vaccinations. It will replace the Find a patient section in future.
 - Records is a new section where you can view and edit records.
 
-{% extends 'layout.html' %}
