@@ -23,7 +23,7 @@ Find out about the latest changes to the Record a vaccination service.
 - The name and address of the patient's GP surgery is now shown on the patient's details and vaccination history.
 - The ODS code of the patient's GP surgery is now included in reports.
 
-## COVID-19 vaccine products
+## 30 September 2025: COVID-19 vaccine products
       
 - The list of COVID-19 vaccine products has been updated for this Autumn/Winter campaign.
 
