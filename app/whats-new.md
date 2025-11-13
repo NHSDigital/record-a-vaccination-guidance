@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What's new
-analytics_key: service-unavailable
+analytics_key: whats-new
 previous:
   title: What's new
   url: /whats-new
