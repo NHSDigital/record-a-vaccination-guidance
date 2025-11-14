@@ -1,13 +1,10 @@
 ---
 layout: page
+caption: User guide
 title: Record vaccinations
 analytics_key: record-vaccinations
-previous:
-  title: Find a patient and record a vaccinations
-  url: /finding-a-patient
-next:
-  title: Managing vaccines
-  url: /managing-vaccines
+showPagination: true
+order: 3
 ---
 
 {% include 'guide-contents.njk' %}
@@ -33,45 +30,45 @@ When you record your first vaccination of the day or session, you’ll be asked 
 * Batch
 * Eligibility (asked for all vaccinations except pertussis)
 * Location type (only asked for COVID-19)
-* Patient's NHS number or details 
- 
-At this point you'll be shown the patient's details and vaccination history.  
+* Patient's NHS number or details
 
-You may also be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination. 
+At this point you'll be shown the patient's details and vaccination history.
 
-Next you'll be asked: 
+You may also be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination.
+
+Next you'll be asked:
 
 * Patient's estimated due date (only asked for pertussis, and RSV if pregnant)
 * Consent details
 * Where on the body the vaccination was given (only asked for injected vaccines)
-* If a full dose was given (only asked for Fluenz nasal spray) 
- 
-You'll then see a Check and confirm screen, where you can review your answers, add an optional note and save the vaccination record.  
+* If a full dose was given (only asked for Fluenz nasal spray)
 
-### Recording the next vaccination 
+You'll then see a Check and confirm screen, where you can review your answers, add an optional note and save the vaccination record.
 
-We’ve made it easier and quicker to record several vaccinations for the same patient, or to record the same vaccination for multiple patients.  
+### Recording the next vaccination
 
-Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record: 
+We’ve made it easier and quicker to record several vaccinations for the same patient, or to record the same vaccination for multiple patients.
+
+Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record:
 
 * another vaccination for the same patient (co-admin)
 * the same vaccination for another patient
-* a different vaccination for another patient  
+* a different vaccination for another patient
 
-If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved. 
+If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved.
 
 ## What’s changed
 
-We’ve designed **Record vaccinations** to make it easier to select the most common answers. 
+We’ve designed **Record vaccinations** to make it easier to select the most common answers.
 
-We’ve removed the following questions because this information is not sent to NHS England or to GP records: 
+We’ve removed the following questions because this information is not sent to NHS England or to GP records:
 
 * Assessment date
 * Legal mechanism
 * Assessing clinician
 * Assessment outcome
-* Consenting clinician 
-  
+* Consenting clinician
+
 ## Editing records
 
 If you need to edit a vaccination record you previously recorded, this feature has moved to the new [Records](https://guide.ravs.england.nhs.uk/records/) section.
