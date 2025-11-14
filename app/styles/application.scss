@@ -1,23 +1,11 @@
-// GOV.UK Frontend options
-$govuk-font-family: "Frutiger W01", arial, sans-serif;
-$govuk-global-styles: false;
-$govuk-new-link-styles: true;
-$govuk-assets-path: "/govuk/assets/";
-$govuk-border-colour: #d8dde0;
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
-// Import NHS Frontend
-@import "nhsuk-frontend/dist/nhsuk";
-
-// Import GOV.UK Frontend
-@import "govuk-frontend/dist/govuk/all";
-
-// Import GOV.UK Prototype Components
-@import "@x-govuk/govuk-prototype-components/x-govuk/all";
+@forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
 
 @import "cookie-banner";
 
 // Screenshots within main column
-.nhsuk-grid-column-two-thirds img {
+.app-prose-scope img {
   border: 5px solid white;
   max-width: 100%;
 }
@@ -38,7 +26,10 @@ $govuk-border-colour: #d8dde0;
   text-decoration: underline;
 }
 
-.nhsuk-contents-list__link:hover .app-contents-list__link-text {
+.nhsuk-contents-list__current .app-contents-list__link-text {
   text-decoration: none;
 }
 
+.nhsuk-contents-list__link:hover .app-contents-list__link-text {
+  text-decoration: none;
+}

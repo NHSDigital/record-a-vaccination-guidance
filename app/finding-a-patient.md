@@ -2,18 +2,14 @@
 layout: page
 title: Find a patient and record a vaccination
 analytics_key: finding-a-patient
-previous:
-  title: Overview
-  url: /
-next:
-  title: Record vaccinations
-  url: /record-vaccinations
+showPagination: true
+order: 2
 ---
 
 {% include 'guide-contents.njk' %}
 This page describes how to record a vaccination using the **Find a patient** link in the navigation. This way of recording vaccinations will be phased out at the end of November 2025 as it's being replaced by the new **Record vaccinations** section.
 
-## Find a patient 
+## Find a patient
 To find a patient quickly, follow these steps.
 
 ### By NHS number
@@ -45,7 +41,7 @@ Make sure you ask the patient to:
 * spell their name, for example, Catherine could be Katherine, or Smith could be Smyth
 * confirm their previous postcode if they have recently moved
 
-If a patient is homeless, enter the postcode ZZ99 3VZ to find them. 
+If a patient is homeless, enter the postcode ZZ99 3VZ to find them.
 
 ### If you cannot find a match
 
@@ -65,14 +61,14 @@ Once you've found a patient and opened their record, you'll see their details an
 
 ![Screen showing a user the patient’s details and vaccination history](/images/patient-details.png)
 
-You can view NHS vaccinations given in England and recorded at least 24 hours ago. Currently the history includes COVID-19, flu, MMR and RSV, plus some pertussis and pneumococcal vaccination records. 
+You can view NHS vaccinations given in England and recorded at least 24 hours ago. Currently the history includes COVID-19, flu, MMR and RSV, plus some pertussis and pneumococcal vaccination records.
 
 ## Editing or deleting records within the vaccination history
 
 You can only:
 
-* edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.  
-* edit the information recorded on the 'Vaccinate' screen. You cannot change the assessment or consent screen because it changes the vaccination outcome. 
+* edit or delete vaccination records saved in RAVS. You cannot change records captured in other systems.
+* edit the information recorded on the 'Vaccinate' screen. You cannot change the assessment or consent screen because it changes the vaccination outcome.
 
 **Important**: Be cautious when deleting a vaccination record. Incorrectly doing so could impact the patient's future care.
 
@@ -156,7 +152,7 @@ If you're recording a vaccination that happened in the past, you can select a ba
 
 ### Selecting a vaccinator
 
-Select and record registered clinicians or non-registered staff that appear under 'Vaccinator'. You'll see users that have been added with or without a clinician status. For more information, see [managing users](https://guide.ravs.england.nhs.uk/managing-users/). 
+Select and record registered clinicians or non-registered staff that appear under 'Vaccinator'. You'll see users that have been added with or without a clinician status. For more information, see [managing users](https://guide.ravs.england.nhs.uk/managing-users/).
 
 A vaccinator will remain the same until you make new selections during your session or log out.
 

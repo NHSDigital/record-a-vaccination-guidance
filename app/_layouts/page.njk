@@ -1,0 +1,34 @@
+{% extends "layouts/base.njk" %}
+
+{% block head %}
+  <link rel="stylesheet" href="{{ "/styles/application.css" | url }}">
+  <script src="/cookie-banner.js" ></script>
+{% endblock %}
+
+{% block bodyStart %}
+  {% include "cookie-banner.njk" %}
+{% endblock %}
+
+{% block content %}
+  {{ appDocumentHeader({
+    caption: caption,
+    title: title,
+    description: description
+  }) }}
+
+  {{ appProseScope(content) if content }}
+
+  {% if showPagination %}
+    {% set previous = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getPreviousNavigationItem(page.url) %}
+    {% set next = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getNextNavigationItem(page.url) %}
+    {{ nhsukPagination({
+      classes: "nhsuk-u-reading-width",
+      previousUrl: previous.url if previous,
+      previousPage: previous.title if previous,
+      nextUrl: next.url if next,
+      nextPage: next.title if next
+    }) }}
+  {% endif %}
+
+  {{ appRelated(related) if related }}
+{% endblock %}

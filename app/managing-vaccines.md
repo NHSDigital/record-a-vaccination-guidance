@@ -1,20 +1,17 @@
 ---
 layout: page
+caption: User guide
 title: Managing vaccines
 analytics_key: managing-vaccines
-previous:
-  title: Record vaccinations
-  url: /record-vaccinations
-next:
-  title: Records
-  url: /records
+showPagination: true
+order: 4
 ---
 
 {% include 'guide-contents.njk' %}
 
 Only lead administrators and administrators can manage vaccines and batches.
 
-You will not be able to record vaccinations until you've added vaccines for your site. 
+You will not be able to record vaccinations until you've added vaccines for your site.
 
 ## Video: Adding vaccines
 
@@ -26,7 +23,7 @@ This short video shows you how to add vaccines.
 
 ## How to add vaccines
 
-Select the 'Vaccines' link in the header. This will take you to the Vaccines home screen. 
+Select the 'Vaccines' link in the header. This will take you to the Vaccines home screen.
 
 Then select 'Add vaccine' and follow the instructions on the next screens to:
 

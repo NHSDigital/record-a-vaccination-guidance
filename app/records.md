@@ -1,18 +1,15 @@
 ---
 layout: page
+caption: User guide
 title: Records
 analytics_key: records
-previous:
-  title: Managing vaccines
-  url: /managing-vaccines
-next:
-  title: Reporting
-  url: /reporting
+showPagination: true
+order: 5
 ---
 
 {% include 'guide-contents.njk' %}
 
-**Records** is a new section, where you can view and edit vaccination records created by your organisation.  
+**Records** is a new section, where you can view and edit vaccination records created by your organisation.
 
 ## Video: Records
 
@@ -24,7 +21,7 @@ This short video shows the new section where you can edit records.
 
 ## What you can edit
 
-More fields can be edited than previously. You'll be able to change any of the following:   
+More fields can be edited than previously. You'll be able to change any of the following:
 
 * Vaccinator
 * Batch
@@ -32,6 +29,6 @@ More fields can be edited than previously. You'll be able to change any of the f
 * Consent details
 * Injection site
 * Full or half dose (only applies to Fluenz nasal spray)
-* Optional note 
+* Optional note
 
-It will not be possible initially to delete a record from this section. To delete a record, you will still need to go to [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/). 
+It will not be possible initially to delete a record from this section. To delete a record, you will still need to go to [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/).

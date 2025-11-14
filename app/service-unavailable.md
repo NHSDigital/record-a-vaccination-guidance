@@ -1,10 +1,10 @@
 ---
 layout: page
+caption: User guide
 title: Help and support
 analytics_key: service-unavailable
-previous:
-  title: Managing vaccines
-  url: /managing-vaccines
+showPagination: true
+order: 8
 ---
 
 {% include 'guide-contents.njk' %}
