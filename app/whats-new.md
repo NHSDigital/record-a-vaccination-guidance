@@ -1,8 +1,8 @@
 ---
-layout: whats-new
+layout: page
 title: What's new
 analytics_key: whats-new
-
+eleventyExcludeFromCollections: true
 ---
 Find out about the latest changes to the Record a vaccination service.
 
