@@ -1,13 +1,10 @@
 ---
 layout: page
+caption: User guide
 title: Managing users
 analytics_key: managing-users
-previous:
-  title: Reporting
-  url: /reporting
-next:
-  title: Help and support
-  url: /service-unavailable
+showPagination: true
+order: 7
 ---
 
 {% include 'guide-contents.njk' %}
@@ -25,7 +22,7 @@ To add a user, you must enter their:
 
 ## Selecting clinician status
 
-Select 'yes' if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council. 
+Select 'yes' if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council.
 
 As a result, they can be selected as assessing and consenting clinicians when recording vaccinations.
 
@@ -52,11 +49,11 @@ Okta allows new users to sign in and use RAVS.
 * If users already have an Okta account for other NHS applications, then their RAVS account will be added to their existing Okta account.
 * If users are new to Okta, they'll also receive an Okta email with instructions to set up their account. They'll need to do this first to access RAVS.
 
-## Adding a user to multiple organisations 
+## Adding a user to multiple organisations
 
-You can add a user to more than 1 organisation, using the same email address for that user. 
+You can add a user to more than 1 organisation, using the same email address for that user.
 
-The user will then be able to use the same email address and Okta account to access RAVS at each organisation. 
+The user will then be able to use the same email address and Okta account to access RAVS at each organisation.
 
 Users can have different permission levels at each organisation.
 
@@ -77,7 +74,7 @@ Or, if they want to only use their main email address to access RAVS at each org
 * add themselves (or ask a lead administrator to add them) to an organisation using their main email address
 * then deactivate (or ask a lead administrator to deactivate) the extra email account they used previously for that organisation
 
-Any records previously created with an extra email account will remain unchanged. 
+Any records previously created with an extra email account will remain unchanged.
 
 ## Changing a user's permissions or clinician status
 
@@ -95,6 +92,6 @@ Select 'Change' next to a name on the 'Manage users' screen. On the next screen 
 
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
-If you deactivate a user who works at several organisations, they will only be deactivated from your organisation. Their access to RAVS at other organisations will not change. 
+If you deactivate a user who works at several organisations, they will only be deactivated from your organisation. Their access to RAVS at other organisations will not change.
 
 You can reactivate users at any time from the 'Manage users' screen.

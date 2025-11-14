@@ -7,10 +7,9 @@
     "start": "eleventy --serve --quiet"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@x-govuk/govuk-eleventy-plugin": "^6.2.1",
-    "@nhsbsa/cookie-consent-component": "^0.0.6",
-    "nhsuk-frontend": "^10.0.0"
+    "@11ty/eleventy": "^3.1.2",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.5",
+    "@nhsbsa/cookie-consent-component": "^0.0.6"
   },
   "private": true,
   "engines": {

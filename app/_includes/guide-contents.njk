@@ -1,4 +1,4 @@
-{% from 'contents-list/macro.njk' import contentsList %}
+{% from '../../node_modules/nhsuk-frontend/dist/nhsuk/components/contents-list/macro.njk' import contentsList %}
 
 {{ contentsList({
   items: [
@@ -6,12 +6,12 @@
       href: "/",
       text: "Overview",
       current: (page.url == "/")
-    }, 
+    },
     {
       href: "/finding-a-patient/",
       text: "Find a patient",
       current: (page.url == "/finding-a-patient/")
-    }, 
+    },
     {
       href: "/record-vaccinations/",
       text: ("<span class=\"app-contents-list__link-text\">Record vaccinations</span> <span class=\"nhsuk-tag nhsuk-tag--blue\">New</span>" | safe),
@@ -21,7 +21,7 @@
       href: "/managing-vaccines/",
       text: "Vaccines",
       current: (page.url == "/managing-vaccines/")
-    }, 
+    },
     {
       href: "/records/",
       text: ("<span class=\"app-contents-list__link-text\">Records</span> <span class=\"nhsuk-tag nhsuk-tag--blue\">New</span>" | safe),
@@ -37,7 +37,7 @@
       text: "Manage users",
       current: (page.url == "/managing-users/")
     },
-    
+
     {
       href: "/service-unavailable/",
       text: "Help and support",

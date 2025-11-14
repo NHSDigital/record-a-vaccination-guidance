@@ -1,28 +1,25 @@
 ---
 layout: page
+caption: User guide
 title: Reporting
 analytics_key: reporting
-previous:
-  title: Records
-  url: /records
-next:
-  title: Managing users
-  url: /managing-users
+showPagination: true
+order: 6
 ---
 
 {% include 'guide-contents.njk' %}
 
 Only lead administrators and administrators can create reports.
 
-Vaccination data is available for extract as soon as it's recorded and saved. You can extract data in a '.csv format' (comma separated values). 
+Vaccination data is available for extract as soon as it's recorded and saved. You can extract data in a '.csv format' (comma separated values).
 
-To create a report, select the 'Reports' link in the header. 
+To create a report, select the 'Reports' link in the header.
 
 You will then be asked to select what you want to report on, including the:
 
-* timeframe (up to a maximum of 31 days) 
-* vaccines 
-* sites 
+* timeframe (up to a maximum of 31 days)
+* vaccines
+* sites
 
 You can create reports as often as you like.
 

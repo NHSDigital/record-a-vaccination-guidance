@@ -1,21 +1,29 @@
-const Nunjucks = require("nunjucks");
-const sass = require("sass");
-const path = require('node:path')
+import fs from 'node:fs/promises'
 
-module.exports = function(eleventyConfig) {
+import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 
-  // Set up Nunjucks
-  let nunjucksEnvironment = new Nunjucks.Environment(
-		new Nunjucks.FileSystemLoader([
-      './node_modules/nhsuk-frontend/dist/nhsuk/components',
-      './node_modules/nhsuk-frontend/dist/nhsuk/macros',
-      './node_modules/nhsuk-frontend/dist/nhsuk',
-      './node_modules/nhsuk-frontend/dist',
-      'app/layouts',
-      'app/_includes'
-    ])
-	);
-  eleventyConfig.setLibrary("njk", nunjucksEnvironment);
+const serviceName = 'Record a vaccination'
+
+export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(nhsukEleventyPlugin, {
+    stylesheets: ['/styles/application.css'],
+    header: {
+      service: {
+        text: serviceName,
+        href: '/'
+      }
+    },
+    footer: {
+      meta: {
+        items: [
+          {
+            text: 'Cookies',
+            href: '/cookie-preferences'
+          }
+        ]
+      }
+    }
+  })
 
   // Images folder
   eleventyConfig.addPassthroughCopy('./app/images')
@@ -28,33 +36,24 @@ module.exports = function(eleventyConfig) {
     "node_modules/nhsuk-frontend/packages/assets": "nhsuk-frontend/assets",
   });
 
-  // Set up SASS
-  eleventyConfig.addTemplateFormats("scss");
-  eleventyConfig.addExtension("scss", {
-    outputFileExtension: "css",
+  // Reset contents of output directory before each build
+  eleventyConfig.on('eleventy.before', async ({ directories, runMode }) => {
+    if (runMode === 'build') {
+      await fs.rm(directories.output, {
+        force: true,
+        recursive: true
+      })
+    }
+  })
 
-    compile: function (inputContent, inputPath) {
-      const parsed = path.parse(inputPath);
-
-      let result = sass.compileString(inputContent, {
-        loadPaths: [parsed.dir, this.config.dir.includes, './node_modules', './'],
-        quietDeps: true
-      });
-
-      return () => {
-        return result.css;
-      };
-    },
-  });
-
+  // Config
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
       input: 'app',
-      data: '../data',
-      layouts: 'layouts'
+      layouts: '_layouts'
     }
   }
-};
+}
