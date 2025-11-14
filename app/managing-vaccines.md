@@ -1,5 +1,6 @@
 ---
 layout: page
+caption: User guide
 title: Managing vaccines
 analytics_key: managing-vaccines
 showPagination: true
