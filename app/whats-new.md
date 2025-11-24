@@ -14,7 +14,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 ## Date TBC: changing location
 
-- In Record vaccinations, when you record the same vaccination for the next patient, you can now change the location on the 'Check if these details still apply' page. This only applies to COVID-19 vaccinations.
+- In Record vaccinations, when you record a COVID-19 vaccination for another patient, you can now change the location details on the 'Check if these details still apply' page.
   
 ## 26 November 2025: search for vaccinators
 
