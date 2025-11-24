@@ -30,7 +30,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 ## 17 November 2025: recording with no NHS number
 
-- In Record vaccinations, you can now record a vaccination without an NHS number if not match is found when you search for the patient.a
+- In Record vaccinations, you can now record a vaccination without an NHS number if no match is found when you search for the patient.
   
 ## 21 October 2025: GP address added
 
