@@ -22,7 +22,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 ## 26 November 2025: reactivate multiple users in 1 go
 
-- In Manage users, you can now reactivate multiple users in 1 go if they have been deactivated because they have not logged in for 90 days or more.
+- In Manage users, there is now an option to reactivate all users who been deactivated because they have not logged in for 90 days.
 
 ## 17 November 2025: changing eligibility
 
