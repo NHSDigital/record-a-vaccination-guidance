@@ -26,15 +26,15 @@ In Manage users, there is now an option to reactivate all users who have been de
 
 ## 17 November 2025
 
-**Changing eligibility**
+### Changing eligibility
 In Record vaccinations, when you record the same vaccination for the next patient, you can now change the eligibility details (including healthcare worker role) on the 'Check if these details still apply' page.
 
-**Recording with no NHS number**
+### Recording with no NHS number
 In Record vaccinations, you can now record a vaccination without an NHS number if no match is found when you search for the patient.
   
 ## 21 October 2025
 
-**GP address added**
+### GP address added
 - The name and address of the patient's GP surgery is now shown on the patient's details and vaccination history.
 - The ODS code of the patient's GP surgery is now included in reports.
 
