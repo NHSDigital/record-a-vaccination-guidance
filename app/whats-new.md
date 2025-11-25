@@ -32,17 +32,20 @@ In Record vaccinations, when you record the same vaccination for the next patien
 **Recording with no NHS number**
 In Record vaccinations, you can now record a vaccination without an NHS number if no match is found when you search for the patient.
   
-## 21 October 2025: GP address added
+## 21 October 2025
 
+**GP address added**
 - The name and address of the patient's GP surgery is now shown on the patient's details and vaccination history.
 - The ODS code of the patient's GP surgery is now included in reports.
 
-## 30 September 2025: COVID-19 vaccine products
+## 30 September 2025
 
+**COVID-19 vaccine products**
 The list of COVID-19 vaccine products has been updated for this Autumn/Winter campaign.
 
-## 29 September 2025: New sections added
+## 29 September 2025
 
+**New sections added**
 - Record vaccinations is a new section for recording vaccinations. It will replace the Find a patient section in future.
 - Records is a new section where you can view and edit records.
 
