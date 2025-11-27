@@ -13,20 +13,18 @@ Only lead administrators can add and manage users.
 
 ## Adding new users
 
-To add a user, you must enter their:
+When you add a user, you must enter their:
 
-* First name
-* Last name
-* NHS-approved email address. For a list of approved domains, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
-* Clinician status
+* first name
+* last name
+* NHS-approved email address. For a list of approved email addresses, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
 
-## Selecting clinician status
+You then need to seelct:
 
-Select 'yes' if users are registered clinicians. For example, a doctor or nurse registered with a professional body like the General Medical Council or Nursing and Midwifery Council.
+* if the user is a vaccinator (someone who gives vaccines)
+* the permission level you want to give the user
 
-As a result, they can be selected as assessing and consenting clinicians when recording vaccinations.
-
-## Selecting permission levels
+### Permission levels
 
 Choose and select a permission level for new users:
 
@@ -36,7 +34,7 @@ Choose and select a permission level for new users:
 | **Administrator**          | Yes                       | Yes                  | Yes              | No |
 | **Lead administrator**     | Yes                       | Yes                  | Yes              | Yes |
 
-You can have more than one user for each permission level.
+You can have more than 1 user for each permission level.
 
 ![Screen shows user adding a new user's details and selecting their permission level](/images/manage-users-add.png)
 
@@ -46,7 +44,7 @@ Once you have added a new user, we'll automatically create a RAVS account and se
 
 Okta allows new users to sign in and use RAVS.
 
-* If users already have an Okta account for other NHS applications, then their RAVS account will be added to their existing Okta account.
+* If users already have an Okta account for other NHS applications, their RAVS account will be added to their existing Okta account.
 * If users are new to Okta, they'll also receive an Okta email with instructions to set up their account. They'll need to do this first to access RAVS.
 
 ## Adding a user to multiple organisations
@@ -63,11 +61,11 @@ Each time they log in, they will see a screen listing all the organisations they
 
 To switch organisations, they need to log out, log back in and select a new organisation.
 
-## If a user was added to multiple organisations before 16 December 2024
+### If a user was added to multiple organisations before 16 December 2024
 
 Before 16 December 2024, to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
 
-If a user has more than 1 email address to access RAVS, they can continue to log in as before, using separate emails and Okta accounts for each organisation.
+If a user has more than 1 email address to access RAVS, they can continue to use separate emails and Okta accounts for each organisation.
 
 Or, if they want to only use their main email address to access RAVS at each organisation, they can do the following:
 
@@ -76,9 +74,9 @@ Or, if they want to only use their main email address to access RAVS at each org
 
 Any records previously created with an extra email account will remain unchanged.
 
-## Changing a user's permissions or clinician status
+## Changing a user's permissions or vaccinator status
 
-To change a user's permission levels or clinician status, select 'Change' next to their name on the 'Manage users' screen.
+To change a user's permission levels or vaccinator status, select 'Change' next to their name on the 'Manage users' screen.
 
 A change to permission levels becomes active when the user next logs in.
 
