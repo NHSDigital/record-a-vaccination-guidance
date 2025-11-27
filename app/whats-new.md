@@ -20,7 +20,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 In Record vaccinations, when you record a COVID-19 vaccination for another patient, you can now change the location details on the 'Check if these details still apply' page.
   
-## 26 November 2025
+## 27 November 2025
 
 ### Search for vaccinators
 In Record vaccinations, we now only display up to 16 names on the 'Who is the vaccinator?' page. If there are more than 16 vaccinators at an organisation, you can search for a name instead of scrolling down a long list.
