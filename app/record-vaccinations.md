@@ -9,7 +9,7 @@ order: 3
 
 {% include 'guide-contents.njk' %}
 
-**Record vaccinations** is the new simpler way to record vaccinations. The existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section can still be used until 30 November 2025. You can use either option to record vaccinations.
+**Record vaccinations** is the new simpler way to record vaccinations. The existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section will soon be removed.
 
 ## Video: Record vaccinations
 
