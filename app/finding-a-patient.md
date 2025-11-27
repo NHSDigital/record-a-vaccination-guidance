@@ -7,7 +7,7 @@ order: 2
 ---
 
 {% include 'guide-contents.njk' %}
-This page describes how to record a vaccination using the **Find a patient** link in the navigation. This way of recording vaccinations will be phased out at the end of November 2025 as it's being replaced by the new **Record vaccinations** section.
+This page describes how to record a vaccination using the **Find a patient** link in the navigation. This way of recording vaccinations will soon be phased out as it's being replaced by the new **Record vaccinations** section.
 
 ## Find a patient
 To find a patient quickly, follow these steps.
