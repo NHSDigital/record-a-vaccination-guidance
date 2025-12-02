@@ -3,7 +3,7 @@
   "portsAttributes": {
     "8080": {
       "label": "Preview site",
-      "onAutoForward": "openPreview"
+      "onAutoForward": "openBrowser"
     }
   },
   // Sets the git merge strategy to rebase to hopefully make easier time of merging
