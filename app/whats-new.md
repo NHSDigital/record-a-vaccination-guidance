@@ -14,6 +14,8 @@ Find out about the latest changes to the Record a vaccination service.
 - In Record vaccinations, when you select a vaccinator, the list of names now includes users who have the role of vaccinator. Previously it included users with the role of registered clinician. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
 - In Find a patient, when you select a vaccinator, the list of names now only includes users who have the role of vaccinator. Previously it included all users. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
 
+<hr>
+
 ## 4 December 2025
 
 ### Changing location
@@ -21,7 +23,7 @@ Find out about the latest changes to the Record a vaccination service.
 In Record vaccinations, when you record a COVID-19 vaccination for another patient, you can now change the location details on the 'Check if these details still apply' page.
 
 <hr>
-  
+
 ## 27 November 2025
 
 ### Search for vaccinators
@@ -30,6 +32,8 @@ In Record vaccinations, we now only display up to 16 names on the 'Who is the va
 ### Reactivate multiple users in 1 go
 In Manage users, there is now an option to reactivate all users who have been deactivated because they have not logged in for 90 days.
 
+<hr>
+
 ## 17 November 2025
 
 ### Changing eligibility
@@ -37,6 +41,8 @@ In Record vaccinations, when you record the same vaccination for the next patien
 
 ### Recording with no NHS number
 In Record vaccinations, you can now record a vaccination without an NHS number if no match is found when you search for the patient.
+
+<hr>
   
 ## 21 October 2025
 
@@ -44,10 +50,14 @@ In Record vaccinations, you can now record a vaccination without an NHS number i
 - The name and address of the patient's GP surgery is now shown on the patient's details and vaccination history.
 - The ODS code of the patient's GP surgery is now included in reports.
 
+<hr>
+
 ## 30 September 2025
 
 ### COVID-19 vaccine products
 The list of COVID-19 vaccine products has been updated for this Autumn/Winter campaign.
+
+<hr>
 
 ## 29 September 2025
 
