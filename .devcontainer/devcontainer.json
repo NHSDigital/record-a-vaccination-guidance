@@ -1,0 +1,18 @@
+{
+  "name": "Record a vaccination guidance",
+  "runArgs": ["--env", "PORT=2001"],
+  "portsAttributes": {
+    "3001": {
+      "label": "Preview site",
+      "onAutoForward": "openPreview"
+    }
+  },
+  // Sets the git merge strategy to rebase to hopefully make easier time of merging
+  "onCreateCommand": "git config --global pull.rebase true",
+  // after creation - installs the Node packages
+  "postCreateCommand": "npm install",
+  // Start the Eleventy site
+  "postAttachCommand": {
+    "server": "npm start"
+  }
+}
