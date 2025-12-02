@@ -1,8 +1,7 @@
 {
   "name": "Record a vaccination guidance",
-  "runArgs": ["--env", "PORT=2001"],
   "portsAttributes": {
-    "3001": {
+    "8080": {
       "label": "Preview site",
       "onAutoForward": "openPreview"
     }
