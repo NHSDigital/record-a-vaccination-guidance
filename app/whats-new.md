@@ -14,11 +14,13 @@ Find out about the latest changes to the Record a vaccination service.
 - In Record vaccinations, when you select a vaccinator, the list of names now includes users who have the role of vaccinator. Previously it included users with the role of registered clinician. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
 - In Find a patient, when you select a vaccinator, the list of names now only includes users who have the role of vaccinator. Previously it included all users. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
 
-## Date TBC
+## 4 December 2025
 
 ### Changing location
 
 In Record vaccinations, when you record a COVID-19 vaccination for another patient, you can now change the location details on the 'Check if these details still apply' page.
+
+<hr>
   
 ## 27 November 2025
 
