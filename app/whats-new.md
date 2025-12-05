@@ -16,7 +16,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 4 December 2025
+## 8 December 2025
 
 ### Changing location
 
