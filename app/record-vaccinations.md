@@ -25,7 +25,7 @@ When you record your first vaccination of the day or session, you’ll be asked 
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
-* Name of the vaccinator
+* Name of the vaccinator (you will only see the names of users who've been added to RAVS as 'vaccinators' by a lead administrator)
 * Vaccine details
 * Batch
 * Eligibility (asked for all vaccinations except pertussis)
