@@ -6,7 +6,15 @@ eleventyExcludeFromCollections: true
 ---
 Find out about the latest changes to the Record a vaccination service.
 
-## Date TBC 
+## Date TBC
+
+### Deleting a record
+
+In the Records section, you now have the option to delete a vaccination record, as long at it's a record created by your organisation. 
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 11 december 2025 
 
 ### New vaccinator role
 
