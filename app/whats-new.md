@@ -6,11 +6,27 @@ eleventyExcludeFromCollections: true
 ---
 Find out about the latest changes to the Record a vaccination service.
 
-## Date TBC
+## 19 January 2026
+
+### Find a patient has been removed
+
+The Find a patient section has been removed. You can still record vaccinations in the Record vaccinations section, and edit or delete records in the Records section. 
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## TBC
+
+### Searching for a record
+
+In the Records section, you can now search for a record using a patient's details, such as name and date of birth. This is in addition to being able to search by NHS number. 
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 12 January 2026
 
 ### Deleting a record
 
-In the Records section, you now have the option to delete a vaccination record, as long at it's a record created by your organisation. 
+In the Records section, you now have the option to delete a vaccination record, as long at it's a record created in RAVS by your organisation. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
