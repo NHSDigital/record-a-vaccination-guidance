@@ -9,7 +9,7 @@ order: 3
 
 {% include 'guide-contents.njk' %}
 
-**Record vaccinations** is the new simpler way to record vaccinations. The existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section will soon be removed.
+**Record vaccinations** is the new simpler way to record vaccinations. The [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section will not be available after 19 January 2026.
 
 ## Video: Record vaccinations
 
