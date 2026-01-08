@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Find a patient and record a vaccination
+title: Find a patient
 analytics_key: finding-a-patient
 showPagination: true
 order: 2
 ---
 
 {% include 'guide-contents.njk' %}
-This page describes how to record a vaccination using the **Find a patient** link in the navigation. This way of recording vaccinations will soon be phased out as it's being replaced by the new **Record vaccinations** section.
+The **Find a patient** section is being replaced. From 19 January 2026, you must record all vaccinations in the **Record vaccinations** section.
 
 ## Find a patient
 To find a patient quickly, follow these steps.
