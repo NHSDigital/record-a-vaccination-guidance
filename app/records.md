@@ -9,7 +9,7 @@ order: 5
 
 {% include 'guide-contents.njk' %}
 
-All users can access the Records section. This is where you can view, edit or delete a vaccination record created in RAVS by your organisation. 
+All users can access the Records section, where you can view, edit or delete a vaccination record created by your organisation. 
 
 ## Finding a record
 
