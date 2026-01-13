@@ -19,7 +19,7 @@ When you add a user, you must enter their:
 * last name
 * NHS-approved email address. For a list of approved email addresses, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
 
-You then need to seelct:
+You then need to select:
 
 * if the user is a vaccinator (someone who gives vaccines)
 * the permission level you want to give the user
