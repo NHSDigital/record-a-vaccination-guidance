@@ -9,7 +9,7 @@ order: 5
 
 {% include 'guide-contents.njk' %}
 
-All users can access the Records section. This is where you can edit or delete a vaccination record as long as it was created by your organisation. 
+All users can access this section, where you can edit or delete a vaccination record created by your organisation. 
 
 ## Finding a record
 
