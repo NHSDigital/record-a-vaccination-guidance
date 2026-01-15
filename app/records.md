@@ -13,7 +13,7 @@ All users can access the Records section, where you can edit or delete a vaccina
 
 ## Finding a record
 
-1. Search for the patient by NHS number.
+1. Search for the patient by NHS number, or by name, date of birth and postcode. You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA. If the patient is homeless, you can try searching with the postcode ZZ99 3VZ. 
 2. You will then see the patient’s details and a list of their vaccination records.
 3. Select ‘View’ next to the record you want to edit or delete. 
 
