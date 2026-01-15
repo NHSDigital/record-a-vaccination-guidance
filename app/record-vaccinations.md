@@ -9,7 +9,7 @@ order: 3
 
 {% include 'guide-contents.njk' %}
 
-All users can record vaccinations in this section.
+All users can access this section to record vaccinations.
 
 ## Video: Record vaccinations
 
