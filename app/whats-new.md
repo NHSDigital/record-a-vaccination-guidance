@@ -14,8 +14,6 @@ The Find a patient section has been removed. You can still record vaccinations i
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## TBC
-
 ### Searching for a record
 
 In the Records section, you can now search for a record using a patient's details, such as name and date of birth. This is in addition to being able to search by NHS number. 
