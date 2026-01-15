@@ -13,12 +13,21 @@ All users can access the Records section, where you can edit or delete a vaccina
 
 ## Finding a record
 
-1. Search for the patient by NHS number, or by name, date of birth and postcode. You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA. If the patient is homeless, you can try searching with the postcode ZZ99 3VZ. 
+1. Search for the patient by NHS number, or by name, date of birth and postcode. 
 2. You will then see the patient’s details and a list of their vaccination records.
-3. Select ‘View’ next to the record you want to edit or delete. 
+4. Select ‘View’ next to the record you want to edit or delete. You will only see this link next to records created in RAVS by your organisation.
 
-The ‘View’ link only appears next to records created by your organisation. This is because you can only edit or delete a record if it was created in RAVS by your organisation. 
+{% from "inset-text/macro.njk" import insetText %}
 
+{% set insetTextHtml %}
+  <p>You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA.</p>p>
+  <p>If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.</p>
+{% endset %}
+
+{{ insetText({
+  html: insetTextHtml
+}) }}
+ 
 ## Editing a record
 
 When you have found the vaccination record you want to edit, you’ll have the option of changing the following fields:  
