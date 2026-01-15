@@ -55,7 +55,7 @@ Next you'll be asked:
 
 Before saving, you'll see a Check and confirm page, where you can review your answers and add an optional note.
 
-### Recording the next vaccination 
+### Recording multiple vaccinations 
 
 Once you’ve recorded your first vaccination, you are presented with 3 options for what you can do next. You can either record:
 
@@ -65,13 +65,13 @@ Once you’ve recorded your first vaccination, you are presented with 3 options 
 
 If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved.
 
-### Another vaccination for the same patient (co-admin) 
+#### Another vaccination for the same patient (co-admin) 
 This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
-### Same vaccination for another patient 
+#### Same vaccination for another patient 
 This option allows you to save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
-### Different vaccination for another patient 
+#### Different vaccination for another patient 
 This option takes you back to the start of the full recording journey.  
  
 
