@@ -9,7 +9,7 @@ order: 7
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators can access this section to add and deactivate users, and change a user's permissions.
+Only lead administrators can access this section, where they can add and deactivate users, and change a user's permissions.
 
 ## Adding new users
 
