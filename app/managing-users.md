@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Managing users
+title: Manage users
 analytics_key: managing-users
 showPagination: true
 order: 7
@@ -9,7 +9,7 @@ order: 7
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators can add and manage users.
+Only lead administrators can access this section to add and deactivate users, and change a user's permissions.
 
 ## Adding new users
 
