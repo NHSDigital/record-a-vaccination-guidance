@@ -21,7 +21,7 @@ This short video shows you how to record a vaccination.
 
 ## How to record a vaccination
 
-When you record your first vaccination of the day or the session, we ask for:
+When you record your first vaccination of the day or session, we ask for:
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
@@ -38,9 +38,9 @@ When you record your first vaccination of the day or the session, we ask for:
 
 As this point we look up the patient's details and vaccination history. 
 
-If a match is found you’ll be shown the patient's details and vaccination history. 
+If a match is found, you’ll be shown the patient's details and vaccination history. 
 
-If no match is found for the details entered, you have the option to record a vaccination without an NHS number.
+If no match is found, you have the option to search again or to record a vaccination without an NHS number.
 
 You may also see a warning if there is some important information to consider. But the warning will not prevent you from continuing. 
 
