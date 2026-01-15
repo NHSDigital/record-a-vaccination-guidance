@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Reporting
+title: Reports
 analytics_key: reporting
 showPagination: true
 order: 6
@@ -9,7 +9,7 @@ order: 6
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators and administrators can create reports.
+Only administrators and lead administrators can access this section to create reports.
 
 Vaccination data is available for extract as soon as it's recorded and saved. You can extract data in a '.csv format' (comma separated values).
 
