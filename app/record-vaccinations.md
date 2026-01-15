@@ -68,11 +68,9 @@ Next you'll be asked:
 
 Before saving, uou'll see a Check and confirm page, where you can review your answers, add an optional note and save the vaccination record.
 
-### Recording the next vaccination
+## Recording the next vaccination can be quicker
 
-We’ve made it easier and quicker to record several vaccinations for the same patient, or to record the same vaccination for multiple patients.
-
-Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record:
+Once you’ve your first vaccination, you are presented with 3 options for what you can do next. You can either record:
 
 * another vaccination for the same patient (co-admin)
 * the same vaccination for another patient
@@ -80,18 +78,16 @@ Once the first vaccination you've recorded has been saved, you have 3 options fo
 
 If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved.
 
-## What’s changed
+### Another vaccination for the same patient (co-admin) 
+This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
-We’ve designed **Record vaccinations** to make it easier to select the most common answers.
+### Same vaccination for another patient 
+This option can save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination you recorded. Before you start recording, you have the option to change some of the saved answers.  
 
-We’ve removed the following questions because this information is not sent to NHS England or to GP records:
+### Different vaccination for another patient 
+This option takes you back to the start of the full recording journey.  
+ 
 
-* Assessment date
-* Legal mechanism
-* Assessing clinician
-* Assessment outcome
-* Consenting clinician
+## Editing and deleting records
 
-## Editing records
-
-If you need to edit a vaccination record you previously recorded, this feature has moved to the new [Records](https://guide.ravs.england.nhs.uk/records/) section.
+To edit or delete a vaccination record, go to the [Records](https://guide.ravs.england.nhs.uk/records/) section.
