@@ -29,33 +29,20 @@ When you record your first vaccination of the day or the session, we ask for:
 * Vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it the 'Vaccines' section of RAVS)
 * Eligibility (asked for all vaccinations except pertussis)
 * Location type (only asked for COVID-19)
+* Patient's NHS number or details
 
-### Patient details
-You’ll then be asked for the patient’s NHS number so we can look up the patient’s details and vaccination history.  
- 
-If you do not have the patient’s NHS number, you can search for a patient using their name, date of birth and postcode.
+> [!NOTE]
+> You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA.
+>
+> If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.
 
-#### Postcodes
+As this point we look up the patient's details and vaccination history. 
 
-You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA 
+If a match is found you’ll be shown the patient's details and vaccination history. 
 
-If the patient is homeless, you can try searching with the postcode ZZ99 3VZ. 
+If no match is found for the details entered, you have the option to record a vaccination without an NHS number.
 
-#### If no match is found
-
-If no match is found for the details you enter, you have the option to record a vaccination without an NHS number.
-
-### Vaccination history
-
-Once the patient has been found, you’ll be shown their details and vaccination history. 
-
-The vaccination history only shows some NHS vaccinations given in England. Currently it includes COVID-19, flu and RSV, plus some pertussis, pneumococcal and MMR records.  
-
-### Warnings
-
-You may see a warning if there is some important information to consider. For example, if the patient’s vaccination history suggests they are not due for a vaccination. But the warning will not prevent you from continuing. 
-
-### The last few questions
+You may also see a warning if there is some important information to consider. But the warning will not prevent you from continuing. 
 
 Next you'll be asked:
 
@@ -66,11 +53,11 @@ Next you'll be asked:
 
 ### Saving a vaccination record
 
-Before saving, uou'll see a Check and confirm page, where you can review your answers, add an optional note and save the vaccination record.
+Before saving, you'll see a Check and confirm page, where you can review your answers and add an optional note.
 
-## Recording the next vaccination can be quicker
+### Recording the next vaccination 
 
-Once you’ve your first vaccination, you are presented with 3 options for what you can do next. You can either record:
+Once you’ve recorded your first vaccination, you are presented with 3 options for what you can do next. You can either record:
 
 * another vaccination for the same patient (co-admin)
 * the same vaccination for another patient
@@ -82,7 +69,7 @@ If you choose either of the first 2 options, you’ll skip a number of questions
 This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
 ### Same vaccination for another patient 
-This option can save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination you recorded. Before you start recording, you have the option to change some of the saved answers.  
+This option allows you to save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
 ### Different vaccination for another patient 
 This option takes you back to the start of the full recording journey.  
