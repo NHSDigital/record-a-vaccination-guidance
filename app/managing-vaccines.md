@@ -9,7 +9,7 @@ order: 4
 
 {% include 'guide-contents.njk' %}
 
-Only administrators and lead administrators can access this section to add and manage vaccine products.
+Only administrators and lead administrators can access this section, where they can add and manage vaccine products.
 
 You need to add vaccines before you can start recording vaccinations. 
 
