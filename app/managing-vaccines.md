@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Managing vaccines
+title: Vaccines
 analytics_key: managing-vaccines
 showPagination: true
 order: 4
@@ -9,9 +9,9 @@ order: 4
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators and administrators can manage vaccines and batches.
+Only administrators and lead administrators can access this section to add and manage vaccine products.
 
-You will not be able to record vaccinations until you've added vaccines for your site.
+You need to add vaccines before you can start recording vaccinations. 
 
 ## Video: Adding vaccines
 
