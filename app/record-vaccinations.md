@@ -36,7 +36,7 @@ When you record your first vaccination of the day or session, we ask for:
 >
 > If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.
 
-As this point we look up the patient's details and vaccination history. 
+At this point we look up the patient's details and vaccination history. 
 
 If a match is found, you’ll be shown the patient's details and vaccination history. 
 
