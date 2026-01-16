@@ -15,13 +15,6 @@
   margin-bottom: 20px;
 }
 
-// This is a temporary fix to allow us to add 'NEW' tags to 2 of the
-// items within the contents list
-.nhsuk-contents-list__link[href="/record-vaccinations/"],
-.nhsuk-contents-list__link[href="/records/"] {
-  text-decoration: none;
-}
-
 .app-contents-list__link-text {
   text-decoration: underline;
 }
