@@ -7,7 +7,7 @@ order: 2
 ---
 
 {% include 'guide-contents.njk' %}
-The **Find a patient** section is being replaced. From 19 January 2026, you must record all vaccinations in the **Record vaccinations** section.
+The **Find a patient** section will soon be removed. It's being replaced by the new **Record vaccinations** section.
 
 ## Find a patient
 To find a patient quickly, follow these steps.
