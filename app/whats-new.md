@@ -6,11 +6,11 @@ eleventyExcludeFromCollections: true
 ---
 Find out about the latest changes to the Record a vaccination service.
 
-## 19 January 2026
+## 27 January 2026
 
 ### Find a patient has been removed
 
-The Find a patient section has been removed. You can still record vaccinations in the Record vaccinations section, and edit or delete records in the Records section. 
+The Find a patient section has been removed. You can record vaccinations in the Record vaccinations section, and edit or delete records in the Records section. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
