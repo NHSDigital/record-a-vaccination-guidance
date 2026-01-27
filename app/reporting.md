@@ -27,4 +27,4 @@ You can create reports as often as you like.
 
 When you download your report, it will appear in your browser downloads. Your browser should notify you when the extract is available.
 
-**Important:** Downloaded extracts hold personal data. Handle them in line with your organisation's data management policies.
+Downloaded extracts may include personal data. Handle them in line with your organisation's data management policies.
