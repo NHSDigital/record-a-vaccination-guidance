@@ -26,7 +26,7 @@ When you record your first vaccination of the day or session, we ask for:
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
 * Name of the vaccinator (you will only see the names of users who've been added to RAVS as a 'vaccinator' by a lead administrator)
-* Vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it the 'Vaccines' section of RAVS)
+* Vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the 'Vaccines' section of RAVS)
 * Eligibility (asked for all vaccinations except pertussis)
 * Location type (only asked for COVID-19)
 * Patient's NHS number or details
