@@ -9,22 +9,28 @@ order: 6
 
 {% include 'guide-contents.njk' %}
 
-Only administrators and lead administrators can access this section, where they can create and download a report.
+To log in to service, go to the [https://www.ravs.england.nhs.uk](Record a vaccination home page).
 
-Vaccination data is available for extract as soon as it's recorded and saved. You can extract data in a '.csv format' (comma separated values).
+## Logging in for the first time
 
-To create a report, select the 'Reports' link in the header.
+As soon as we create your RAVS account, you will receive an email with the subject line ‘Start using Record a vaccination’. 
 
-You will then be asked to select what you want to report on, including the:
+RAVS uses Okta to sign users in to RAVS securely. This means you also need an Okta account to log in to the service.
 
-* timeframe (up to a maximum of 31 days)
-* vaccines
-* sites
+### Users who already have an Okta account
 
-You can create reports as often as you like.
+If you already have an okta account, you can log in to RAVS as soon as you’ve received the ‘Start using Record a vaccination’ email, using your Okta username and password. 
 
-### Downloading your report
+You’ll have the option to reset your Okta password if you need to.
 
-When you download your report, it will appear in your browser downloads. Your browser should notify you when the extract is available.
+You can also access the service directly through Okta by selecting ‘RAVS (PROD) app’.
 
-Downloaded extracts may include personal data. Handle them in line with your organisation's data management policies.
+### Users without an Okta account 
+
+If you do not have an Okta account, we will create one for you at the same time as we create your RAVS account. 
+
+You will get an email from Okta with the subject line ‘Welcome to Okta!’. 
+
+This email includes an ‘Activate Okta Account’ link, which expires after 7 days. 
+
+[use inset text to highlight this] Activate your Okta account as soon as possible. 
