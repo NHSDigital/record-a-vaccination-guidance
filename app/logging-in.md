@@ -48,7 +48,7 @@ If you’ve not activated your Okta account within 7 days  and the link in the e
  
 ### Deactivated account 
 
-Your RAVS account will be deactivated if you do not log in to the service for 90 days. When an account is deactivated, you will receive an email telling you this has happened.  
+Your RAVS account will be deactivated if you have not logged in to the service for 90 days. When an account is deactivated, you will receive an email telling you this has happened.  
  
 If you still need access to RAVS, contact a lead administrator at your organisation who will be able to reactivate your account.  
  
