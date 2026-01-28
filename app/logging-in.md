@@ -54,7 +54,7 @@ If you still need access to RAVS, contact a lead administrator at your organisat
  
 If you are the only lead administrator at your organisation and you’ve been deactivated, contact your regional lead and ask them to add you to RAVS again.  
  
-H3 Other log in problems  
+### Other log in problems  
 
 For any log in issues not covered on this page, [contact us](/service-unavailable). 
 
