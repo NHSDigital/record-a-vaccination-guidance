@@ -33,4 +33,29 @@ You will get an email from Okta with the subject line ‘Welcome to Okta!’.
 
 This email includes an ‘Activate Okta Account’ link, which expires after 7 days. 
 
-[use inset text to highlight this] Activate your Okta account as soon as possible. 
+> [!NOTE]
+> Activate your Okta account as soon as possible.
+
+Once you’ve activated your Okta account, you will be able to log in to RAVS with your Okta credentials. 
+
+#### Problems with Okta 
+
+If you cannot find the email from Okta, check your spam or junk. 
+
+If you’ve not activated your Okta account within 7 days  and the link in the email has expired, [contact us](/service-unavailable). 
+ 
+## Problems logging in 
+ 
+### Deactivated account 
+
+Your RAVS account will be deactivated if you do not log in to the service for 90 days. When an account is deactivated, you will receive an email telling you this has happened.  
+ 
+If you still need access to RAVS, contact a lead administrator at your organisation who will be able to reactivate your account.  
+ 
+If you are the only lead administrator at your organisation and you’ve been deactivated, contact your regional lead and ask them to add you to RAVS again.  
+ 
+H3 Other log in problems  
+
+For any log in issues not covered on this page, [contact us](/service-unavailable). 
+
+
