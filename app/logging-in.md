@@ -9,13 +9,13 @@ order: 6
 
 {% include 'guide-contents.njk' %}
 
-To log in to service, go to the [https://www.ravs.england.nhs.uk](Record a vaccination home page).
+To log in to service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
 ## Logging in for the first time
 
 As soon as we create your RAVS account, you will receive an email with the subject line ‘Start using Record a vaccination’. 
 
-RAVS uses Okta to sign users in to RAVS securely. This means you also need an Okta account to log in to the service.
+RAVS uses Okta to sign users in securely. This means you also need an Okta account to log in to the service.
 
 ### Users who already have an Okta account
 
