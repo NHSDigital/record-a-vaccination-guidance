@@ -9,32 +9,40 @@ order: 3
 
 {% include 'guide-contents.njk' %}
 
-**Record vaccinations** is the new simpler way to record vaccinations. The existing [Find a patient](https://guide.ravs.england.nhs.uk/finding-a-patient/) section can still be used until 30 November 2025. You can use either option to record vaccinations.
+All users can access this section to record vaccinations.
 
 ## Video: Record vaccinations
 
-This short video shows the new way to record a vaccination.
+This short video shows you how to record a vaccination.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1121461476?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to record vaccinations in the Record a vaccination service"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 <br>
 
-## What you’ll be asked in Record vaccinations
+## How to record a vaccination
 
-When you record your first vaccination of the day or session, you’ll be asked the following, in this order:
+When you record your first vaccination of the day or session, we ask for:
 
 * Date of vaccination
 * Site or team (only asked if your organisation has several sites)
-* Name of the vaccinator
-* Vaccine details
-* Batch
+* Name of the vaccinator (you will only see the names of users who've been added to RAVS as a 'vaccinator' by a lead administrator)
+* Vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the 'Vaccines' section of RAVS)
 * Eligibility (asked for all vaccinations except pertussis)
 * Location type (only asked for COVID-19)
 * Patient's NHS number or details
 
-At this point you'll be shown the patient's details and vaccination history.
+> [!NOTE]
+> You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA.
+>
+> If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.
 
-You may also be shown a warning if your choice of vaccine product or the timing of the vaccine falls outside recommendations. But the warning will not prevent you from continuing with the vaccination.
+At this point we look up the patient's details and vaccination history. 
+
+If a match is found, you’ll be shown the patient's details and vaccination history. 
+
+If no match is found, you have the option to search again or to record a vaccination without an NHS number.
+
+You may also see a warning if there is some important information to consider. But the warning will not prevent you from continuing. 
 
 Next you'll be asked:
 
@@ -43,13 +51,13 @@ Next you'll be asked:
 * Where on the body the vaccination was given (only asked for injected vaccines)
 * If a full dose was given (only asked for Fluenz nasal spray)
 
-You'll then see a Check and confirm screen, where you can review your answers, add an optional note and save the vaccination record.
+### Saving a vaccination record
 
-### Recording the next vaccination
+Before saving, you'll see a Check and confirm page, where you can review your answers and add an optional note.
 
-We’ve made it easier and quicker to record several vaccinations for the same patient, or to record the same vaccination for multiple patients.
+### Recording multiple vaccinations 
 
-Once the first vaccination you've recorded has been saved, you have 3 options for what you can do next. You can choose to either record:
+Once you’ve recorded your first vaccination, you are presented with 3 options for what you can do next. You can either record:
 
 * another vaccination for the same patient (co-admin)
 * the same vaccination for another patient
@@ -57,18 +65,16 @@ Once the first vaccination you've recorded has been saved, you have 3 options fo
 
 If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved.
 
-## What’s changed
+#### Another vaccination for the same patient (co-admin) 
+This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
-We’ve designed **Record vaccinations** to make it easier to select the most common answers.
+#### Same vaccination for another patient 
+This option allows you to save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
-We’ve removed the following questions because this information is not sent to NHS England or to GP records:
+#### Different vaccination for another patient 
+This option takes you back to the start of the full recording journey.  
+ 
 
-* Assessment date
-* Legal mechanism
-* Assessing clinician
-* Assessment outcome
-* Consenting clinician
+## Editing and deleting records
 
-## Editing records
-
-If you need to edit a vaccination record you previously recorded, this feature has moved to the new [Records](https://guide.ravs.england.nhs.uk/records/) section.
+To edit or delete a vaccination record, go to the [Records](https://guide.ravs.england.nhs.uk/records/) section.
