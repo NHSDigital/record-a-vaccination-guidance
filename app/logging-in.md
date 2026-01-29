@@ -4,7 +4,7 @@ caption: User guide
 title: Logging in
 analytics_key: logging-in
 showPagination: true
-order: 6
+order: 1
 ---
 
 {% include 'guide-contents.njk' %}
