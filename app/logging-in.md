@@ -11,13 +11,9 @@ order: 2
 
 To log in to service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
-## Logging in for the first time
+RAVS uses Okta to sign users in securely.
 
-As soon as we create your RAVS account, you will receive an email with the subject line ‘Start using Record a vaccination’. 
-
-RAVS uses Okta to sign users in securely. This means you also need an Okta account to log in to the service.
-
-### Users who already have an Okta account
+## Users who already have an Okta account
 
 If you already have an Okta account, you can log in to RAVS as soon as you’ve received the ‘Start using Record a vaccination’ email, using your Okta username and password. 
 
@@ -25,7 +21,7 @@ You’ll have the option to reset your Okta password if you need to.
 
 You can also access the service from the Okta ‘My Apps’ dashboard by selecting ‘RAVS (PROD) app’.
 
-### Users without an Okta account 
+## Users without an Okta account 
 
 If you do not have an Okta account, we will create one for you at the same time as we create your RAVS account. 
 
