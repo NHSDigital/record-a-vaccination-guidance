@@ -28,7 +28,7 @@ In the Records section, you now have the option to delete a vaccination record, 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 11 december 2025 
+## 11 December 2025 
 
 ### New vaccinator role
 
