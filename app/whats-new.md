@@ -10,7 +10,7 @@ Find out about the latest changes to the Record a vaccination service.
  
 ### Find a patient has been removed
 
-The Find a patient section has been removed. To record a vaccination, go to the Record vaccinations section. If you need to edit or delete a record, go to the Records section. 
+The Find a patient section has been removed. To record a vaccination, use the Record vaccinations section. If you need to edit or delete a record, go to the Records section. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
