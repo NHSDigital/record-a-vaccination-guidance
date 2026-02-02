@@ -23,7 +23,7 @@ If you already have an Okta account, you can log in to RAVS as soon as you’ve 
 
 You’ll have the option to reset your Okta password if you need to.
 
-You can also access the service directly through Okta by selecting ‘RAVS (PROD) app’.
+You can also access the service from the Okta ‘My Apps’ dashboard by selecting ‘RAVS (PROD) app’.
 
 ### Users without an Okta account 
 
