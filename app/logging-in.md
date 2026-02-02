@@ -19,7 +19,7 @@ RAVS uses Okta to sign users in securely. This means you also need an Okta accou
 
 ### Users who already have an Okta account
 
-If you already have an okta account, you can log in to RAVS as soon as you’ve received the ‘Start using Record a vaccination’ email, using your Okta username and password. 
+If you already have an Okta account, you can log in to RAVS as soon as you’ve received the ‘Start using Record a vaccination’ email, using your Okta username and password. 
 
 You’ll have the option to reset your Okta password if you need to.
 
