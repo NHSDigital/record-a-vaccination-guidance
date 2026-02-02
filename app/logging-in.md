@@ -33,9 +33,6 @@ You will get an email from Okta with the subject line ‘Welcome to Okta!’.
 
 This email includes an ‘Activate Okta Account’ link, which expires after 7 days. 
 
-> [!NOTE]
-> Activate your Okta account as soon as possible.
-
 Once you’ve activated your Okta account, you will be able to log in to RAVS with your Okta credentials. 
 
 #### Problems with Okta 
