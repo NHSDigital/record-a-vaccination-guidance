@@ -20,11 +20,9 @@ When the service is available, you can enter the information from the form into 
 
 ## Contact us
 
-To contact our support team, go to:
+To contact us, go to [Record a vaccination: Help and support](https://www.ravs.england.nhs.uk/help-and-support).
 
-[Record a vaccination: Help and support](https://www.ravs.england.nhs.uk/help-and-support)
-
-The Record a vaccination support team is available Monday to Friday, 8am to 6pm.
+The support team is available Monday to Friday, 8am to 6pm.
 
 ## Troubleshooting tips
 
