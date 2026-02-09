@@ -33,7 +33,7 @@ Once you’ve activated your Okta account, you will be able to log in to RAVS wi
 
 If you cannot find the email from Okta, check your spam or junk. 
 
-If you’ve not activated your Okta account within 7 days  and the link in the email has expired, [contact us](/service-unavailable). 
+If you’ve not activated your Okta account within 7 days  and the link in the email has expired, [contact us](https://www.ravs.england.nhs.uk/help-and-support). 
  
 ## Problems logging in 
  
@@ -47,6 +47,6 @@ If you are the only lead administrator at your organisation and you’ve been de
  
 ### Other log in problems  
 
-For any log in issues not covered on this page, [contact us](/service-unavailable). 
+For any log in issues not covered on this page, [contact us](https://www.ravs.england.nhs.uk/help-and-support).
 
 
