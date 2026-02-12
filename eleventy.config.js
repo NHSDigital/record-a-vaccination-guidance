@@ -6,6 +6,9 @@ const serviceName = 'Record a vaccination'
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
+    markdown: {
+      headingsStartWith: 'l'
+    },
     stylesheets: ['/styles/application.css'],
     header: {
       service: {
