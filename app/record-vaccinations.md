@@ -69,7 +69,7 @@ If you choose either of the first 2 options, you’ll skip a number of questions
 This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
 #### Same vaccination for another patient 
-This option allows you to save the date, site or team, vaccinator, vaccine product, batch and eligibility from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
+This option allows you to save the date, site or team, vaccinator, vaccine product, batch, eligibility and location type from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
 #### Different vaccination for another patient 
 This option takes you back to the start of the full recording journey.  
