@@ -44,9 +44,9 @@ In the Records section, you now have the option to delete a vaccination record, 
 
 ### New vaccinator role
 
-- In Manage users, when you add a user, you are now asked if the user is a vaccinator. This replaces a previous question that asked if the user was a registered clinician. Any user previously added as a registered clinician will now appear as a vaccinator.
-- In Record vaccinations, when you select a vaccinator, the list of names now includes users who have the role of vaccinator. Previously it included users with the role of registered clinician. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
-- In Find a patient, when you select a vaccinator, the list of names now only includes users who have the role of vaccinator. Previously it included all users. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
+In Manage users, when you add a user, you are now asked if the user is a vaccinator. Previously you were asked if the user was a registered clinician. Any user previously added as a registered clinician will now appear as a vaccinator.
+
+In Record vaccinations, when you select a vaccinator, the list of names now includes users who have the role of vaccinator. Previously it included users with the role of registered clinician. If a vaccinator is missing from the list, make sure they are a vaccinator in Manage users.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
