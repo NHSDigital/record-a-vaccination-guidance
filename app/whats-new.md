@@ -8,11 +8,11 @@ Find out about the latest changes to the Record a vaccination service.
 
 ## 2 February 2026
  
-### Home page changes
+### Changes to data shown on your home page
 
 We've updated the home page you see once you've logged in to RAVS. 
 
-- You can now view data by date, by vaccination type or by site (if your organisation has multiple sites)
+- You can now see the number of vaccinations recorded by date, by vaccination type or by site (if your organisation has multiple sites).
 - Select the tabs at the top of the table to switch between views.
 - The totals shown are based on the date a vaccination was recorded. Previously the totals were based on the date a vaccination was given. 
 
@@ -20,9 +20,9 @@ We've updated the home page you see once you've logged in to RAVS.
 
 ## 27 January 2026
  
-### Record vaccinations has replaced Find a patient
+### The Find a patient section has been removed
 
-The Find a patient section has been removed. To record a vaccination, use the Record vaccinations section. If you need to edit or delete a record, go to the Records section. 
+The Find a patient section is no longer available. To record a vaccination, use the Record vaccinations section. To edit or delete a record, go to the Records section. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
@@ -60,10 +60,10 @@ In Record vaccinations, when you record a COVID-19 vaccination for another patie
 
 ## 27 November 2025
 
-### Search for vaccinators
+### Selecting a vaccinator
 In Record vaccinations, we now only display up to 16 names on the 'Who is the vaccinator?' page. If there are more than 16 vaccinators at an organisation, you can search for a name instead of scrolling down a long list.
 
-### Reactivate multiple users in 1 go
+### Reactivating multiple users in 1 go
 In Manage users, there is now an option to reactivate all users who have been deactivated because they have not logged in for 90 days.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
