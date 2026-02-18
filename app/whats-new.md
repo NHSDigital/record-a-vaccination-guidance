@@ -10,16 +10,17 @@ Find out about the latest changes to the Record a vaccination service.
  
 ### Home page changes
 
-We've updated the home page that you see for your organisation once you've logged in to RAVS. 
+We've updated the home page you see once you've logged in to RAVS. 
 
-- You can now view data by date, by vaccination type or by site (if your organisation has multiple sites). Select the tabs at the top of the table to switch between views.
-- The totals shown on the home page are based on the date a vaccination was recorded. Previously the totals were based on the date a vaccination was given. 
+- You can now view data by date, by vaccination type or by site (if your organisation has multiple sites)
+- Select the tabs at the top of the table to switch between views.
+- The totals shown are based on the date a vaccination was recorded. Previously the totals were based on the date a vaccination was given. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## 27 January 2026
  
-### 'Record vaccinations' has replaced 'Find a patient'
+### Record vaccinations has replaced Find a patient
 
 The Find a patient section has been removed. To record a vaccination, use the Record vaccinations section. If you need to edit or delete a record, go to the Records section. 
 
