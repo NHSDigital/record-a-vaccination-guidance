@@ -10,9 +10,9 @@ Find out about the latest changes to the Record a vaccination service.
  
 ### Our contact details have changed
 
-We’ve changed the way you can contact the Record a vaccination support team.
-
 To contact us, you now need to go to our new [Help and support page](https://www.ravs.england.nhs.uk/help-and-support).
+
+This replaces the previous support email address and phone number, which are no longer in use.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
