@@ -6,6 +6,8 @@ eleventyExcludeFromCollections: true
 ---
 Find out about the latest changes to the Record a vaccination service.
 
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 10 February 2026
  
 ### Our contact details have changed
