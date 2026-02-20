@@ -22,7 +22,7 @@ We've updated the home page you see once you've logged in to RAVS.
  
 ### The Find a patient section has been removed
 
-The Find a patient section is no longer available. To record a vaccination, use the Record vaccinations section. To edit or delete a record, go to the Records section. 
+To record a vaccination, use the Record vaccinations section. To edit or delete a record, go to the Records section. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
