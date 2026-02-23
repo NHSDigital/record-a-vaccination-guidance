@@ -10,7 +10,7 @@ Find out about the latest changes to the Record a vaccination service.
 
 ## 10 February 2026
  
-### Our contact details have changed
+### New contact details for support
 
 To contact us, you now need to go to our new [Help and support page](https://www.ravs.england.nhs.uk/help-and-support).
 
@@ -26,7 +26,7 @@ We've updated the home page you see once you've logged in to RAVS.
 
 - You can now see the number of vaccinations recorded by date, by vaccination type or by site (if your organisation has multiple sites).
 - Select the tabs at the top of the table to switch between views.
-- The totals shown are based on the date a vaccination was recorded. Previously the totals were based on the date a vaccination was given. 
+- The totals are based on the date a vaccination was recorded, whereas previously they were based on the date a vaccination was given. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
@@ -38,7 +38,7 @@ To record a vaccination, use the Record vaccinations section. To edit or delete 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-### Searching for a record by patient name
+### Searching in the Records section by patient name
 
 In the Records section, you can now search for a record using a patient's details, such as name and date of birth. This is in addition to being able to search by NHS number. 
 
@@ -46,8 +46,8 @@ In the Records section, you can now search for a record using a patient's detail
 
 ## 15 January 2026
 
-### Deleting a record
+### Deleting a record in the Records section
 
-In the Records section, you now have the option to delete a vaccination record, as long at the record was created in RAVS by your organisation. 
+You can now delete a vaccination record in the Records section, as long at the record was created in RAVS by your organisation. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
