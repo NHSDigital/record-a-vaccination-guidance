@@ -6,8 +6,6 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
 ## 10 February 2026
  
 ### New contact details for support
