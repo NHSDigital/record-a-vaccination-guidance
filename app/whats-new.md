@@ -1,10 +1,10 @@
 ---
 layout: page
 title: What's new
+description: Find out about the latest changes to the Record a vaccination service.
 analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
-Find out about the latest changes to the Record a vaccination service.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
