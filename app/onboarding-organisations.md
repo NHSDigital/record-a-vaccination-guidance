@@ -78,13 +78,15 @@ To give an organisation that is already using RAVS access to another vaccine typ
 2.	On the next page showing details of the organisation, select 'Add vaccines'.
 3.	On the next page, select the vaccines you want to add.
 
-Once you've added a vaccine type to an organisation, you cannot remove it. If you add one by mistake, email [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk).
+Once you've added a vaccine type to an organisation, you cannot remove it. If you add one by mistake, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
 ## Problems signing in?
 
-If you cannot find your Okta activation email, check your junk. Or email [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) if it has expired or you need help.
+If you cannot find your Okta activation email, check your spam or junk. 
+
+If the link in the email has expired or you need help, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
 ## Adding other users to the regional onboarding tool
 
-To add another regional user, send a request to [ravs.support@england.nhs.uk](mailto:ravs.support@england.nhs.uk) from your Regional Vaccination Operations Centre (RVOC) mailbox.
+Your Regional Vaccination Operations Centre (RVOC) can ask for another user to be added. They should [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 

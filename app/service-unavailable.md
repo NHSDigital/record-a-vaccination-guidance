@@ -18,14 +18,11 @@ If the service is not available and you urgently need to record vaccinations, do
 
 When the service is available, you can enter the information from the form into the system.
 
-## Helpdesk
+## Contact us
 
-To report a problem, contact our helpdesk:
+To contact us, go to [Record a vaccination: Help and support](https://www.ravs.england.nhs.uk/help-and-support).
 
-- call 0333 038 4268 (select option 3)
-- email <ravs.support@england.nhs.uk>
-
-Monday to Friday: 8am to 6pm
+The support team is available Monday to Friday, 8am to 6pm.
 
 ## Troubleshooting tips
 
