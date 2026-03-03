@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What's new
-description: Find out about the latest changes to the Record a vaccination service.
+description: Find out about the latest changes to the Record a vaccination service (RAVS).
 analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
