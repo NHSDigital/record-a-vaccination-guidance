@@ -35,6 +35,11 @@ When you have found the vaccination record you want to edit, you’ll have the o
 * Dose (only for Fluenz nasal spray)
 * Optional note
 
+> [!NOTE]
+> If you change the vaccinator, you can only select vaccinators who are active users in RAVS. 
+>
+> If you want to select a vaccinator who has been deactivated, a lead administrator will need to reactivate that vaccinator first. 
+
 ## Deleting a record
 
 When you have found the record you want to delete, select the ‘Delete this record’ link at the bottom of the page and follow the instructions on screen.  
