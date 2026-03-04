@@ -9,9 +9,11 @@ order: 1
 
 {% include 'guide-contents.njk' %}
 
-This guide covers the different sections of the service. To help you get started, you can also [book a training webinar](https://outlook.office365.com/book/agemAppsTrainingRAVSTrainingRAVS@nhs.onmicrosoft.com/).
+This guide covers the different sections of Record a vaccination (RAVS). 
 
-- To log in, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
+For an introduction to RAVS, you can also [attend a drop-in session run by our onboarding team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678&eventdate=&done=EVTCreated).
+
+- To log in to RAVS, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
 - For information on who can use the service and how to onboard, see [NHS England Digital: Record a vaccination service](https://digital.nhs.uk/services/vaccinations-point-of-care/record-a-vaccination-service).
 
