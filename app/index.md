@@ -11,7 +11,7 @@ order: 1
 
 This guide covers the different sections of Record a vaccination (RAVS). 
 
-For an introduction to RAVS, you can also [attend a drop-in session run by our onboarding team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678&eventdate=&done=EVTCreated).
+For an introduction to RAVS, you can also [attend a drop-in session run by our onboarding team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678).
 
 - To log in to RAVS, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
