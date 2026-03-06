@@ -1,51 +1,32 @@
 ---
 layout: page
-title: What's new
-description: Find out about the latest changes to the Record a vaccination service (RAVS).
-analytics_key: whats-new
+title: Drop-in sessions
+description: Join a drop-in session with our onboarding team.
+analytics_key: drop-in-sessions
 eleventyExcludeFromCollections: true
 ---
 
-## 10 February 2026
+## Tuesday 17 March 2026 from 1pm to 1:45pm
  
-### New contact details for support
-
-To contact us, you now need to go to our new [Help and support page](https://www.ravs.england.nhs.uk/help-and-support).
-
-This replaces the previous support email address and phone number, which are no longer in use.
+[Register to join this session]([https://www.ravs.england.nhs.uk/help-and-support](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3).
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 2 February 2026
+## Friday 20 March 2026 from 11am to 11:45am
  
-### Changes to data shown on your home page
-
-We've updated the home page you see once you've logged in to RAVS. 
-
-- You can now see the number of vaccinations recorded by date, by vaccination type or by site (if your organisation has multiple sites).
-- Select the tabs at the top of the table to switch between views.
-- The totals are based on the date a vaccination was recorded, whereas previously they were based on the date a vaccination was given. 
+[Register to join this session](https://events.teams.microsoft.com/event/b7075adb-b03e-4cd1-8978-d958a603b8b9@37c354b2-85b0-47f5-b222-07b48d774ee3).
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 27 January 2026
+## Tuesday 24 March 2026 from 1pm to 1:45pm
  
-### The Find a patient section has been removed
-
-To record a vaccination, use the Record vaccinations section. To edit or delete a record, go to the Records section. 
+[Register to join this session](https://events.teams.microsoft.com/event/b1bd5c0a-b84c-4326-ad4e-58b9e99e815c@37c354b2-85b0-47f5-b222-07b48d774ee3).
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-### Searching in the Records section by patient name
-
-In the Records section, you can now search for a record using a patient's details, such as name and date of birth. This is in addition to being able to search by NHS number. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## 15 January 2026
-
-### Deleting a record in the Records section
-
-You can now delete a vaccination record in the Records section, as long at the record was created in RAVS by your organisation. 
+## Friday 27 March 2026 from 11am to 11:45am
+ 
+[Register to join this session](https://events.teams.microsoft.com/event/1cb2cd3f-67f2-407e-98d0-f1af8a28bff4@37c354b2-85b0-47f5-b222-07b48d774ee3).
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
