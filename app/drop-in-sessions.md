@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drop-in sessions
-description: Join a drop-in session with our onboarding team where they will be available to answer questions and provide guidance on using the service.
+description: Join a drop-in session where our onboarding team will be available to offer guidance and answer questions about using the service.
 analytics_key: drop-in-sessions
 eleventyExcludeFromCollections: true
 ---
