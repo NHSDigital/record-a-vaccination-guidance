@@ -34,9 +34,9 @@ eleventyExcludeFromCollections: true
 
 | Date and time                                     | Sign up for this session                                             | 
 |---------------------------------------------------|----------------------------------------------------------------------|
-| Tuesday 17 March 2026 from 1pm to 1:45pm          | [Register to join this session](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)                     | 
- Tuesday 17 March 2026 from 1pm to 1:45pm           | [Register to join this session](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3) 
-| Tuesday 17 March 2026 from 1pm to 1:45pm          | [Register to join this session](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)   
+| Tuesday 17 March 2026 from 1pm to 1:45pm          | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)                     | 
+ Tuesday 17 March 2026 from 1pm to 1:45pm           | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3) 
+| Tuesday 17 March 2026 from 1pm to 1:45pm          | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)   
 
 
 
