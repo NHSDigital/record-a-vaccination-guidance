@@ -1,19 +1,20 @@
 ---
 layout: page
 title: Drop-in sessions
-description: Join a drop-in session with our onboarding team.
 analytics_key: drop-in-sessions
 eleventyExcludeFromCollections: true
 ---
 
-If you are new to RAVS or have not used it for a while, you may want to join one of our drop-in sessions. Our onboarding team will be available to answer questions and offer guidance.  
+If you are new to RAVS or have not used it for a while, you may want to join a drop-in session. Our onboarding team will be available to answer questions and offer guidance.  
 
 
 | Date and time                                               | Sign up for this session                                             | 
 |-------------------------------------------------------------|---------------------------------------------------------------------:|
 | Tuesday 17 March 2026 from 1pm to 1:45pm                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)                     | 
  Friday 20 March 2026 from 11am to 11:45am                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3) 
-| Tuesday 24 March 2026 from 1pm to 1:45pm                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)   
+| Tuesday 24 March 2026 from 1pm to 1:45pm                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)  
+| Friday 27 March 2026 from 11am to 11:45am                  | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)   
+
 
 **Tuesday 17 March 2026 from 1pm to 1:45pm**
  
