@@ -1,12 +1,21 @@
 ---
 layout: page
-title: Drop-in sessions
+title: Training and drop-in sessions
 analytics_key: drop-in-sessions
 eleventyExcludeFromCollections: true
 ---
 
-If you are new to RAVS or have not used it for a while, you may want to join a drop-in session. Our onboarding team will be available to answer questions and offer guidance.  
+Our training video offers a short introduction to using Record a vaccination. If you have any questions, you can  sign up for or a drop-in session with our team.     
 
+## Video: Record a vaccination training guide
+
+This 15-minute guide explains how to use the service.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1121461476?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to use the Record a vaccination service"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
+<br>
+
+## Drop-in sessions 
 
 | Date and time                                               | Sign up for this session                                             | 
 |-------------------------------------------------------------|---------------------------------------------------------------------:|
