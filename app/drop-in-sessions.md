@@ -5,7 +5,7 @@ analytics_key: drop-in-sessions
 eleventyExcludeFromCollections: true
 ---
 
-Our training video offers a short introduction to using Record a vaccination. If you have any questions, you can  sign up for or a drop-in session with our team.     
+Our training video offers a short introduction to using Record a vaccination. If you have any questions after watching the video, sign up for a drop-in session with our team.     
 
 ## Video: Record a vaccination training guide
 
