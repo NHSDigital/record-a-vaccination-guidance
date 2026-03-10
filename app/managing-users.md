@@ -16,6 +16,8 @@ Only lead administrators have access to this section, where they can:
 * deactivate users
 * reactivate users
 
+![Manage users home page](/images/manage-users-home.png)
+
 On the Manage users home page, you can see invited, active and deactivated users.  
 
 Invited means users who have been added to RAVS but have not yet logged in. Deactivated means users who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
@@ -75,8 +77,6 @@ To switch organisations, they need to log out, log back in and select a new orga
 To change a user's permission levels or vaccinator status, select 'Change' next to their name on the Manage users home page.
 
 A change to permission levels becomes active when the user next logs in.
-
-![Screen shows user the manage users screen](/images/manage-users-home.png)
 
 ## Deactivating users
 
