@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 ## 12 March 2026
  
-### Manage users updates 
+### Updates to the Manage users section 
 
 On the Manage users home page, you can now view invited, active and deactivated users separately, by switching between 3 tabs.  
 
