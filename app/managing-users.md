@@ -9,7 +9,7 @@ order: 7
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators can access this section, where they can:
+Only lead administrators have access to this section, where they can:
 
 * add users
 * change a user's permissions
