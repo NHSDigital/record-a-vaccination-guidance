@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
  
 ### Manage users updates 
 
-On the Manage users home page, you can now view invited, active and deactivated users separately by switching between 3 tabs.  
+On the Manage users home page, you can now view invited, active and deactivated users separately, by switching between 3 tabs.  
 
 Invited means users who have been added to RAVS but have not yet logged in. Deactivated means users who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
 
