@@ -16,11 +16,9 @@ Only lead administrators can access this section, where they can:
 * deactivate users
 * reactivate users
 
-On the Manage users home page, you can view invited, active and deactivated users separately by switching between 3 tabs.  
+On the Manage users home page, you can see invited, active and deactivated users.  
 
 Invited means users who have been added to RAVS but have not yet logged in. Deactivated means users who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
-
-If you do not have any invited or deactivated users, you will just see active users. 
 
 ## Adding new users
 
@@ -49,7 +47,7 @@ You can have more than 1 user for each permission level.
 
 ![Screen shows user adding a new user's details and selecting their permission level](/images/manage-users-add.png)
 
-## Creating a RAVS account
+### Creating a RAVS account
 
 Once you have added a new user, we'll automatically create a RAVS account and send them a welcome email to access the service.
 
