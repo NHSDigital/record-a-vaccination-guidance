@@ -73,7 +73,7 @@ To switch organisations, they need to log out, log back in and select a new orga
 
 ## Changing a user's permissions or vaccinator status
 
-To change a user's permission levels or vaccinator status, select 'Change' next to their name on the Manage users home page.
+To change a user's permission levels or vaccinator status, select 'Change' next to their name.
 
 A change to permission levels becomes active when the user next logs in.
 
