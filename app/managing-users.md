@@ -13,8 +13,7 @@ Only lead administrators have access to this section, where they can:
 
 * add users
 * change a user's permissions
-* deactivate users
-* reactivate users
+* deactivate and reactivate users
 
 ![Manage users home page](/images/manage-users-home.png)
 
