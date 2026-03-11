@@ -81,7 +81,7 @@ A change to permission levels becomes active when the user next logs in.
 
 If a user no longer needs to access RAVS, you must deactivate their account.
 
-Select 'Change' next to a name on the Manage users home page. On the next screen you'll have the option to deactivate the account.
+Select 'Change' next to their name, and on the next screen you'll have the option to deactivate the account.
 
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
