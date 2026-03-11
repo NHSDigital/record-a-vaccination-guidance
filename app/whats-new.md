@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: true
 
 In the Manage users section, invited, active and deactivated users are now listed separately.
 
-Invited means users who have been added to RAVS but have not yet logged in. Deactivated means users who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+Invited users are those who have not yet logged in to RAVS. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
 
 If you do not have any invited or deactivated users, you will just see active users.
 
