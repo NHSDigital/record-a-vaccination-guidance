@@ -19,7 +19,7 @@ Only lead administrators have access to this section, where they can:
 
 In the Manage users section, you can see invited, active and deactivated users.  
 
-Invited means users who have been added to RAVS but have not yet logged in. Deactivated means users who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+Invited users are those who have yet logged in. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
 
 ## Adding new users
 
