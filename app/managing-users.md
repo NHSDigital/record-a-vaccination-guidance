@@ -9,7 +9,17 @@ order: 7
 
 {% include 'guide-contents.njk' %}
 
-Only lead administrators can access this section, where they can add and deactivate users, and change a user's permissions.
+Only lead administrators have access to this section, where they can:
+
+* add users
+* change a user's permissions
+* deactivate and reactivate users
+
+![Manage users home page](/images/manage-users-home.png)
+
+In the Manage users section, you can see invited, active and deactivated users.  
+
+Invited users are those who have not yet logged in. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
 
 ## Adding new users
 
@@ -38,14 +48,14 @@ You can have more than 1 user for each permission level.
 
 ![Screen shows user adding a new user's details and selecting their permission level](/images/manage-users-add.png)
 
-## Creating a RAVS account
+### Creating a RAVS account
 
 Once you have added a new user, we'll automatically create a RAVS account and send them a welcome email to access the service.
 
-Okta allows new users to sign in and use RAVS.
+RAVS uses Okta to sign users in securely.
 
-* If users already have an Okta account for other NHS applications, their RAVS account will be added to their existing Okta account.
-* If users are new to Okta, they'll also receive an Okta email with instructions to set up their account. They'll need to do this first to access RAVS.
+* If users already have an Okta account, they can log in to RAVS as soon as they've received the welcome email, using their Okta username and password.
+* If users are new to Okta, they'll also receive an email from Okta with instructions to set up their Okta account. They'll need to do this first to access RAVS.
 
 ## Adding a user to multiple organisations
 
@@ -61,35 +71,26 @@ Each time they log in, they will see a screen listing all the organisations they
 
 To switch organisations, they need to log out, log back in and select a new organisation.
 
-### If a user was added to multiple organisations before 16 December 2024
-
-Before 16 December 2024, to access RAVS at multiple organisations, a user needed a separate email address linked to each organisation.
-
-If a user has more than 1 email address to access RAVS, they can continue to use separate emails and Okta accounts for each organisation.
-
-Or, if they want to only use their main email address to access RAVS at each organisation, they can do the following:
-
-* add themselves (or ask a lead administrator to add them) to an organisation using their main email address
-* then deactivate (or ask a lead administrator to deactivate) the extra email account they used previously for that organisation
-
-Any records previously created with an extra email account will remain unchanged.
-
 ## Changing a user's permissions or vaccinator status
 
-To change a user's permission levels or vaccinator status, select 'Change' next to their name on the 'Manage users' screen.
+To change a user's permission levels or vaccinator status, select 'Change' next to their name.
 
 A change to permission levels becomes active when the user next logs in.
 
-![Screen shows user the manage users screen](/images/manage-users-home.png)
-
 ## Deactivating users
 
-If a user no longer works at your organisation, you must deactivate their account.
+If a user no longer needs to access RAVS, you must deactivate their account.
 
-Select 'Change' next to a name on the 'Manage users' screen. On the next screen you'll have the option to deactivate the account.
+Select 'Change' next to their name, and on the next screen you'll have the option to deactivate the account.
 
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
-If you deactivate a user who works at several organisations, they will only be deactivated from your organisation. Their access to RAVS at other organisations will not change.
+If you deactivate a user who works at several organisations, they will only be deactivated from your organisation.
 
-You can reactivate users at any time from the 'Manage users' screen.
+## Reactivating users
+
+From the Manage users home page, you have 2 options for reactivating users.  
+ 
+To reactivate all users who have not logged in for 90 days, select the 'Reactivate users' link that appears before the list of users.  
+ 
+To reactivate an individual user, select the 'Reactivate' link next to the user you want to reactivate. 

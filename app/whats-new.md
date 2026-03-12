@@ -6,6 +6,18 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 12 March 2026
+ 
+### Updates to the Manage users section 
+
+In the Manage users section, invited, active and deactivated users are now listed separately.
+
+Invited users are those who have not yet logged in to RAVS. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+
+If you do not have any invited or deactivated users, you will just see active users.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 10 February 2026
  
 ### New contact details for support
