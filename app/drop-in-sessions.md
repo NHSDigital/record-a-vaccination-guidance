@@ -11,6 +11,6 @@ Our training video offers a 10-minute introduction to the different sections of 
 <br>
 <br>
 
-If you have any questions after watching the video, you can [sign up for a drop-in session with our team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678). 
+If you have any questions after watching the video, [sign up for a drop-in session with our team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678). 
  
 
