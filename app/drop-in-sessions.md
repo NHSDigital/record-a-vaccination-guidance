@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Training and drop-in sessions
-analytics_key: drop-in-sessions
+title: Training video
+analytics_key: training-video
 eleventyExcludeFromCollections: true
 ---
 
-Our training video offers a short introduction to using Record a vaccination. If you have any questions after watching the video, sign up for a drop-in session with our team.     
+Our training video offers a short introduction to using Record a vaccination.     
 
 ## Video: Record a vaccination training guide
 
@@ -15,12 +15,7 @@ This 15-minute guide explains how to use the service.
 <br>
 <br>
 
-## Drop-in sessions 
 
-| Date and time                                               | Sign up for this session                                             | 
-|-------------------------------------------------------------|---------------------------------------------------------------------:|
-| Tuesday 17 March 2026 from 1pm to 1:45pm                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)                     | 
- Friday 20 March 2026 from 11am to 11:45am                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3) 
-| Tuesday 24 March 2026 from 1pm to 1:45pm                    | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)  
-| Friday 27 March 2026 from 11am to 11:45am                  | [Register](https://events.teams.microsoft.com/event/ae986868-ca13-4623-aada-8641b752fc62@37c354b2-85b0-47f5-b222-07b48d774ee3)   
+If you have any questions after watching the video, [sign up for a drop-in session with our team](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678). 
+ 
 
