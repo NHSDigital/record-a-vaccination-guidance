@@ -1,9 +1,13 @@
 ---
 layout: page
+caption: User guide
 title: Training video
 analytics_key: training-video
-eleventyExcludeFromCollections: true
+showPagination: true
+order: 8
 ---
+
+{% include 'guide-contents.njk' %}
 
 Our training video offers a 10-minute introduction to the different sections of Record a vaccination.     
 
