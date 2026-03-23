@@ -21,9 +21,7 @@ This short video shows you how to record a vaccination.
 
 ## How to record a vaccination
 
-### First step: look up the patient
-
-You'll be asked to enter the patient’s NHS number, or their name and date of birth. 
+First, you'll be asked to enter the patient’s NHS number, or their name and date of birth. 
 
 We then look up the patient’s details and vaccination history and display these to you.  
 
@@ -34,9 +32,7 @@ If no match is found for the details you entered, you have the option to record 
 >
 > If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.
 
-### Next steps
-
-Once you’ve checked the patient’s details and vaccination history, we ask the following:
+Once you’ve checked the patient’s details and vaccination history, we ask for the following:
 
 * date of vaccination
 * site or team (only asked if your organisation has several sites)
@@ -65,13 +61,13 @@ Once you’ve recorded your first vaccination, you are presented with 3 options 
 
 If you choose either of the first 2 options, you’ll skip a number of questions as some of your previous answers will be saved.
 
-#### Another vaccination for the same patient (co-admin) 
+### Another vaccination for the same patient (co-admin) 
 This option saves the date, site or team, vaccinator and patient details from the previous vaccination you recorded.  
 
-#### Same vaccination for another patient 
+### Same vaccination for another patient 
 This option allows you to save the date, site or team, vaccinator, vaccine product, batch, eligibility and location type from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
-#### Different vaccination for another patient 
+### Different vaccination for another patient 
 This option takes you back to the start of the recording journey.  
  
 
