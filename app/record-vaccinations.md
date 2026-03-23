@@ -21,35 +21,33 @@ This short video shows you how to record a vaccination.
 
 ## How to record a vaccination
 
-When you record your first vaccination of the day or session, we ask for:
+### First step: look up the patient
 
-* Date of vaccination
-* Site or team (only asked if your organisation has several sites)
-* Name of the vaccinator (you will only see the names of users who've been added to RAVS as a 'vaccinator' by a lead administrator)
-* Vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the 'Vaccines' section of RAVS)
-* Eligibility (asked for all vaccinations except pertussis)
-* Location type (only asked for COVID-19)
-* Patient's NHS number or details
+The first step is we ask you to enter the patient’s NHS number, or their name and date of birth. We then look up the patient’s details and vaccination history and display these to you.  
+
+If no match is found for the details you entered, you have the option to record a vaccination without an NHS number. 
 
 > [!NOTE]
 > You must use upper case letters and a space when you enter a postcode. For example, SW1A 2AA.
 >
 > If the patient is homeless, you can try searching with the postcode ZZ99 3VZ.
 
-At this point we look up the patient's details and vaccination history. 
+## Next steps
 
-If a match is found, you’ll be shown the patient's details and vaccination history. 
+Once you’ve checked the patient’s details and vaccination history, we ask the following:
 
-If no match is found, you have the option to search again or to record a vaccination without an NHS number.
+* date of vaccination
+* site or team (only asked if your organisation has several sites)
+* name of the vaccinator (you will only see the names of users who've been added to RAVS as a 'vaccinator' by a lead administrator)
+* vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the 'Vaccines' section of RAVS)
+* why the patient is eligible (asked for all vaccinations except pertussis)
+* location type (only asked for COVID-19)
+* patient's estimated due date (only asked for pertussis, and RSV if pregnant)
+* consent details
+* where on the body the vaccination was given (only asked for injected vaccines)
+* if a full dose was given (only asked for Fluenz nasal spray)
 
 You may also see a warning if there is some important information to consider. But the warning will not prevent you from continuing. 
-
-Next you'll be asked:
-
-* Patient's estimated due date (only asked for pertussis, and RSV if pregnant)
-* Consent details
-* Where on the body the vaccination was given (only asked for injected vaccines)
-* If a full dose was given (only asked for Fluenz nasal spray)
 
 ### Saving a vaccination record
 
@@ -72,7 +70,7 @@ This option saves the date, site or team, vaccinator and patient details from th
 This option allows you to save the date, site or team, vaccinator, vaccine product, batch, eligibility and location type from the previous vaccination. Before you start recording, you have the option to change some of the saved answers.  
 
 #### Different vaccination for another patient 
-This option takes you back to the start of the full recording journey.  
+This option takes you back to the start of the recording journey.  
  
 
 ## Editing and deleting records
