@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 25 March 2026
+## 26 March 2026
  
 ### Recording a vaccination starts with patient search
 
