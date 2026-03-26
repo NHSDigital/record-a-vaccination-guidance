@@ -65,12 +65,6 @@ The user will then be able to use the same email address and Okta account to acc
 
 Users can have different permission levels at each organisation.
 
-### If a user has been added to multiple organisations
-
-Each time they log in, they will see a screen listing all the organisations they're currently associated with. They then have to select the relevant organisation.
-
-To switch organisations, they need to log out, log back in and select a new organisation.
-
 ## Changing a user's permissions or vaccinator status
 
 To change a user's permission levels or vaccinator status, select 'Change' next to their name.
