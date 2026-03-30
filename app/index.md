@@ -18,6 +18,8 @@ You can also:
 
 To access the service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
+For information on who can use the service and how to onboard, see [NHS England Digital: Record a vaccination service](https://digital.nhs.uk/services/vaccinations-point-of-care/record-a-vaccination-service).
+
 ## Vaccination data
 
 
