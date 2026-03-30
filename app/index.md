@@ -11,11 +11,12 @@ order: 1
 
 This guide covers the different sections of Record a vaccination (RAVS). 
 
-You can also [join a drop-in session](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678) if you have any questions. 
+You can also:
 
-- To log in to RAVS, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
+* [watch our training video](/training-video/) for an introduction to using RAVS
+* [join a drop-in session](https://future.nhs.uk/vaccsandscreening/viewCalendar?cid=1351409&viewDate=20260320&eid=10708678), if you have any questions 
 
-- For information on who can use the service and how to onboard, see [NHS England Digital: Record a vaccination service](https://digital.nhs.uk/services/vaccinations-point-of-care/record-a-vaccination-service).
+To access the service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
 ## Vaccination data
 
@@ -35,6 +36,3 @@ You can also [join a drop-in session](https://future.nhs.uk/vaccsandscreening/vi
 All vaccinations recorded in RAVS will appear in the patient's GP record.
 
 When you record vaccinations in RAVS, do not send these records to GPs as this may create duplicate entries in the patient's GP record.
-
-
-
