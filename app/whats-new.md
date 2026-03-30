@@ -6,6 +6,32 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 26 March 2026
+ 
+### Recording a vaccination starts with patient search
+
+We’ve changed the order of the Record vaccinations section so it now starts with searching for the patient.  
+
+This means you will see the patient’s details and vaccination history before you select the vaccine or answer any other questions. 
+
+### Switching between accounts made easier
+
+If you use RAVS at more than 1 organisation, you can now switch between accounts without having to log out and log back in.  
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 12 March 2026
+ 
+### Updates to the Manage users section 
+
+In the Manage users section, invited, active and deactivated users are now listed separately.
+
+Invited users are those who have not yet logged in to RAVS. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+
+If you do not have any invited or deactivated users, you will just see active users.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 10 February 2026
  
 ### New contact details for support
