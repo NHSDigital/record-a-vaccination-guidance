@@ -17,7 +17,7 @@ To create a report, select the 'Reports' link in the header.
 
 You will then be asked to select what you want to report on, including the:
 
-* timeframe (up to a maximum of 31 days)
+* timeframe (up to a maximum of 90 days)
 * vaccines
 * sites
 
