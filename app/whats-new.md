@@ -6,6 +6,22 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 7 April 2026
+ 
+### Longer timeframe for reports 
+
+You can now create a report for up 90 days. 
+
+### COVID-19 vaccine products 
+
+We’ve updated the list of COVID-19 vaccine products for the spring 2026 campaign.
+
+### RSV vaccination eligibility 
+
+For RSV, we’ve replaced the eligibility option **Aged 75 to 80 years old** with **Based on age or in an at-risk group**. This is to allow for the expanded eligibility criteria for RSV vaccinations.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 26 March 2026
  
 ### Recording a vaccination starts with patient search
