@@ -15,11 +15,13 @@ Only lead administrators have access to this section, where they can:
 * change a user's permissions
 * deactivate and reactivate users
 
-![Manage users home page](/images/manage-users-home.png)
+## Video: Managing users
 
-In the Manage users section, you can see invited, active and deactivated users.  
+This short video shows you how to add and manage users.
 
-Invited users are those who have not yet logged in. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176147534?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to manage users in the record a vaccination service"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
+<br>
 
 ## Adding new users
 
@@ -65,12 +67,6 @@ The user will then be able to use the same email address and Okta account to acc
 
 Users can have different permission levels at each organisation.
 
-### If a user has been added to multiple organisations
-
-Each time they log in, they will see a screen listing all the organisations they're currently associated with. They then have to select the relevant organisation.
-
-To switch organisations, they need to log out, log back in and select a new organisation.
-
 ## Changing a user's permissions or vaccinator status
 
 To change a user's permission levels or vaccinator status, select 'Change' next to their name.
@@ -86,6 +82,9 @@ Select 'Change' next to their name, and on the next screen you'll have the optio
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
 If you deactivate a user who works at several organisations, they will only be deactivated from your organisation.
+
+> [!NOTE]
+> Users are automatically deactivated if they have not logged in to RAVS for 90 days. 
 
 ## Reactivating users
 
