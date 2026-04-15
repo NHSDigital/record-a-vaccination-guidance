@@ -41,6 +41,7 @@ We then ask for the following:
 * why the patient is eligible (asked for all vaccinations except pertussis)
 * location type (only asked for COVID-19)
 * patient's estimated due date (only asked for pertussis, and RSV if pregnant)
+* which dose was given (only asked for MenB)
 * consent details
 * where on the body the vaccination was given (only asked for injected vaccines)
 * if a full dose was given (only asked for Fluenz nasal spray)
