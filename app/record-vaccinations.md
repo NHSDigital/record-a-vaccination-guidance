@@ -36,9 +36,9 @@ We then ask for the following:
 
 * date of vaccination
 * site or team (only asked if your organisation has several sites)
-* name of the vaccinator (you will only see the names of users who've been added to RAVS as a 'vaccinator' by a lead administrator)
-* vaccine and batch details (if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the 'Vaccines' section of RAVS)
-* why the patient is eligible (asked for all vaccinations except pertussis)
+* name of the vaccinator – you will only see the names of users who've been added to RAVS as a vaccinator by a lead administrator
+* vaccine and batch details – if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the Vaccines section of RAVS
+* why the patient is eligible (only asked for some vaccinations)
 * location type (only asked for COVID-19)
 * patient's estimated due date (only asked for pertussis, and RSV if pregnant)
 * which dose was given (only asked for MenB)
@@ -71,7 +71,6 @@ This option allows you to save the date, site or team, vaccinator, vaccine produ
 ### Different vaccination for another patient 
 This option takes you back to the start of the recording journey.  
  
-
 ## Editing and deleting records
 
 To edit or delete a vaccination record, go to the [Records](https://guide.ravs.england.nhs.uk/records/) section.
