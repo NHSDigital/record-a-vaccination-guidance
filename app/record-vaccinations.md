@@ -25,6 +25,20 @@ First, we ask for the patient’s NHS number, or their name and date of birth.
 
 We then look up the patient. If a match is found, you'll be shown the patient's details and vaccination history. 
 
+{% from "details/macro.njk" import details %}
+
+{% call details({
+  summaryText: "What is included in the vaccination history",
+  classes: "nhsuk-expander"
+}) %}
+  <p>Currently you can expect to see:</p>
+  <ul>
+    <li>all vaccinations recorded in RAVS, including flu, COVID-19, pertussis, RSV, MenB, MMR and pneumococcal </li>
+    <li>most flu, COVID-19 and RSV vaccinations recorded in other systems </li>
+    <li>some MMR, MenB and pneumococcal vaccinations recorded in other systems </li>
+  </ul>
+{% endcall %}
+
 If no match is found for the details you entered, you have the option to record a vaccination without an NHS number. 
 
 > [!NOTE]
