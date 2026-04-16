@@ -20,11 +20,13 @@ To access the service, go to [NHS Record a vaccination](https://www.ravs.england
 
 ## The vaccinations you can record in RAVS
 
-Depending on your setting, you can record all or some of these vaccinations in RAVS:
+Depending on your setting, you can record some or all of these vaccinations in RAVS:
 
 - COVID-19
 - Flu
 - Pertussis
 - RSV
+- MenB
 - Pneumococcal
-- MenB   
+
+Last updated: 17 April 2026
