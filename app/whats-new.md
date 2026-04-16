@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 ## 16 April 2026
  
-### Extra column in reports for patient contact details
+### Extra column in reports for the patient's contact details
 
 We've added a new column to the reports to include the patient's contact details. The new column comes after the postcode column. 
 
