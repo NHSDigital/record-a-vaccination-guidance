@@ -23,12 +23,27 @@ This short video shows you how to add vaccines.
 
 ## How to add vaccines
 
-Select the 'Vaccines' link in the header. This will take you to the Vaccines home screen.
+Select the **Vaccines** link in the header. This will take you to the Vaccines section.
 
-Then select 'Add vaccine' and follow the instructions on the next screens to:
+Then select **Add vaccine** and follow the instructions on the next pages to:
 
 - select the site where you want to add vaccines, if your organisation has multiple sites
 - select the vaccine type and vaccine product
 - enter the batch number and expiry date
 
-When a batch has run out, you can mark it as depleted. This means you will no longer be able to select that batch when recording a vaccination.
+## How to view details of vaccine batches
+
+Select **View** next to a vaccine product to see all the batches ever added, including any that are now inactive because they are finished or past their expiry date. 
+
+## When a batch is finished
+
+When a batch runs out, you can mark it as depleted (finished). You will be asked to select the date of depletion. The earliest date you can select is the following day.  
+
+Once a batch is marked as depleted, it is not available to select when you record a vaccination given after the depletion date.  
+
+## If you are a London-based pharmacy
+
+If you are a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
+For flu vaccinations offered as part of the national flu service, select **Flu**. 
+
+For flu vaccinations offered as part of the London flu service that targets specific health inclusion groups, such as asylum seekers and homeless people, select **Flu (London)**.
