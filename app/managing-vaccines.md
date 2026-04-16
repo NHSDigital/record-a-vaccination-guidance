@@ -44,6 +44,7 @@ Once a batch is marked as depleted, it is not available to select when you recor
 ## If you are a London-based pharmacy
 
 If you are a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
+
 For flu vaccinations offered as part of the national flu service, select **Flu**. 
 
 For flu vaccinations offered as part of the London flu service that targets specific health inclusion groups, such as asylum seekers and homeless people, select **Flu (London)**.
