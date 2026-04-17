@@ -27,6 +27,7 @@ Depending on your setting, you can record some or all of these vaccinations in R
 - Pertussis
 - RSV
 - MenB
+- MMR
 - Pneumococcal
 
 Last updated: 17 April 2026
