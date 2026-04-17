@@ -18,21 +18,16 @@ You can also:
 
 To access the service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
-## Vaccination data
+## The vaccinations you can record in RAVS
 
+Depending on your setting, you can record some or all of these vaccinations in RAVS:
 
-| Vaccine          | Can be recorded in RAVS | Shown in RAVS vaccination history if recorded by a GP |
-|------------------|-----------------|---------------------------------|
-| COVID-19         | Yes             | Yes                             |
-| Flu              | Yes             | Yes                             |
-| MMR              | Yes             | No                              |
-| Pertussis        | Yes             | No                              |
-| Pneumococcal     | Yes             | No                              |
-| RSV              | Yes             | Yes                             |
+- COVID-19
+- Flu
+- Pertussis
+- RSV
+- MenB
+- MMR
+- Pneumococcal
 
-
-### Data sent to GPs
-
-All vaccinations recorded in RAVS will appear in the patient's GP record.
-
-When you record vaccinations in RAVS, do not send these records to GPs as this may create duplicate entries in the patient's GP record.
+Last updated: 17 April 2026
