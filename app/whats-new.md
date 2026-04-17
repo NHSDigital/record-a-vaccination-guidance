@@ -6,6 +6,14 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 16 April 2026
+ 
+### Extra column in reports for the patient's contact details
+
+We've added a new column to the reports to include the patient's contact details. The new column comes after the postcode column. 
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 7 April 2026
  
 ### Longer timeframe for reports 
