@@ -9,7 +9,7 @@ order: 2
 
 {% include 'guide-contents.njk' %}
 
-To log in to service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
+To log in to the service, go to [NHS Record a vaccination](https://www.ravs.england.nhs.uk).
 
 ## Users who have an Okta account
 
