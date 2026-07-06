@@ -13,13 +13,11 @@ To log in to the service, go to [NHS Record a vaccination](https://www.ravs.engl
 
 ## Users who already have an Okta account
 
-Record a vaccination (RAVS), like some other NHS services, used Okta to sign users in securely.
+Record a vaccination (RAVS), like some other NHS services, usee Okta to sign users in securely.
 
-If you already have an Okta account, you will get a welcome email from RAVS, telling you how to log in using your Okta username and password. 
+If you already have an Okta account, you will get a welcome email telling you how to log in to RAVS using your Okta username and password. 
 
-Your Okta username will be the email address used to sign up to RAVS. If you cannot remember your passoword, you'll have the option to reset it when you try to log in.
-
-If you have not used Okta in the past 6 months, you may not be able to reset your password. In that case, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58). 
+Your Okta username will be the email address used to sign up to RAVS. If you've forgotten your password, you'll have the option to reset it. If that does not work, it may be your Okta account as been suspended if you have not used it for 6 months. In that case, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58) and ask them to reset your password.
 
 ## Users who do not have an Okta account 
 
@@ -47,6 +45,6 @@ If you are the only lead administrator at your organisation and you’ve been de
  
 ### Other log in problems  
 
-For any log in issues not covered on this page, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
+For any log in problems not covered on this page, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
 
