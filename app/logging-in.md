@@ -17,7 +17,7 @@ Record a vaccination (RAVS), like some other NHS services, used Okta to sign use
 
 If you already have an Okta account, you will get a welcome email from RAVS, telling you how to log in using your Okta username and password. 
 
-Your Okta username will the email address used to sign up to RAVS. If you cannot remember your passoword, you'll have the option to reset it when you try to log in.
+Your Okta username will be the email address used to sign up to RAVS. If you cannot remember your passoword, you'll have the option to reset it when you try to log in.
 
 If you have not used Okta in the past 6 months, you may not be able to reset your password. In that case, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58). 
 
@@ -27,7 +27,7 @@ If you do not have an Okta account, we will create one for you at the same time 
 
 You will get 2 emails: one from Okta and another from Record a vaccination. 
 
-The email frpm Okta includes an ‘Activate Okta Account’ link, which expires after 7 days. 
+The email from Okta includes an ‘Activate Okta Account’ link, which expires after 7 days. 
 
 If you cannot find the email from Okta, check your spam or junk. 
 
