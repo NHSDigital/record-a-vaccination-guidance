@@ -35,7 +35,7 @@ We then look up the patient. If a match is found, you'll be shown the patient's 
     <p>Currently you can expect to see:</p>
     <ul>
       <li>all vaccinations recorded in RAVS, including flu, COVID-19, pertussis, RSV, MenB, MMR and pneumococcal </li>
-      <li>most flu, COVID-19 and RSV vaccinations recorded in other systems </li>
+      <li>most flu, COVID-19, pertussis and RSV vaccinations recorded in other systems </li>
       <li>some MMR, MenB and pneumococcal vaccinations recorded in other systems </li>
     </ul>
 
