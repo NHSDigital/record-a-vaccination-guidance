@@ -4,7 +4,7 @@ caption: User guide
 title: Patient upload history
 analytics_key: 
 showPagination: true
-order: 6
+order: 16
 ---
 
 {% include 'maternity-guide-contents.njk' %}

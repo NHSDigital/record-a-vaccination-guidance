@@ -4,7 +4,7 @@ caption: User guide
 title: Viewing patients
 analytics_key: 
 showPagination: true
-order: 3
+order: 13
 ---
 
 {% include 'maternity-guide-contents.njk' %}

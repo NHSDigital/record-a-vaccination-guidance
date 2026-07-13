@@ -4,7 +4,7 @@ caption: User guide
 title: Records
 analytics_key: 
 showPagination: true
-order: 2
+order: 12
 ---
 
 {% include 'maternity-guide-contents.njk' %}

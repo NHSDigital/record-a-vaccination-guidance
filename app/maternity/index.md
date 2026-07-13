@@ -3,8 +3,8 @@ layout: page
 caption: User guide
 title: Using the private beta maternity service in RAVS
 analytics_key: 
-showPagination: true
-order: 0
+showPagination: "next"
+order: 10
 ---
 
 {% include 'maternity-guide-contents.njk' %}

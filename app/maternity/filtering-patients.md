@@ -4,7 +4,7 @@ caption: User guide
 title: Filtering patients
 analytics_key: 
 showPagination: true
-order: 4
+order: 14
 ---
 
 {% include 'maternity-guide-contents.njk' %}

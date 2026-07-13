@@ -3,7 +3,7 @@ layout: page
 caption: User guide
 title: If there is a problem
 analytics_key: service-unavailable
-showPagination: true
+showPagination: "previous"
 order: 9
 ---
 

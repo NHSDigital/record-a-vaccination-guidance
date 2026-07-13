@@ -4,7 +4,7 @@ caption: User guide
 title: Exporting patients
 analytics_key: 
 showPagination: true
-order: 5
+order: 15
 ---
 
 {% include 'maternity-guide-contents.njk' %}

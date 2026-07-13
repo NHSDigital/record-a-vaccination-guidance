@@ -3,8 +3,8 @@ layout: page
 caption: User guide
 title: If there is a problem
 analytics_key: 
-showPagination: true
-order: 7
+showPagination: "previous"
+order: 17
 ---
 
 {% include 'maternity-guide-contents.njk' %}
