@@ -6,6 +6,14 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 14 July 2026
+ 
+### Pertussis vaccinations given by GPs now show in RAVS 
+
+The vaccination history you see in RAVS now includes pertussis vaccinations recorded in GP systems since January 2026.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 16 April 2026
  
 ### Extra column in reports for the patient's contact details
