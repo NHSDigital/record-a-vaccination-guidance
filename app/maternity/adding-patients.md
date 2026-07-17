@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Records
+title: Adding patients
 analytics_key: 
 showPagination: true
 order: 12
@@ -13,6 +13,8 @@ order: 12
 ## Preparing a CSV file 
 
 To add pregnant patients, you first need to export them from the system you currently use to manage pregnant patients.
+
+![Screen showing the user the ability to select and upload a file](/images/maternity-images/add-patients.png)
 
 You must export the information as a CSV file that includes a header row followed by data rows.  
 
