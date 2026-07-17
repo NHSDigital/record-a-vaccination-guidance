@@ -14,6 +14,8 @@ order: 12
 
 To add pregnant patients, you first need to export them from the system you currently use to manage pregnant patients.
 
+![Screen showing the user the ability to select and upload a file](/images/maternity-images/add-patients.png)
+
 You must export the information as a CSV file that includes a header row followed by data rows.  
 
 The header row has two mandatory columns: NHS number, Due date.  
