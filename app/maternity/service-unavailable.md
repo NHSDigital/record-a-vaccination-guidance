@@ -2,21 +2,12 @@
 layout: page
 caption: User guide
 title: If there is a problem
-analytics_key: service-unavailable
+analytics_key: 
 showPagination: "previous"
-order: 9
+order: 17
 ---
 
-{% include 'guide-contents.njk' %}
-
-## Download a paper form
-
-If the service is not available and you urgently need to record vaccinations, download our paper form:
-
-- [RAVS paper form (Word)](/files/record-a-vaccination.docx)
-- [RAVS paper form (PDF)](/files/record-a-vaccination.pdf)
-
-When the service is available, you can enter the information from the form into the system.
+{% include 'maternity-guide-contents.njk' %}
 
 ## Contact us
 

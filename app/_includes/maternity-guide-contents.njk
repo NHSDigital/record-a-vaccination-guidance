@@ -1,0 +1,46 @@
+{% from '../../node_modules/nhsuk-frontend/dist/nhsuk/components/contents-list/macro.njk' import contentsList %}
+
+{{ contentsList({
+  items: [
+    {
+      href: "/maternity/",
+      text: "Overview",
+      current: (page.url == "/maternity/")
+    },
+    {
+      href: "/maternity/logging-in/",
+      text: "Logging in",
+      current: (page.url == "/maternity/logging-in/")
+    },
+    {
+      href: "/maternity/adding-patients/",
+      text: "Adding patients",
+      current: (page.url == "/maternity/adding-patients/")
+    },
+    {
+      href: "/maternity/viewing-patients/",
+      text: "Viewing patients",
+      current: (page.url == "/maternity/viewing-patients/")
+    },
+    {
+      href: "/maternity/filtering-patients/",
+      text: "Filtering patients",
+      current: (page.url == "/maternity/filtering-patients/")
+    },
+    {
+      href: "/maternity/exporting-patients/",
+      text: "Exporting patients",
+      current: (page.url == "/maternity/exporting-patients/")
+    },
+    {
+      href: "/maternity/upload-history/",
+      text: "Patient upload history",
+      current: (page.url == "/maternity/upload-history/")
+    },
+    {
+      href: "/maternity/service-unavailable/",
+      text: "If there is a problem",
+      current: (page.url == "/maternity/service-unavailable/")
+    }
+  ]
+}) }}
