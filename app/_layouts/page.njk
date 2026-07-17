@@ -19,15 +19,33 @@
 
   {{ appProseScope(content) if content }}
 
+  {% if showNextPagination %}
+    {% set next = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getNextNavigationItem(page.url) %}
+    {{ nhsukPagination({
+      classes: "nhsuk-u-reading-width",
+      nextUrl: next.url if next,
+      nextPage: next.title if next
+    }) }}
+  {% endif %}
+
+  {% if showPreviousPagination %}
+    {% set previous = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getPreviousNavigationItem(page.url) %}
+    {{ nhsukPagination({
+      classes: "nhsuk-u-reading-width",
+      previousUrl: previous.url if previous,
+      previousPage: previous.title if previous
+    }) }}
+  {% endif %}
+
   {% if showPagination %}
     {% set previous = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getPreviousNavigationItem(page.url) %}
     {% set next = collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | getNextNavigationItem(page.url) %}
     {{ nhsukPagination({
       classes: "nhsuk-u-reading-width",
-      previousUrl: previous.url if previous,
-      previousPage: previous.title if previous,
-      nextUrl: next.url if next,
-      nextPage: next.title if next
+      previousUrl: previous.url if previous and (showPagination == true or showPagination == "true" or showPagination == "previous"),
+      previousPage: previous.title if previous and (showPagination == true or showPagination == "true" or showPagination == "previous"),
+      nextUrl: next.url if next and (showPagination == true or showPagination == "true" or showPagination == "next"),
+      nextPage: next.title if next and (showPagination == true or showPagination == "true" or showPagination == "next")
     }) }}
   {% endif %}
 
