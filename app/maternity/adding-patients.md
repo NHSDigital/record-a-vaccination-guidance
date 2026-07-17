@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Adding patients
+title: Records
 analytics_key: 
 showPagination: true
 order: 12
