@@ -63,7 +63,9 @@ Only 1 user at the time from your company can create a report. If a report is al
 
 Once your colleague’s report is ready, the page will refresh and show the ‘Create report’ button meaning you can start creating a new report.
 
-## Any questions or need help?
+## Help and support
 
-[Contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
+If you have any questions or need help with technical issues, contact the RAVS support team. 
+
+To do this you will need to [log in to the NHS National IT Customer Support Portal](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58). 
 
