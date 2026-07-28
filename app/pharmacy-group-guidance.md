@@ -33,6 +33,13 @@ You'll also each user's permission levels and whether they are a vaccinator.
 
 This table shows the different permission levels a user can have at an individual pharmacy. 
 
+
+| **Permission level**       | **Record and edit vaccinations** | **Add and manage vaccines** | **Create reports** | **Add and manage users** |
+|----------------------------|---------------------------|----------------------|-----------------|---|
+| **Recorder**               | Yes                       | No                 | No             | No |
+| **Administrator**          | Yes                       | Yes                  | Yes              | No |
+| **Lead administrator**     | Yes                       | Yes                  | Yes              | Yes |
+
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## Users section
