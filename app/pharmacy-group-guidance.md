@@ -11,7 +11,7 @@ This guidance describes the features that will be available on [DATE]. We will b
 
 The Pharmacies page lists pharmacies in your company that are already onboarded to the Record a vaccination service (RAVS). 
 
-The status of each pharmacy is shown as either Active or Invited. 
+The status of each pharmacy is shown as either active or invited. 
 
 Active means at last 1 user has logged into RAVS at that pharmacy. Invited means the pharmacy has been added to RAVS but no one has logged in to date. 
 
@@ -21,7 +21,7 @@ From the Pharmacies page, you can select an individual pharmacy.
 
 By selecting **Manage** next to one of your listed pharmacies, you’ll be taken to a page where you can see existing users at that pharmacy.
 
-Users are shown as either:
+Users are shown as:
 
 •	invited, if they have not yet logged into RAVS
 •	active, if they have logged into RAVS
@@ -36,17 +36,16 @@ The Users page lists users who are group administrators in RAVS for your company
 
 ### Adding a group administrator
 
-> [!IMPORTANT]
-> For now, a group administrator cannot access RAVS at an individual pharmacies from the CP admin interface but this feature is coming soon.
-
 You cannot add someone as a group administrator if they are already a RAVS user at individual pharmacies. 
 
-If somebody wants to switch roles to become a group administrator, they will first have to be deactivated from all the pharmacies where they currently have access to RAVS.
+If somebody wants to switch roles to become a group administrator, they will first have to be deactivated from all the pharmacies where they are currently a RAVS user. 
 
-> [!IMPORTANT]
-> For now, a group administrator cannot access RAVS at an individual pharmacy from the CP admin interface but this feature is coming soon.
-> In the meantime, if the same person needs to be a group administrator and have access to RAVS at individual pharmacies, you could add them as a group administrator using an alias email.
-> For example, instead of firstname.lastname5@nhs.net, you could use firstname.lastname5+admin@nhs.net. When they log in to the CP admin interface, the group admin would need to user their alias email. 
+> [!NOTE] Keeping access to RAVS at individual pharmacies
+>For now, a group administrator cannot access RAVS at individual pharmacies from the CP admin interface but this feature is coming soon.
+
+>In the meantime, if the same person needs to be a group administrator and have access to RAVS at individual pharmacies, you could add them as a group administrator using an alias email. For example, if their email address is example.user@nhs.net, an alias could be example.user+admin@nhs.net. Emails sent to either address will arrive in the same inbox .
+
+>When they log in to the CP admin interface, the group admin would need to use their alias email. 
 
 ## Dashboard
 
