@@ -44,7 +44,7 @@ If somebody wants to switch roles to become a group administrator, they will fir
 
 > For now, a group administrator cannot access RAVS at individual pharmacies from the CP admin interface but this feature is coming soon.
 
-> In the meantime, if the same person needs to be a group administrator and have access to RAVS at individual pharmacies, you could add them as a group administrator using an alias email. For example, if their email address is example.user@nhs.net, an alias could be example.user+admin@nhs.net. Emails sent to either address will arrive in the same inbox .
+> In the meantime, if the same person needs to be a group administrator and have access to RAVS at individual pharmacies, you could add them as a group administrator using an alias email. For example, if their email address is example.user@nhs.net, an alias could be example.user+admin@nhs.net. Emails sent to either address will arrive in the same inbox.
 
 > When they log in to the CP admin interface, the group admin would need to use their alias email. 
 
