@@ -40,15 +40,11 @@ You cannot add someone as a group administrator if they are already a RAVS user 
 
 If somebody wants to switch roles to become a group administrator, they will first have to be deactivated from all the pharmacies where they are currently a RAVS user. 
 
-### Keeping access to RAVS at individual pharmacies
+### Accessing RAVS at individual pharmacies
 
-For now, a group administrator cannot access RAVS at individual pharmacies from the CP admin interface but this feature is coming soon.
+We will soon be adding a feature that will allow a group administrator to access RAVS at an individual pharmacy from the CP admin interface.
 
-In the meantime, if the same person needs to be a group administrator and have access to RAVS at individual pharmacies, you could add them as a group administrator using an alias email. 
-
-For example, if their email address is example.user@nhs.net, an alias could be example.user+admin@nhs.net. Emails sent to either address will arrive in the same inbox.
-
-When they log in to the CP admin interface, the group admin would need to use their alias email. 
+In the meantime, if an existing user of RAVS at individual pharmacies must have group administrator access as well, you could add them using a different email from the one they already use to log in to RAVS. 
 
 ## Dashboard
 
