@@ -29,6 +29,8 @@ Users are shown as:
 
 If you do not have any invited or deactivated users, you will just see active users.
 
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## Users section
 
 The Users page lists users who are group administrators in RAVS for your company. 
@@ -46,6 +48,8 @@ We will soon be adding a feature that will allow a group administrator to access
 
 In the meantime, if an existing user of RAVS at individual pharmacies must have group administrator access as well, you could add them using a different email from the one they already use to log in to RAVS. 
 
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## Dashboard
 
 The Dashboard page shows high-level vaccination data for your company. 
@@ -53,6 +57,8 @@ The Dashboard page shows high-level vaccination data for your company.
 You can view data by vaccination type, by date or by pharmacy.
 
 For more detailed or tailored reports, go to the Reports section. 
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## Reports section
 
@@ -68,6 +74,8 @@ You can choose:
 Only 1 user at the time from your company can create a report. If a report is already in progress when you go to Reports, you will get a message telling you to wait. 
 
 Once your colleague’s report is ready, the page will refresh and show the **Create report** button meaning you can start creating a new report.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## Help and support
 
