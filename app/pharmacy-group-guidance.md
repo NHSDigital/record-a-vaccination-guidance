@@ -45,7 +45,7 @@ The Users page lists users who are group administrators in RAVS for your company
 
 ### Adding a group administrator
 
-You cannot add someone as a group administrator if they are already a RAVS user at individual pharmacies. 
+You can add more group administrators who will have the same permissions as you. But you cannot add someone as a group administrator if they are already a RAVS user at individual pharmacies.  
 
 If somebody wants to switch roles to become a group administrator, they will first have to be deactivated from all the pharmacies where they are currently a RAVS user. 
 
