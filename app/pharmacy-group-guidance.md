@@ -25,9 +25,9 @@ Users are shown as:
 •	active, if they have logged in to RAVS
 •	deactivated, if they have not logged in to RAVS for 90 days or have been deactivated by a lead administrator
 
-If you do not have any invited or deactivated users, you will just see active users.
+If you do not have any invited or deactivated users, you only see active users.
 
-You'll also each user's permission level and whether they are a vaccinator. 
+You can also see each user's permission level and whether they are a vaccinator. 
 
 This table shows the permission levels a user can have at an individual pharmacy. 
 
