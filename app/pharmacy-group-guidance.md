@@ -15,8 +15,6 @@ The status of each pharmacy is shown as either active or invited.
 
 Active means at last 1 user has logged in to RAVS at that pharmacy. Invited means no one has logged in so far. 
 
-From the Pharmacies page, you can select an individual pharmacy.
-
 ### Viewing an individual pharmacy
 
 By selecting **Manage** next to one of your listed pharmacies, you’ll be taken to a page where you can see existing users at that pharmacy.
