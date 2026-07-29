@@ -29,7 +29,7 @@ Users are shown as:
 
 If you do not have any invited or deactivated users, you will just see active users.
 
-You'll also each user's permission levels and whether they are a vaccinator. 
+You'll also each user's permission level and whether they are a vaccinator. 
 
 This table shows the different permission levels a user can have at an individual pharmacy. 
 
