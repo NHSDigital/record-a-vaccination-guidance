@@ -38,8 +38,6 @@ This table shows the permission levels a user can have at an individual pharmacy
 | **Administrator**          | Yes                       | Yes                  | Yes              | No |
 | **Lead administrator**     | Yes                       | Yes                  | Yes              | Yes |
 
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
 ## Users section
 
 The Users page lists users who are group administrators in RAVS for your company. 
