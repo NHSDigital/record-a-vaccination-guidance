@@ -17,7 +17,7 @@ Active means at last 1 user has logged in to RAVS at that pharmacy. Invited mean
 
 ### Viewing an individual pharmacy
 
-By selecting **Manage** next to one of your listed pharmacies, you’ll be taken to a page where you can see existing users at that pharmacy.
+Select **Manage** next to a pharmacy to see existing users at that pharmacy.
 
 Users are shown as:
 
