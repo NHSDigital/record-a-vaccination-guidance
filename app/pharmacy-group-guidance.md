@@ -32,40 +32,12 @@ You can also see each user's permission level and whether they are a vaccinator.
 This table shows the permission levels a user can have at an individual pharmacy. 
 
 
-| **Permission level**       | **Record and edit vaccinations** | **Add and manage vaccines** | **Create reports** | **Add and manage users** |
+| **Permission level**       | **Record and edit vaccinations** | **Manage vaccines** | **Create reports** | **Manage users** |
 |----------------------------|---------------------------|----------------------|-----------------|---|
 | **Recorder**               | Yes                       | No                 | No             | No |
 | **Administrator**          | Yes                       | Yes                  | Yes              | No |
 | **Lead administrator**     | Yes                       | Yes                  | Yes              | Yes |
 
-## Users section
-
-The Users page lists users who are group administrators in RAVS for your company. 
-
-
-### Adding a group administrator
-
-You can add more group administrators who will have the same permissions as you. But you cannot add someone as a group administrator if they are already a RAVS user at individual pharmacies.  
-
-If somebody wants to switch roles to become a group administrator, they will first have to be deactivated from all the pharmacies where they are currently a RAVS user. 
-
-### Accessing RAVS at individual pharmacies
-
-We will soon be adding a feature that will allow a group administrator to access RAVS at an individual pharmacy from the CP admin interface.
-
-In the meantime, if an existing user of RAVS at individual pharmacies must have group administrator access as well, you could add them using a different email from the one they already use to log in to RAVS. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## Dashboard
-
-The Dashboard page shows high-level vaccination data for your company. 
-
-You can view data by vaccination type, by date or by pharmacy.
-
-For more detailed or tailored reports, go to the Reports section. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## Reports section
 
@@ -75,12 +47,8 @@ You can choose:
 
 •	different timeframes, including a date range of your choice
 •	which vaccines to include
-•	which pharmacies to include
+•	which pharmacies to include – you can only select pharmacies that have recorded vaccinations 
 •	what level of detail to include
-
-Only 1 user at the time from your company can create a report. If a report is already in progress when you go to Reports, you will get a message telling you to wait. 
-
-Once your colleague’s report is ready, the page will refresh and show the **Create report** button meaning you can start creating a new report.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
