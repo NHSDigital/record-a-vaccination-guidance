@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Records
+title: Adding patients
 analytics_key: 
 showPagination: true
 order: 12
@@ -18,7 +18,7 @@ To add pregnant patients, you first need to export them from the system you curr
 
 You must export the information as a CSV file that includes a header row followed by data rows.  
 
-The header row has two mandatory columns: NHS number, Due date.  
+The header row has 2 mandatory columns: NHS number, Due date.  
 
 The date must be in ISO 8601 format (YYYY-MM-DD).  
 
@@ -49,3 +49,13 @@ When you upload your CSV file, we check to see what vaccination information we c
 **It may take several hours to carry out this check.**  
 
 You will receive an email when the check is complete. The email will tell you that your list patients has been imported and is ready to view.
+
+## Replacing a list of patients 
+
+Follow the same process and upload a new CSV file to replace a list of pregnant patients.  
+
+Before completing a new upload, you will be asked to confirm that you want to overwrite your previous list. 
+
+You will not be able to view your previous list of patients while your patients are being checked and matched. 
+
+We recommend you regularly upload a new file to make sure your list of patients is up to date. 
