@@ -11,11 +11,9 @@ order: 17
 
 ## Contact us
 
-The Record a vaccination support team is available Monday to Friday, 8am to 6pm.
+The Record a vaccination (RAVS) support team is available Monday to Friday, 8am to 6pm.
 
-To contact the support team, you'll need to log in to the NHS National IT Customer Support Portal.
-
-[Contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58)
+If you have any questions about using the maternity service in RAVS, email [england.ravs@nhs.net](mailto:england.ravs@nhs.net) to contact the team.
 
 
 ## Troubleshooting tips
