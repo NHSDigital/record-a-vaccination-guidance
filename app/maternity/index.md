@@ -22,3 +22,6 @@ For each patient, you can see:
 The service allows you to filter and sort patients in ways that help you make decisions about who to invite for vaccination.  
 
 You can also export either a full or filtered list of patients.  
+
+## Questions and support
+If you have any questions about using the maternity service in RAVS, email [england.ravs@nhs.net](mailto:england.ravs@nhs.net) to contact the team.
