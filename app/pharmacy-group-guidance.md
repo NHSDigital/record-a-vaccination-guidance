@@ -5,7 +5,7 @@ title: Guidance for pharmacy group administrators
 analytics_key: pharmacy-group-admin-guidance
 eleventyExcludeFromCollections: true
 ---
-This guidance describes the features that will be available on [DATE]. We will be adding more features in the coming weeks and will update this guidance as these become available. 
+This guidance describes the features that will be available in mid-August. We will be adding more features in the coming months and will update this guidance as these become available. 
 
 ## Pharmacies section
 
@@ -41,14 +41,19 @@ This table shows the permission levels a user can have at an individual pharmacy
 
 ## Reports section
 
-In Reports, you can create and download a report that includes up to 90 days of data. 
+In Reports, you can create and download a report for your pharmacy chain that includes up to 90 days of data. 
 
 You can choose:
 
 •	different timeframes, including a date range of your choice
 •	which vaccines to include
-•	which pharmacies to include – you can only select pharmacies that have recorded vaccinations 
+•	which pharmacies to include 
 •	what level of detail to include
+
+> [!NOTE]
+> When you select pharmacies for a report, the list you see only includes pharmacies that have added vaccine products.
+> 
+> Pharmacies that have signed up for RAVS but not yet added any vaccine products cannot be included in a report. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
