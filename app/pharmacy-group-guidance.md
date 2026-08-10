@@ -5,11 +5,11 @@ title: Guidance for pharmacy group administrators
 analytics_key: pharmacy-group-admin-guidance
 eleventyExcludeFromCollections: true
 ---
-This guidance describes the features that will be available in mid-August. We will be adding more features in the coming months and will update this guidance as these become available. 
+This guidance describes what a group administrator can see and do in the Record a vaccination service (RAVS) as of mid-August. We will be adding more features in the coming months and will update this guidance as these become available. 
 
 ## Pharmacies section
 
-The Pharmacies page lists pharmacies in your company that are already onboarded to the Record a vaccination service (RAVS). 
+The Pharmacies page lists pharmacies in your company that have already been onboarded to RAVS. 
 
 The status of each pharmacy is shown as either active or invited. 
 
@@ -51,9 +51,7 @@ You can choose:
 •	what level of detail to include
 
 > [!NOTE]
-> When you select pharmacies for a report, the list you see only includes pharmacies that have added vaccine products.
-> 
-> Pharmacies that have signed up for RAVS but not yet added any vaccine products cannot be included in a report. 
+> When you select pharmacies, the list you see only includes pharmacies that have added vaccine products in RAVS. Pharmacies that have not yet added any vaccine products cannot be included in a report. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
