@@ -44,7 +44,7 @@ Do not add people who have recently had a miscarriage, experienced baby loss or 
 
 ## Sensitive Flags (S-Flags) and patients who have died 
 
-Patients with an S-Flag or who have died will not appear in your list of patients alongside any vaccination information. Instead, those patients will be on a separate page called ‘Import issues’. For each patient, you will be able to see why they have been put on this page.  
+Patients with an S-Flag or who have died will not appear in your list of patients alongside any vaccination information. Instead, those patients will be on a separate page called ‘Import issues’. You will be able to see why each patient has been put on this page.  
 
 ## If a patient has no NHS number 
 
