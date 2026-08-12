@@ -60,6 +60,7 @@ In this first version of the service, your CSV file will fail to upload if:
 * the ‘Due date’ column is before the ‘NHS number’ column 
 * there is a comma after the ‘Due date’ column  
 * there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings 
+* there is a duplicate NHS number with different due dates 
 
 If your CSV file fails to upload, check for these common issues. You can make changes to the file or export a new file from your existing system. 
 
@@ -76,6 +77,8 @@ You may want to upload files at the end of the day, so that your list of patient
 You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
 
 ## Replacing a list of patients 
+
+You can only ever have one list at any time for your Trust. This means you need to upload a new CSV file to replace and update the patients on your list.  
 
 Follow the same process and upload a new CSV file to replace a list of pregnant patients.  
 
