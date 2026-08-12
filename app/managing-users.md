@@ -31,7 +31,7 @@ When you add a user, you must enter their:
 * last name
 * email address
 
-> [!NOTE] Allowed email addresses
+> [!NOTE]
 > The email address must either be an nhs.net email or another allowed email address. See [examples of allowed email addresses](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list).
 > 
 > If the email address you enter is not allowed, use a different one or [contact us](https://record-a-vaccination-prototype-283fe8650179.herokuapp.com/contact-us) to ask if we could allow your preferred email address.
