@@ -5,7 +5,7 @@ title: Guidance for pharmacy group administrators
 analytics_key: pharmacy-group-admin-guidance
 eleventyExcludeFromCollections: true
 ---
-This guidance describes what a group administrator can see and do in the Record a vaccination service (RAVS) as of mid-August. We will be adding more features in the coming months and will update this guidance as these become available.
+This guidance describes what a group administrator can see and do in the Record a vaccination service (RAVS) as of August 2026. We will be adding more features in the coming months and will update this guidance as these become available.
 
 ## Pharmacies section
 
