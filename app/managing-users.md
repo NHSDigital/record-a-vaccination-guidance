@@ -29,7 +29,12 @@ When you add a user, you must enter their:
 
 * first name
 * last name
-* NHS-approved email address. For a list of approved email addresses, see the [Care Identity email allow list](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list)
+* email address
+
+> [!NOTE]
+> The email address must either be an nhs.net email or another allowed email address. See [examples of allowed email addresses](https://digital.nhs.uk/services/care-identity-service/applications-and-services/apply-for-care-id/care-identity-email-domain-allow-list).
+> 
+> If the email address you enter is not allowed, use a different one or [contact us](https://www.ravs.england.nhs.uk/help-and-support) to ask if we could allow your preferred email address.
 
 You then need to select:
 

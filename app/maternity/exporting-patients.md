@@ -18,7 +18,8 @@ If there are no filters applied to your list, you will instead see confirmation 
 For each patient, your exported file will include: 
 
 * Patient name 
-* NHS number 
+* NHS number
+* Date of birth 
 * Due date 
 * Weeks pregnant 
 * RSV eligibility date 
@@ -26,8 +27,8 @@ For each patient, your exported file will include:
 * Pertussis eligibility date 
 * Last pertussis vaccination date 
 * GP practice ID 
-* Truncated postcode 
+* Postcode 
 
-Exporting this patient information will allow you to move it to a different system, such as one that sends invitations.  
+Exporting this patient information will allow you to move it to a different system. For example, you might import it to a system that allows you to send invitations.  
 
 You can also use your exported file to do further reporting or data analysis. 

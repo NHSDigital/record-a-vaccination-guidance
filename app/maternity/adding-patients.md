@@ -27,9 +27,9 @@ You must use a UK format for all due dates.
 For example: 
 
 ```
-NHS number, Due date  
-1234567890, 2026-04-27 
-0987654321, 2026-11-12
+NHS number, Due date
+1234567890, 27/04/2026
+0987654321, 11/12/2026
 ```
 
 You do not need to include any other patient information in your exported file. If you add any other columns, the file will fail to upload.   
@@ -60,6 +60,7 @@ In this first version of the service, your CSV file will fail to upload if:
 * the ‘Due date’ column is before the ‘NHS number’ column 
 * there is a comma after the ‘Due date’ column  
 * there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings 
+* there is a duplicate NHS number with different due dates 
 
 If your CSV file fails to upload, check for these common issues. You can make changes to the file or export a new file from your existing system. 
 
@@ -76,6 +77,8 @@ You may want to upload files at the end of the day, so that your list of patient
 You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
 
 ## Replacing a list of patients 
+
+You can only ever have one list at any time for your Trust. This means you need to upload a new CSV file to replace and update the patients on your list.  
 
 Follow the same process and upload a new CSV file to replace a list of pregnant patients.  
 
