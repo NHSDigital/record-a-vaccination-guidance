@@ -27,9 +27,9 @@ You must use a UK format for all due dates.
 For example: 
 
 ```
-NHS number, Due date  
-1234567890, 2026-04-27 
-0987654321, 2026-11-12
+NHS number, Due date
+1234567890, 27/04/2026
+0987654321, 11/12/2026
 ```
 
 You do not need to include any other patient information in your exported file. If you add any other columns, the file will fail to upload.   
