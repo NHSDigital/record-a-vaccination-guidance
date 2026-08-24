@@ -23,7 +23,7 @@ If you already have an Okta account, you will get a welcome email telling you ho
 
 Your Okta username will be the email address used to sign up to RAVS. If you've forgotten your password, you'll have the option to reset it. 
 
-If that does not work, it may be your Okta account has been suspended because you've not used it for 6 months. In that case, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58) and ask them to reset your password.
+If that does not work, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58) and ask them to reset your password.
 
 ### Users who are new to Okta
 
