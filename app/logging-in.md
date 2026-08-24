@@ -14,7 +14,7 @@ To access the service, go to [NHS Record a vaccination](https://www.ravs.england
 Then choose how you want to log in:
 
 * all users can log in securely with Okta
-* pharmacy users can also log in with their pharmacy IT system if it is listed on the Log in page
+* pharmacy users can also log in with their pharmacy IT system, if it is listed on the Log in page
 
 ## Logging in with Okta
 
