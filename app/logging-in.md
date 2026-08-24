@@ -31,7 +31,7 @@ If you do not already have an Okta account, we will create one for you at the sa
 
 You will get 2 emails: one from Okta and another from Record a vaccination. 
 
-The email from Okta includes an ‘Activate Okta Account’ link, which expires after 7 days. 
+The email from Okta includes an **Activate Okta Account** link, which expires after 7 days. 
 
 If you cannot find the email from Okta, check your spam or junk. 
 
