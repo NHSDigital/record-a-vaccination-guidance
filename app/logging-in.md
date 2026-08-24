@@ -43,7 +43,7 @@ If your Okta link has expired, [contact our support team](https://www.support.di
 
 Pharmacy users can log in to RAVS via their pharmacy IT system, if it has been approved for accessing RAVS. Approved pharmacy IT systems are listed below the Okta option on the Log in page.
 
-If you are already signed into your pharmacy IT system and select it on the RAVS log in page, you will go directly to RAVS without having to enter a username or password.
+If you are already signed into your pharmacy IT system and select it on the RAVS Log in page, you will go directly to RAVS without having to enter a username or password.
 
 You may also have a direct link to RAVS from your pharmacy IT system interface.
 
