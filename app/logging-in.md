@@ -47,7 +47,7 @@ If you are already signed into your pharmacy IT system and select it on the RAVS
 
 You may also have a direct link to RAVS from your pharmacy IT system interface.
 
-If the email addresses used for your RAVS account and the one used for your pharmacy IT system are different, you will not be able to sign in to RAVS via your pharmacy IT system. However, you can still sign in to RAVS with Okta, as long as you enter the email address linked to your RAVS account.
+If the email address used for your RAVS account and the one used for your pharmacy IT system are different, you will not be able to sign in to RAVS via your pharmacy IT system. However, you can still sign in to RAVS with Okta, as long as you enter the email address linked to your RAVS account.
 
 ### How to change the email address linked to your RAVS account
 
