@@ -26,7 +26,7 @@ If you already have an Okta account, you will get a welcome email telling you ho
 
 Your Okta username will be the email address used to sign up to RAVS. If you've forgotten your password, you'll have the option to reset it. 
 
-If that does not work, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58) and ask them to reset your password.
+If that does not work, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
 ### Users who are new to Okta
 
@@ -40,7 +40,7 @@ If you cannot find the email from Okta, check your spam or junk.
 
 Once you’ve activated your Okta account, you will be able to log in to RAVS with your Okta credentials. 
 
-If your Okta link has expired, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
+If your Okta link has expired or you have any other issues, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
 ## Logging in via an approved pharmacy IT system
 
@@ -48,7 +48,7 @@ Pharmacy users can log in to RAVS via their pharmacy IT system, if it has been a
 
 If you are already signed into your pharmacy IT system and select it on the RAVS Log in page, you will go directly to RAVS without having to enter a username or password.
 
-You may also have a direct link to RAVS from your pharmacy IT system interface.
+You should also have a direct link to RAVS from your pharmacy IT system interface.
 
 If the email address used for your RAVS account and the one used for your pharmacy IT system are different, you will not be able to sign in to RAVS via your pharmacy IT system. However, you can still sign in to RAVS with Okta, as long as you enter the email address linked to your RAVS account.
 
@@ -58,7 +58,8 @@ If you want to change the email address that is linked to your RAVS account so t
 
 * deactivate your RAVS account
 * invite you to RAVS again, with the email you use to access the pharmacy IT system
-* [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58) if there are any problems
+
+If you have any problems changing your RAVS account, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
 
 ## Problems logging in 
