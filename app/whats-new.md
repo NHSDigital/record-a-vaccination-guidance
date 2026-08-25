@@ -14,9 +14,7 @@ Once you’ve logged in to RAVS, instead of seeing your data dashboard, you will
 
 You can still view your data dashboard by selecting **Dashboard** in the top navigation bar.
 
-We have also moved the link to **What’s new**. It now appears just above the footer on every page of the service.
-
-We’ve made these changes to improve the site’s performance.
+We have also moved the **What’s new** link. It now appears just above the footer on every page of the service.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
