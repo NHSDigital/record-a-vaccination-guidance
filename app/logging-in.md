@@ -24,9 +24,9 @@ Several NHS services use Okta to sign in users securely, so you may already have
 
 If you already have an Okta account, you will get a welcome email telling you how to log in to RAVS using your Okta username and password. 
 
-Your Okta username will be the email address used to sign up to RAVS. If you've forgotten your password, you'll have the option to reset it. 
+Your Okta username will be the email address used to sign up to RAVS. 
 
-If that does not work, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
+If you've forgotten your password, you'll have the option to reset it. If that does not work, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
 ### Users who are new to Okta
 
