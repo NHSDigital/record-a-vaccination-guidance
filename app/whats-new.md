@@ -46,7 +46,7 @@ You can now create a report for up 90 days.
  
 ### Recording a vaccination starts with patient search
 
-We’ve changed the order of the Record vaccinations section so it now starts with searching for the patient.  
+We’ve changed the order of the **Record vaccinations** section so it now starts with searching for the patient.  
 
 This means you will see the patient’s details and vaccination history before you select the vaccine or answer any other questions. 
 
@@ -60,7 +60,7 @@ If you use RAVS at more than 1 organisation, you can now switch between accounts
  
 ### Updates to the Manage users section 
 
-In the Manage users section, invited, active and deactivated users are now listed separately.
+In the **Manage users** section, invited, active and deactivated users are now listed separately.
 
 Invited users are those who have not yet logged in to RAVS. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
 
