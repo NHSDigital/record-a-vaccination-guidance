@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 26 August 2026
+## 28 August 2026
 
 ### Navigation changes
 
