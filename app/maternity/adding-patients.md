@@ -76,6 +76,8 @@ You may want to upload files at the end of the day, so that your list of patient
 
 You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
 
+![Screen that cofirms the file is uploading and the user will receive an email](/images/maternity-images/upload-in-progess.png)
+
 ## Replacing a list of patients 
 
 You can only ever have one list at any time for your Trust. This means you need to upload a new CSV file to replace and update the patients on your list.  
@@ -83,6 +85,8 @@ You can only ever have one list at any time for your Trust. This means you need 
 Follow the same process and upload a new CSV file to replace a list of pregnant patients.  
 
 Before completing a new upload, you will be asked to confirm that you want to overwrite your previous list. 
+
+![Screen that asks the user to confirm they want to replace their list of patients](/images/maternity-images/confirm-replace.png)
 
 You will not be able to view your previous list of patients while your patients are being checked and matched. 
 
