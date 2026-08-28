@@ -9,6 +9,8 @@ order: 10
 
 {% include 'maternity-guide-contents.njk' %}
 
+![Screen that shows the landing page for the maternity area of RAVS](/images/maternity-images/maternity-landing.png)
+
 This guidance is for new area of RAVS that helps you manage vaccinations for patients who are pregnant.  
 
 It is currently a private beta service, which means only a small group of trusts have access.  
