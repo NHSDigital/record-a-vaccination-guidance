@@ -42,15 +42,15 @@ It is your responsibility to make sure the patient data is accurate.
 
 Do not add people who have recently had a miscarriage, experienced baby loss or had a termination. The service currently has no way of knowing and displaying this information. 
 
-## Sensitive Flags (S-Flags) and patients who have died 
+## Patients flagged as sensitive or who have died 
 
-We recommend you do not upload patients with an S-Flag or who have died. 
+We recommend you do not upload patients flagged as sensitive or who have died. 
 
 These patients will not appear in your list of patients alongside any vaccination information. Instead, they will appear on a separate page called ‘Import issues’ with a note to say why they are there.
 
-If a patient who is already in your list of patients is given an S-Flag or dies, they will move to the ‘Import issues’ page when the information in the service updates overnight. 
+If a patient who is already in your list of patients is then flagged as sensitive or dies, they will move to the ‘Import issues’ page when the information in the service updates overnight. 
 
-However, if a patient has an S-flag removed, they will not currently move from the ‘Import issues’ page to your list of patients. 
+However, if a patient has a sensitive flag removed, they will not currently move from the ‘Import issues’ page to your list of patients. 
 
 ## If a patient has no NHS number 
 
