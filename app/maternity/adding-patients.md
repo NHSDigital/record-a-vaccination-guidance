@@ -82,6 +82,8 @@ You may want to upload files at the end of the day, so that your list of patient
 
 You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
 
+The email will only be sent to the person who uploaded the CSV file to add patients, not to everyone in your team. 
+
 ![Screen that cofirms the file is uploading and the user will receive an email](/images/maternity-images/upload-in-progress.png)
 
 ## Replacing a list of patients 
