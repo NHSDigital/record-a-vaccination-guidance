@@ -1,7 +1,7 @@
 ---
 layout: page
 caption: User guide
-title: Using the private beta maternity service in RAVS
+title: Using the private beta maternity service
 analytics_key: 
 showPagination: "next"
 order: 10
