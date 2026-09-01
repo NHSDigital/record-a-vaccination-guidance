@@ -44,10 +44,11 @@ Do not add people who have recently had a miscarriage, experienced baby loss or 
 
 ## Patients flagged as sensitive or who have died 
 
-We recommend you do not upload patients flagged as sensitive or who have died. 
+We currently recommend you do not upload patients flagged as sensitive or who have died. 
 
 These patients will not appear in your list of patients alongside any vaccination information. Instead, they will appear on a separate page called ‘Import issues’ with a note to say why they are there.
 
+> [!NOTE]
 > Because patients flagged as sensitive are not shown in your list of patients, you cannot currently view or export their information. You must use a different service to view their eligibility and invite them for vaccinations. 
 
 If a patient who is already in your list of patients is then flagged as sensitive or dies, they will move to the ‘Import issues’ page when the information in the service updates overnight. 
