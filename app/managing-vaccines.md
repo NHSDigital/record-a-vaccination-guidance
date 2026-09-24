@@ -31,15 +31,17 @@ Then select **Add vaccine** and follow the instructions on the next pages to:
 - select the vaccine type and vaccine product
 - enter the batch number and expiry date
 
+For some vaccine products, you will be asked an extra question about the pack size. This is the number of vials, syringes or applicators in each box. 
+
 ## How to view details of vaccine batches
 
 Select **View** next to a vaccine product to see all the batches ever added, including any that are now inactive because they are finished or past their expiry date. 
 
-## When a batch is finished
+## Depleting a batch
 
-When a batch runs out, you can mark it as depleted (finished). You will be asked to select the date of depletion. The earliest date you can select is the following day.  
+If you no longer need a batch, you can mark it as depleted. You will be asked to select the date of depletion. The earliest date you can select is the following day.  
 
-Once a batch is marked as depleted, it is not available to select when you record a vaccination given after the depletion date.  
+Once a batch is marked as depleted, it becomes inactive and is not available to select when you record a vaccination given after the depletion date.  
 
 ## If you are a London-based pharmacy
 
