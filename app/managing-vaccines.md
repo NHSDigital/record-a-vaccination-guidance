@@ -33,6 +33,9 @@ Then select **Add vaccine** and follow the instructions on the next pages to:
 
 For some vaccine products, you will be asked an extra question about the pack size. This is the number of vials, syringes or applicators in each box. 
 
+> [!NOTE]
+> If you get several batches with the same number and expiry date, you only need to add the batch details once. 
+
 ## How to view details of vaccine batches
 
 Select **View** next to a vaccine product to see all the batches ever added, including any that are now inactive because they are finished or past their expiry date. 
