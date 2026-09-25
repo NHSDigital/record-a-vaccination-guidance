@@ -42,7 +42,7 @@ Select **View** next to a vaccine product to see all the batches ever added, inc
 
 ## Depleting a batch
 
-Next to each active batch, there is an option to deplete it. If you deplete a batch, it will no longer be available to select when you record a vaccination given after the depletion date. 
+Next to each active batch, there is an option to deplete it. If you deplete a batch, it will not be available for future vaccinations. 
 
 > [!IMPORTANT] 
 > Depleted batches cannot be added back. We therefore recommend you only deplete a batch if you are sure that you no longer need it, and that you will not get any further stock with the same batch number and expiry date. 
