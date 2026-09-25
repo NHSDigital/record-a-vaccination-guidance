@@ -50,10 +50,10 @@ Next to each active batch, there is an option to deplete it. If you deplete a ba
 When depleting a batch, you will be asked to select the date of depletion. The earliest date you can select is the following day.  
   
 
-## If you are a London-based pharmacy
+## If you are at a London-based pharmacy
 
-If you are a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
+If you are at a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
 
-For flu vaccinations offered as part of the national flu service, select **Flu**. 
+For flu vaccinations offered as part of the national flu vaccination programme, select **Flu**. 
 
-For flu vaccinations offered as part of the London flu service that targets specific health inclusion groups, such as asylum seekers and homeless people, select **Flu (London)**.
+For flu vaccinations offered as part of the London flu service that targets additional groups not covered by the national flu vaccinaton programme, select **Flu (London)**.
