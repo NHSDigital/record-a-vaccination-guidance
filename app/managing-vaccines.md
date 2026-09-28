@@ -56,4 +56,4 @@ If you are at a London-based pharmacy offering flu vaccinations, make sure you s
 
 For flu vaccinations offered as part of the national flu vaccination programme, select **Flu**. 
 
-For flu vaccinations offered as part of the London flu service that targets additional groups not covered by the national flu vaccinaton programme, select **Flu (London)**.
+For flu vaccinations offered as part of the London flu service that targets additional groups not covered by the national flu vaccination programme, select **Flu (London)**.
