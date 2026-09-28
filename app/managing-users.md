@@ -59,22 +59,17 @@ You can have more than 1 user for each permission level.
 
 Once you have added a new user, we'll automatically create a RAVS account and send them a welcome email to access the service.
 
-RAVS uses Okta to sign users in securely.
-
-* If users already have an Okta account, they can log in to RAVS as soon as they've received the welcome email, using their Okta username and password.
-* If users are new to Okta, they'll also receive an email from Okta with instructions to set up their Okta account. They'll need to do this first to access RAVS.
-
 ## Adding a user to multiple organisations
 
 You can add a user to more than 1 organisation, using the same email address for that user.
 
-The user will then be able to use the same email address and Okta account to access RAVS at each organisation.
+The user will then be able to use the same email address to access RAVS at each organisation.
 
 Users can have different permission levels at each organisation.
 
 ## Changing a user's permissions or vaccinator status
 
-To change a user's permission levels or vaccinator status, select 'Change' next to their name.
+To change a user's permission levels or vaccinator status, select **Change** next to their name.
 
 A change to permission levels becomes active when the user next logs in.
 
@@ -82,7 +77,7 @@ A change to permission levels becomes active when the user next logs in.
 
 If a user no longer needs to access RAVS, you must deactivate their account.
 
-Select 'Change' next to their name, and on the next screen you'll have the option to deactivate the account.
+Select **Change** next to their name, and on the next screen you'll have the option to deactivate the account.
 
 Deactivated users will no longer be able to sign in to RAVS at your organisation.
 
@@ -93,8 +88,4 @@ If you deactivate a user who works at several organisations, they will only be d
 
 ## Reactivating users
 
-From the Manage users home page, you have 2 options for reactivating users.  
- 
-To reactivate all users who have not logged in for 90 days, select the 'Reactivate users' link that appears before the list of users.  
- 
-To reactivate an individual user, select the 'Reactivate' link next to the user you want to reactivate. 
+To reactivate a deactivated user, select the **Reactivate** link next to the user you want to reactivate. 
