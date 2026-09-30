@@ -25,9 +25,9 @@ This short video shows you how to add vaccines.
 
 Select **Add vaccine**, and if you have multiple sites, select the site where you want to add vaccines. 
 
-Next on the **Choose vaccine** page, you will see a list of the vaccines your organisation can record in RAVS.
+On the **Choose vaccine** page, select the vaccine and vaccine product. 
 
-Below this list, pharmacy users may see an option to **Add other vaccines**. This allows you to add flu, COVID-19 or MenB vaccines if these were not already listed.
+Below the list of available vaccines, pharmacy users may see an option to **Add other vaccines**. This allows you to add flu, COVID-19 or MenB vaccines if these were not already listed.
 
 Finally on the **Add batch** page, enter the batch number and expiry date. For some products, there is an extra question about the pack size. This refers to the number of vials, syringes or applicators in each box. 
 
