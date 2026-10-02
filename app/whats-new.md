@@ -6,6 +6,16 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 9 October 2026
+
+### Batch depletion option removed
+
+Previously users could deplete a batch in the **Vaccines** section, making it unavailable for future vaccinations. We have removed this option while we develop a better way to deactivate and reactivate batches.
+
+Any batches that were pending depletion have been reactivated.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 27 August 2026
 
 ### Navigation changes
