@@ -42,7 +42,7 @@ Select **View** next to a vaccine product to see all the batches ever added, inc
 
 Previously there was an option to deplete a batch, making it unavailable for future vaccinations. We have removed this option while we develop a better way to deactivate and reactivate batches. 
 
-Any batches that were pending depletion have now been reactivated.  
+Any batches that were pending depletion have now been reactivated. Batches that were already depleted will remain depleted. 
 
 ## If you are at a London-based pharmacy
 
