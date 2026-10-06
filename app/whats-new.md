@@ -6,6 +6,14 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 9 October 2026
+
+### Eligibility question added for pertussis
+
+We've added an extra question when you record a pertussis vaccination. After you've selected the batch, you'll be asked why you are giving the vaccine. You must either select that the patient is pregnant or that they are a healthcare worker.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 27 August 2026
 
 ### Navigation changes
