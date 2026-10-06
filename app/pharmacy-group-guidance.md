@@ -45,10 +45,9 @@ The Users page lists all users who are group administrators in RAVS for your com
 
 You can add more group administrators who will have the same permissions as you.  
 
-Remember that you cannot be both a group administrator and a user of RAVS at individual pharmacies. 
- 
-If you add someone who is currently a RAVS user at individual pharmacies, the system will deactivate them for those pharmacies.   
+Remember that you cannot be both a group administrator and a user of RAVS at individual pharmacies.
 
+If you add someone who is currently a RAVS user at individual pharmacies, the system will deactivate them for those pharmacies.
 
 ## Reports section
 
