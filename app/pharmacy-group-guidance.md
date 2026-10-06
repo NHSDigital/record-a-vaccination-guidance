@@ -5,7 +5,7 @@ title: Guidance for pharmacy group administrators
 analytics_key: pharmacy-group-admin-guidance
 eleventyExcludeFromCollections: true
 ---
-This guidance describes what a group administrator can see and do in the Record a vaccination service (RAVS) as of August 2026. We will be adding more features in the coming months and will update this guidance as these become available.
+This guidance describes what a group administrator can see and do in the Record a vaccination service (RAVS). We will be adding more features in the coming months and will update this guidance as these become available.
 
 ## Pharmacies section
 
@@ -36,6 +36,19 @@ This table shows the permission levels a user can have at an individual pharmacy
 | **Recorder**               | Yes                              | No                  | No                 | No               |
 | **Administrator**          | Yes                              | Yes                 | Yes                | No               |
 | **Lead administrator**     | Yes                              | Yes                 | Yes                | Yes.             |
+
+## Users section
+
+The Users page lists all users who are group administrators in RAVS for your company.  
+
+### Adding a group administrator
+
+You can add more group administrators who will have the same permissions as you.  
+
+Remember that you cannot be both a group administrator and a user of RAVS at individual pharmacies. 
+ 
+If you add someone who is currently a RAVS user at individual pharmacies, the system will deactivate them for those pharmacies.   
+
 
 ## Reports section
 
