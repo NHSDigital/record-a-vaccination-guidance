@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 28 September 2026
+## 14 October 2026
 
 ### Logging in changes
 
