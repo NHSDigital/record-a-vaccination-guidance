@@ -69,6 +69,8 @@ If you have any problems changing your RAVS account, [contact our support team](
 Your RAVS account will be deactivated if you have not logged in to the service for 90 days. We will email you to tell you this has happened.  
  
 If you still need access to RAVS, contact a lead administrator at your organisation who will be able to reactivate your account.  
+
+If you do not know who your lead administrators are, ask a colleague with an active RAVS account to check their profile page, where lead administrators are listed. They can access their profile by selecting their name in the header of the service.
  
 If you are the only lead administrator at your organisation and you’ve been deactivated, [contact your Regional Vaccination Operations Centre (RVOC)](https://future.nhs.uk/connect.ti/vaccsandscreening/view?objectId=1004883) and ask them to add you to RAVS again.  
  
