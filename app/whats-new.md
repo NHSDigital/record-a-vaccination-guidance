@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 13 October 2026
+## 14 October 2026
 
 ### Eligibility question added for pertussis
 
