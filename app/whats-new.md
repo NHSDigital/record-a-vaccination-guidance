@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 14 October 2026
+## 20 October 2026
 
 ### Logging in changes
 
@@ -15,6 +15,14 @@ When you log in to RAVS, there is a new screen where we ask if you want to log i
 All users can log in with Okta. 
 
 Some pharmacy users now have an extra option to log in with their pharmacy IT system.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 14 October 2026
+
+### Eligibility question added for pertussis
+
+We've added an extra question when you record a pertussis vaccination. After you've selected the batch, you'll be asked why you are giving the vaccine. You must either select that the patient is pregnant or that they are a healthcare worker.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
