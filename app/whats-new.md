@@ -16,6 +16,13 @@ Any batches that were pending depletion have been reactivated. Batches that were
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
+## 19 October 2026
+
+### Updates to recording the same vaccination for another patient  
+You can now change the vaccine product and batch when recording the same vaccination for another patient.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 14 October 2026
 
 ### Eligibility question added for pertussis
