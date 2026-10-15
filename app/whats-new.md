@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 ## 19 October 2026
 
 ### Updates to recording the same vaccination for another patient  
-When recording the same vaccination to another patient, on the 'Check these details still apply' page, you can now change the vaccine product or the batch before continuing. 
+When recording the same vaccination for another patient, you can now change the vaccine product and the batch. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
