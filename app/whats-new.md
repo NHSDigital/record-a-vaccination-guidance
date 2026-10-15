@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 20 October 2026
+## 22 October 2026
 
 ### Logging in changes
 
@@ -15,6 +15,13 @@ When you log in to RAVS, there is a new screen where we ask if you want to log i
 All users can log in with Okta. 
 
 Some pharmacy users now have an extra option to log in with their pharmacy IT system.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 19 October 2026
+
+### Updates to recording the same vaccination for another patient  
+You can now change the vaccine product and batch when recording the same vaccination for another patient.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
