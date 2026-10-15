@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 ## 19 October 2026
 
 ### Updates to recording the same vaccination for another patient  
-When recording the same vaccination for another patient, you can now change the vaccine product and the batch. 
+You can now change the vaccine product and batch when recording the same vaccination for another patient.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
