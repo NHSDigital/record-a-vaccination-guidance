@@ -13,7 +13,7 @@ Only administrators and lead administrators can access this section, where they 
 
 Vaccination data is available for extract as soon as it's recorded and saved. You can extract data in a '.csv format' (comma separated values).
 
-To create a report, select the 'Reports' link in the header.
+Select **Create report**.
 
 You will then be asked to select what you want to report on, including the:
 
@@ -25,6 +25,6 @@ You can create reports as often as you like.
 
 ### Downloading your report
 
-When you download your report, it will appear in your browser downloads. Your browser should notify you when the extract is available.
+Your browser should notify you when the download is available.
 
-Downloaded extracts may include personal data. Handle them in line with your organisation's data management policies.
+Downloaded reports may include personal data. Handle them in line with your organisation's data management policies.

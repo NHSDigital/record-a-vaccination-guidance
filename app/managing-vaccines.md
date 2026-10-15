@@ -23,28 +23,35 @@ This short video shows you how to add vaccines.
 
 ## How to add vaccines
 
-Select the **Vaccines** link in the header. This will take you to the Vaccines section.
+Select **Add vaccine**, and if you have multiple sites, select the site where you want to add vaccines. 
 
-Then select **Add vaccine** and follow the instructions on the next pages to:
+On the **Choose vaccine** page, select the vaccine and vaccine product. 
 
-- select the site where you want to add vaccines, if your organisation has multiple sites
-- select the vaccine type and vaccine product
-- enter the batch number and expiry date
+Below the list of available vaccines, pharmacy users may see an option to **Add other vaccines**. This allows you to add flu, COVID-19 or MenB vaccines if these were not already listed.
+
+Finally on the **Add batch** page, enter the batch number and expiry date. For some products, there is an extra question about the pack size. This refers to the number of vials, syringes or applicators in each box. 
+
+> [!NOTE]
+> If you get several batches with the same number and expiry date, you only need to add the batch details once. 
 
 ## How to view details of vaccine batches
 
-Select **View** next to a vaccine product to see all the batches ever added, including any that are now inactive because they are finished or past their expiry date. 
+Select **View** next to a vaccine product to see all the batches ever added, including any that are now inactive because they are depleted or past their expiry date. 
 
-## When a batch is finished
+## Depleting a batch
 
-When a batch runs out, you can mark it as depleted (finished). You will be asked to select the date of depletion. The earliest date you can select is the following day.  
+Next to each active batch, there is an option to deplete it. If you deplete a batch, it will not be available for future vaccinations. 
 
-Once a batch is marked as depleted, it is not available to select when you record a vaccination given after the depletion date.  
+> [!IMPORTANT] 
+> Depleted batches cannot be added back. We therefore recommend you only deplete a batch if you are sure that you no longer need it, and that you will not get any further stock with the same batch number and expiry date. 
 
-## If you are a London-based pharmacy
+When depleting a batch, you will be asked to select the date of depletion. The earliest date you can select is the following day.  
+  
 
-If you are a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
+## If you are at a London-based pharmacy
 
-For flu vaccinations offered as part of the national flu service, select **Flu**. 
+If you are at a London-based pharmacy offering flu vaccinations, make sure you select the correct option when adding vaccines.  
 
-For flu vaccinations offered as part of the London flu service that targets specific health inclusion groups, such as asylum seekers and homeless people, select **Flu (London)**.
+For flu vaccinations offered as part of the national flu vaccination programme, select **Flu**. 
+
+For flu vaccinations offered as part of the London flu service that targets additional groups not covered by the national flu vaccination programme, select **Flu (London)**.
