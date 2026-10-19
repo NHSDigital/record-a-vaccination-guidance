@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.5",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.4.4",
     "@nhsbsa/cookie-consent-component": "^0.0.6"
   },
   "private": true,
