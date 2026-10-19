@@ -16,7 +16,7 @@ If the service is not available and you urgently need to record vaccinations, do
 - [RAVS paper form (Word)](/files/record-a-vaccination.docx)
 - [RAVS paper form (PDF)](/files/record-a-vaccination.pdf)
 
-When the service is available, you can enter the information from the form into the system.
+When the service is available you can enter the information from the form into the system.
 
 ## Contact us
 
