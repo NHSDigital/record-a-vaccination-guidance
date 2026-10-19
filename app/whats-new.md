@@ -6,6 +6,13 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
+## 19 October 2026
+
+### Updates to recording the same vaccination for another patient  
+You can now change the vaccine product and batch when recording the same vaccination for another patient.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
 ## 14 October 2026
 
 ### Eligibility question added for pertussis
@@ -46,7 +53,9 @@ We've added a new column to the reports to include the patient's contact details
  
 ### Longer timeframe for reports 
 
-You can now create a report for up 90 days. 
+You can now create a report for up 90 days.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
 ## 26 March 2026
  
