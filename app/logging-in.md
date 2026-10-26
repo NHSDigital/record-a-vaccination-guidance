@@ -61,6 +61,13 @@ If you want to change the email address that is linked to your RAVS account so t
 
 If you have any problems changing your RAVS account, [contact our support team](https://www.support.digitalservices.nhs.uk/csm?id=sc_cat_item&sys_id=7406446b9779f290dd80f2df9153af58).
 
+## Your profile page
+
+You can access your profile page by selecting your name in the header of the service. 
+
+Your profile page shows the name and email address associated with your account and your permission level. You have the option to edit your name but you cannot change  other details. 
+
+If you are a recorder or administrator, you will also see the names and email addresses of the lead administrators for your organisation. To change your permission level, contact a lead administrator. 
 
 ## Problems logging in 
  
