@@ -16,4 +16,4 @@ Our training video gives you an overview of the new maternity area of the Record
 <br>
 
 ## Questions and support
-If you have any questions about using the maternity service in RAVS, email [england.ravs@nhs.net](mailto:england.ravs@nhs.net) to contact the team.
+If you have any questions about using the maternity service in RAVS, email [england.vaccinationresearch@nhs.net](mailto:england.vaccinationresearch@nhs.net) to contact the team.
