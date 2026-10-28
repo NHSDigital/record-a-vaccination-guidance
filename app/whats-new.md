@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 21 October 2026
+## 30 October 2026
 
 ### Batch depletion option removed
 
