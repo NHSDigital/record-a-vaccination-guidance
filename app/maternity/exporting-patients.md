@@ -23,15 +23,15 @@ For each patient, your exported file will include:
 * Patient name 
 * NHS number
 * Date of birth 
-* Due date 
+* Estimated due date 
 * Weeks pregnant 
 * RSV eligibility date 
 * Last RSV vaccination date 
 * Pertussis eligibility date 
-* Last pertussis vaccination date 
-* GP practice ID 
-* Postcode 
+* Last pertussis vaccination date
+* Flu eligibility date
+* Last flu vaccination date 
 
-Exporting this patient information will allow you to move it to a different system. For example, you might import it to a system that allows you to send invitations.  
+Exporting this patient information will allow you to move it to a different system, such as one that sends invitations.  
 
 You can also use your exported file to do further reporting or data analysis. 
