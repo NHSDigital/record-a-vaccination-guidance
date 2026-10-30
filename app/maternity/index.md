@@ -19,7 +19,7 @@ For each patient, you can see:
 
 * name and NHS number 
 * due date and number of weeks pregnant
-* eligibility status for RSV and pertussis 
+* eligibility status for RSV, pertussis and flu
 
 The service allows you to filter and sort patients in ways that help you make decisions about who to invite for vaccination.  
 
