@@ -40,20 +40,19 @@ It is your responsibility to make sure the patient data is accurate.
 
 ## Miscarriage, baby loss and termination 
 
-Do not add people who have recently had a miscarriage, experienced baby loss or had a termination. The service currently has no way of knowing and displaying this information. 
+Do not add people who have recently had a miscarriage, pregnancy loss or termination. The service currently has no way of knowing and displaying this information. 
 
-## Patients flagged as sensitive or who have died 
+## Patients flagged as sensitive
 
-We currently recommend you do not upload patients flagged as sensitive or who have died. 
+You can add pregnant patients flagged as sensitive to the service.  
 
-These patients will not appear in your list of patients alongside any vaccination information. Instead, they will appear on a separate page called ‘Import issues’ with a note to say why they are there.
+They appear in your list of patients alongside their vaccination eligibility information. Patients flagged as sensitive also appear in any file that you export from the service.  
 
-> [!NOTE]
-> Because patients flagged as sensitive are not shown in your list of patients, you cannot currently view or export their information. You must use a different service to view their eligibility and invite them for vaccinations. 
+Currently, there is no location-based information about any patient available through this new maternity area of RAVS.  
 
-If a patient who is already in your list of patients is then flagged as sensitive or dies, they will move to the ‘Import issues’ page when the information in the service updates overnight. 
+## Patients who have died
 
-However, if a patient has a sensitive flag removed, they will not currently move from the ‘Import issues’ page to your list of patients. 
+Patients who have died will not appear in your list of patients. Instead, those patients will appear on a separate page called ‘Import issues’.  
 
 ## If a patient has no NHS number 
 
