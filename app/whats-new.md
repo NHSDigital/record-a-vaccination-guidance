@@ -6,7 +6,7 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 22 October 2026
+## 5 November 2026
 
 ### Logging in changes
 
@@ -15,6 +15,16 @@ When you log in to RAVS, there is a new screen where we ask if you want to log i
 All users can log in with Okta. 
 
 Some pharmacy users now have an extra option to log in with their pharmacy IT system.
+
+<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+
+## 3 November 2026
+
+### Batch depletion option removed
+
+Previously users could deplete a batch in the **Vaccines** section, making it unavailable for future vaccinations. We have removed this option while we develop a better way to deactivate and reactivate batches.
+
+Any batches that were pending depletion have been reactivated. Batches that were already depleted will remain depleted. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
