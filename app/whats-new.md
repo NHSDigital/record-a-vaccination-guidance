@@ -6,100 +6,39 @@ analytics_key: whats-new
 eleventyExcludeFromCollections: true
 ---
 
-## 14 July 2026
- 
-### Pertussis vaccinations given by GPs now show in RAVS 
+## 3 November 2026
 
-The vaccination history you see in RAVS now includes pertussis vaccinations recorded in GP systems since January 2026.
+### Batch depletion option removed
 
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
+Previously users could deplete a batch in the **Vaccines** section, making it unavailable for future vaccinations. We have removed this option while we develop a better way to deactivate and reactivate batches.
 
-## 16 April 2026
- 
-### Extra column in reports for the patient's contact details
-
-We've added a new column to the reports to include the patient's contact details. The new column comes after the postcode column. 
+Any batches that were pending depletion have been reactivated. Batches that were already depleted will remain depleted. 
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 7 April 2026
- 
-### Longer timeframe for reports 
+## 19 October 2026
 
-You can now create a report for up 90 days. 
-
-### COVID-19 vaccine products 
-
-We’ve updated the list of COVID-19 vaccine products for the spring 2026 campaign.
+### Updates to recording the same vaccination for another patient  
+You can now change the vaccine product and batch when recording the same vaccination for another patient.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 26 March 2026
- 
-### Recording a vaccination starts with patient search
+## 14 October 2026
 
-We’ve changed the order of the Record vaccinations section so it now starts with searching for the patient.  
+### Eligibility question added for pertussis
 
-This means you will see the patient’s details and vaccination history before you select the vaccine or answer any other questions. 
-
-### Switching between accounts made easier
-
-If you use RAVS at more than 1 organisation, you can now switch between accounts without having to log out and log back in.  
+We've added an extra question when you record a pertussis vaccination. After you've selected the batch, you'll be asked why you are giving the vaccine. You must either select that the patient is pregnant or that they are a healthcare worker.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
-## 12 March 2026
- 
-### Updates to the Manage users section 
+## 27 August 2026
 
-In the Manage users section, invited, active and deactivated users are now listed separately.
+### Navigation changes
 
-Invited users are those who have not yet logged in to RAVS. Deactivated users are those who have either not logged in to RAVS for 90 days, or have been deactivated by a lead administrator.  
+Once you’ve logged in to RAVS, instead of seeing your data dashboard, you will now see the first page of the **Record vaccinations** section. 
 
-If you do not have any invited or deactivated users, you will just see active users.
+You can still view your data dashboard by selecting **Dashboard** in the top navigation bar.
 
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## 10 February 2026
- 
-### New contact details for support
-
-To contact us, you now need to go to our new [Help and support page](https://www.ravs.england.nhs.uk/help-and-support).
-
-This replaces the previous support email address and phone number, which are no longer in use.
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## 2 February 2026
- 
-### Changes to data shown on your home page
-
-We've updated the home page you see once you've logged in to RAVS. 
-
-- You can now see the number of vaccinations recorded by date, by vaccination type or by site (if your organisation has multiple sites).
-- Select the tabs at the top of the table to switch between views.
-- The totals are based on the date a vaccination was recorded, whereas previously they were based on the date a vaccination was given. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## 27 January 2026
- 
-### The Find a patient section has been removed
-
-To record a vaccination, use the Record vaccinations section. To edit or delete a record, go to the Records section. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-### Searching in the Records section by patient name
-
-In the Records section, you can now search for a record using a patient's details, such as name and date of birth. This is in addition to being able to search by NHS number. 
-
-<hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
-
-## 15 January 2026
-
-### Deleting a record in the Records section
-
-You can now delete a vaccination record in the Records section, as long at the record was created in RAVS by your organisation. 
+We have also moved the **What’s new** link. It now appears just above the footer on every page of the service.
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">

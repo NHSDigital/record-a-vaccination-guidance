@@ -52,16 +52,16 @@ If no match is found for the details you entered, you have the option to record 
 We then ask for the following:
 
 * date of vaccination
-* site or team (only asked if your organisation has several sites)
+* site or team – asked if your organisation has several sites
 * name of the vaccinator – you will only see the names of users who've been added to RAVS as a vaccinator by a lead administrator
 * vaccine and batch details – if a vaccine or batch is not available to select, an administrator or lead administrator will need to add it in the Vaccines section of RAVS
-* why the patient is eligible (only asked for some vaccinations)
-* location type (only asked for COVID-19)
-* patient's estimated due date (only asked for pertussis, and RSV if pregnant)
-* which dose was given (only asked for MenB)
+* why the patient is eligible – not asked for all vaccinations
+* location type – only asked for COVID-19
+* patient's estimated due date – asked for pertussis and RSV if the patient is pregnant
+* which dose was given – always asked for MenB, and asked for flu if the patient is 8 years or under
 * consent details
-* where on the body the vaccination was given (only asked for injected vaccines)
-* if a full dose was given (only asked for Fluenz nasal spray)
+* where on the body the vaccination was given – only asked for injected vaccines
+* if a full dose was given – only asked for Fluenz nasal spray
 
 You may also see a warning if there is some important information to consider. But the warning will not prevent you from continuing. 
 

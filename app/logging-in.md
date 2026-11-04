@@ -69,6 +69,14 @@ Your profile page shows the name and email address associated with your account 
 
 If you are a recorder or administrator, you will also see the names and email addresses of the lead administrators for your organisation. To change your permission level, contact a lead administrator. 
 
+## Your profile page
+
+You can access your profile page by selecting your name in the header of the service. 
+
+Your profile page shows the name and email address associated with your account and your permission level. You have the option to edit your name but you cannot change  other details. 
+
+If you are a recorder or administrator, you will also see the names and email addresses of the lead administrators for your organisation. To change your permission level, contact a lead administrator. 
+
 ## Problems logging in 
  
 ### Deactivated account 

@@ -11,6 +11,8 @@ order: 16
 
 The patient upload history page gives you a full record of every CSV file that you and your team has uploaded to RAVS.
 
+![Screen that shows a list of previous file uploads and each file's status tag](/images/maternity-images/upload-history.png)
+
 Your upload history helps you keep track of your patient lists and plan a regular upload routine. 
 
 Each CSV file has 1 of 4 status tags: 

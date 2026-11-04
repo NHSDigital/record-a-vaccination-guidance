@@ -40,11 +40,19 @@ It is your responsibility to make sure the patient data is accurate.
 
 ## Miscarriage, baby loss and termination 
 
-Do not add people who have recently had a miscarriage, experienced baby loss or had a termination. The service currently has no way of knowing and displaying this information. 
+Do not add people who have recently had a miscarriage, pregnancy loss or termination. The service currently has no way of knowing and displaying this information. 
 
-## Sensitive Flags (S-Flags) and patients who have died 
+## Patients flagged as sensitive
 
-Patients with an S-Flag or who have died will not appear in your list of patients alongside any vaccination information. Instead, those patients will be on a separate page called ‘Import issues’. You will be able to see why each patient has been put on this page.  
+You can add pregnant patients flagged as sensitive to the service.  
+
+They appear in your list of patients alongside their vaccination eligibility information. Patients flagged as sensitive also appear in any file that you export from the service.  
+
+Currently, there is no location-based information about any patient available through this new maternity area of RAVS.  
+
+## Patients who have died
+
+Patients who have died will not appear in your list of patients. Instead, those patients will appear on a separate page called ‘Import issues’.  
 
 ## If a patient has no NHS number 
 
@@ -74,7 +82,11 @@ When you upload your CSV file, we check and match the vaccination information we
 
 You may want to upload files at the end of the day, so that your list of patients is ready in the morning. 
 
+![Screen that confirms the file is uploading and the user will receive an email](/images/maternity-images/upload-in-progress.png)
+
 You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
+
+The email will only be sent to the person who uploaded the CSV file to add patients, not to everyone in your team. 
 
 ## Replacing a list of patients 
 
@@ -83,6 +95,8 @@ You can only ever have one list at any time for your Trust. This means you need 
 Follow the same process and upload a new CSV file to replace a list of pregnant patients.  
 
 Before completing a new upload, you will be asked to confirm that you want to overwrite your previous list. 
+
+![Screen that asks the user to confirm they want to replace their list of patients](/images/maternity-images/confirm-replace.png)
 
 You will not be able to view your previous list of patients while your patients are being checked and matched. 
 
