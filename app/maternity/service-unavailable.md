@@ -13,7 +13,7 @@ order: 18
 
 The Record a vaccination (RAVS) support team is available Monday to Friday, 8am to 6pm.
 
-If you have any questions about using the maternity service in RAVS, email [england.ravs@nhs.net](mailto:england.ravs@nhs.net) to contact the team.
+If you have any questions about using the maternity service in RAVS, email [england.vaccinationresearch@nhs.net](mailto:england.vaccinationresearch@nhs.net) to contact the team.
 
 
 ## Troubleshooting tips

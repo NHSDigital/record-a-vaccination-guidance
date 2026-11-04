@@ -14,8 +14,6 @@ You can filter your list of patients by:
 * eligibility status 
 * weeks pregnant 
 
-This helps you understand your patients in more detail.  
-
 ![Screen that shows two filters being applied to a list of patients](/images/maternity-images/filter-patients.png)
 
 For example, you can use the filters to see a list of patients who are 28 weeks pregnant and eligible for an RSV vaccination.    
