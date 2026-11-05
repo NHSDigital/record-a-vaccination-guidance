@@ -7,9 +7,9 @@ eleventyExcludeFromCollections: true
 ---
 How to onboard and offboard organisations, and how to give organisations access to additional vaccine types.
 
-## The vaccinations that can be recorded in RAVS
+## The vaccinations that can be recorded
 
-Organisations can record all or some of these vaccinations depending on their setting. 
+Depending on the delivery setting, organisations can use Record a vaccination (RAVS) to record all or some of these vaccinations. 
 
 - COVID-19
 - Flu
