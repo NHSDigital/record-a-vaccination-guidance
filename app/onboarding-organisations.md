@@ -7,6 +7,18 @@ eleventyExcludeFromCollections: true
 ---
 How to onboard and offboard organisations, and how to give organisations access to additional vaccine types.
 
+## The vaccinations that can be recorded in RAVS
+
+Organisations can record all or some of these vaccinations depending on their setting. 
+
+- COVID-19
+- Flu
+- MenB
+- MMR
+- Pertussis
+- Pneumococcal
+- RSV
+
 ## Onboarding an organisation
 
 Follow these steps if you are a regional lead responsible for inviting organisations to use the Record a vaccination service (RAVS).
