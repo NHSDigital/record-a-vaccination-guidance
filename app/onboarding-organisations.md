@@ -5,7 +5,23 @@ title: Guidance for regional leads
 analytics_key: how-to-onboard-organisations
 eleventyExcludeFromCollections: true
 ---
-How to onboard and offboard organisations, and how to give organisations access to additional vaccine types.
+This guide covers how to:
+
+- onboard an organisation to the Record a vaccination service (RAVS)
+- give an organisation that is already using RAVS access to more types of vaccination
+- deactivate and close an organisation that has stopped using RAVS
+
+## The vaccinations that can be recorded
+
+Depending on the delivery setting, organisations can use Record a vaccination (RAVS) to record all or some of these vaccinations. 
+
+- COVID-19
+- Flu
+- MenB
+- MMR
+- Pertussis
+- Pneumococcal
+- RSV
 
 ## Onboarding an organisation
 
@@ -13,11 +29,7 @@ Follow these steps if you are a regional lead responsible for inviting organisat
 
 1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account.
 
-![Screen showing the user the onboarding tool home screen](/images/onboarding-organisations-home-empty.png)
-
-2. Search and select an organisation by its ODS code, name, address or postcode.
-
-This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/).
+2. Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/).
 
 3. Select the vaccinations the organisation can record.
 
@@ -25,19 +37,29 @@ This information is sourced from the [ODS (Organisation Data Service)](https://w
 
 Your nominated users will:
 
-* have 'lead administrator' permission levels and be responsible for adding other users
+* have lead administrator permission levels and be responsible for adding other users
 * receive a welcome email, with details of how to log in, access training and contact the RAVS helpdesk
 
 ### What happens next?
 
 Once a user activates their account, they can start using the service.
 
-## Closing an organisation
+## Giving organisations access to more types of vaccination
+
+To give an organisation that is already using RAVS access to another vaccine, follow these steps:
+
+1.	On the home page, select the organisation.
+2.	On the next page showing details of the organisation, select **Add vaccines**.
+3.	On the next page, select the vaccines you want to add.
+
+Once you've added a vaccine to an organisation, you cannot remove it. If you add one by mistake, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
+
+## Deactivating and closing an organisation
 
 If an organisation has stopped using RAVS for any reason, you should deactivate it. This will start the closing process.
 
-1.	On the home page, select the organisation you want to close.
-2.	On the next page showing details of the organisation, select 'Deactivate organisation' and follow the instructions on screen.
+1.	On the home page, select the organisation.
+2.	On the next page showing details of the organisation, select **Deactivate organisation** and follow the instructions on screen.
 3.	All the lead administrators at that organisation will receive an email telling them the organisation has been deactivated, and explaining how this will affect their access to RAVS.
 
 As soon as an organisation has been deactivated, users will stop being able to record vaccinations for that organisation.
@@ -51,7 +73,7 @@ After 90 days, the organisation will be closed and users will no longer have any
 You can reactivate a deactivated organisation during the 90-day period before the organisation is closed.
 
 1.	On the home page, select the organisation you want to reactivate.
-2.	On the next page showing details of the organisation, select 'Reactivate organisation' and follow the instructions on screen.
+2.	On the next page showing details of the organisation, select **Reactivate organisation** and follow the instructions on screen.
 3.	All the lead administrators at that organisation will receive an email telling them the organisation has been reactivated, and that they can now record vaccinations.
 
 ### You cannot reactivate a closed organisation
@@ -64,21 +86,9 @@ The newly onboarded organisation will not have access to records that were creat
 
 You can view all the organisations you’ve invited on the home page.
 
-The status will update from 'Invited' to 'Active' when the user logs into RAVS for the first time.
+The status will update from "Invited" to "Active" when the user logs into RAVS for the first time.
 
-You can also see if an organisation is 'Deactivated' or 'Closed'.
-
-![Screen showing the user has invited several organisations](/images/onboarding-organisations-home-invited.png)
-
-## Giving organisations access to additional vaccine types
-
-To give an organisation that is already using RAVS access to another vaccine type, follow these steps:
-
-1.	On the home page, select the organisation.
-2.	On the next page showing details of the organisation, select 'Add vaccines'.
-3.	On the next page, select the vaccines you want to add.
-
-Once you've added a vaccine type to an organisation, you cannot remove it. If you add one by mistake, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
+You can also see if an organisation is "Deactivated" or "Closed".
 
 ## Problems signing in?
 
@@ -86,7 +96,7 @@ If you cannot find your Okta activation email, check your spam or junk.
 
 If the link in the email has expired or you need help, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
-## Adding other users to the regional onboarding tool
+## Adding other users to the regional onboarding site
 
 Your Regional Vaccination Operations Centre (RVOC) can ask for another user to be added. They should [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
