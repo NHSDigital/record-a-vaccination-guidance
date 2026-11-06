@@ -96,7 +96,7 @@ If you cannot find your Okta activation email, check your spam or junk.
 
 If the link in the email has expired or you need help, [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
-## Adding other users to the regional onboarding tool
+## Adding other users to the regional onboarding site
 
 Your Regional Vaccination Operations Centre (RVOC) can ask for another user to be added. They should [contact the RAVS support team](https://www.ravs.england.nhs.uk/help-and-support).
 
