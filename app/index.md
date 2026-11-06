@@ -30,4 +30,4 @@ Depending on your setting, you can record some or all of these vaccinations in R
 - MMR
 - Pneumococcal
 
-If you want to record one of these vaccinations but it is not available to you in RAVS, [contact your Regional Vaccination Operations Centre (RVOC)](https://future.nhs.uk/system/login?nextURL=%2Fconnect%2Eti%2Fvaccsandscreening%2Fview%3FobjectId%3D1004883). 
+If you want to record more vaccinations than those currently available to you in RAVS, [contact your Regional Vaccination Operations Centre (RVOC)](https://future.nhs.uk/system/login?nextURL=%2Fconnect%2Eti%2Fvaccsandscreening%2Fview%3FobjectId%3D1004883). 
