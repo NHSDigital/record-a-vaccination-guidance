@@ -29,11 +29,7 @@ Follow these steps if you are a regional lead responsible for inviting organisat
 
 1. Log in to [www.ravs.england.nhs.uk](https://www.ravs.england.nhs.uk/) with your Okta account.
 
-![Screen showing the user the onboarding tool home screen](/images/onboarding-organisations-home-empty.png)
-
-2. Search and select an organisation by its ODS code, name, address or postcode.
-
-This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/).
+2. Search and select an organisation by its ODS code, name, address or postcode. This information is sourced from the [ODS (Organisation Data Service)](https://www.odsdatasearchandexport.nhs.uk/).
 
 3. Select the vaccinations the organisation can record.
 
@@ -93,8 +89,6 @@ You can view all the organisations you’ve invited on the home page.
 The status will update from "Invited" to "Active" when the user logs into RAVS for the first time.
 
 You can also see if an organisation is "Deactivated" or "Closed".
-
-![Screen showing the user has invited several organisations](/images/onboarding-organisations-home-invited.png)
 
 ## Problems signing in?
 
