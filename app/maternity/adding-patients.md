@@ -22,9 +22,13 @@ You must export patient information as a CSV file that includes a header row fol
 
 The header row must include just two columns in the following order: NHS number, Due date.  
 
-You must use a UK format for all due dates.  
+Due dates must be in one of these formats: 
 
-For example: 
+* DD/MM/YYYY, for example 06/11/2026 
+* YYYY-MM-DD, for example 2026-11-06 
+* YYYYMMDD, for example 20261106 
+
+Your file should look like this example: 
 
 ```
 NHS number, Due date
@@ -40,7 +44,7 @@ It is your responsibility to make sure the patient data is accurate.
 
 ## Miscarriage, baby loss and termination 
 
-Do not add people who have recently had a miscarriage, pregnancy loss or termination. The service currently has no way of knowing and displaying this information. 
+Do not add people who have recently had a miscarriage, pregnancy loss or termination. Our service currently has no way of knowing and displaying this information. 
 
 ## Patients flagged as sensitive
 
@@ -52,7 +56,9 @@ Currently, there is no location-based information about any patient available th
 
 ## Patients who have died
 
-Patients who have died will not appear in your list of patients. Instead, those patients will appear on a separate page called ‘Import issues’.  
+Patients who have died will not appear in your patient list. They will be shown on the ‘Import issues’ page instead.
+
+Patient information is updated overnight, so a recent death may not show in our service until the next day.
 
 ## If a patient has no NHS number 
 
@@ -62,13 +68,15 @@ This is because we cannot find and match a patient’s vaccination information w
 
 ## Why a file might fail to upload 
 
-In this first version of the service, your CSV file will fail to upload if: 
+Your CSV file will fail to upload if: 
 
 * there are more than two columns 
 * the ‘Due date’ column is before the ‘NHS number’ column 
 * there is a comma after the ‘Due date’ column  
-* there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings 
+* there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings
+* ‘Due date’ or ‘NHS number’ is spelled incorrectly 
 * there is a duplicate NHS number with different due dates 
+
 
 If your CSV file fails to upload, check for these common issues. You can make changes to the file or export a new file from your existing system. 
 
