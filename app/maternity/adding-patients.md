@@ -56,9 +56,9 @@ Currently, there is no location-based information about any patient available th
 
 ## Patients who have died
 
-Patients who have died will not appear in your patient list. They will be shown on the ‘Import issues’ page instead.
+Patients who've been recorded as having died will not appear in your patient list. They will be shown on the ‘Import issues’ page instead.
 
-Patient information is updated overnight, so a recent death may not show in our service until the next day.
+We check for this overnight using national records, which can take a few days to update after a death. Always check the patient's record in your own system before contacting them.
 
 ## If a patient has no NHS number 
 
