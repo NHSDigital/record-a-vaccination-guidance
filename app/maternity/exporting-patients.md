@@ -23,6 +23,7 @@ For each patient, your exported file will include:
 * Patient name 
 * NHS number
 * Date of birth 
+* Phone number (the one you uploaded) 
 * Estimated due date 
 * Weeks pregnant 
 * RSV eligibility date 
