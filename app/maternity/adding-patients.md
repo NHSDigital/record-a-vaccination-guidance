@@ -20,7 +20,7 @@ A CSV file is a plain-text format that makes it easy to transfer table-based dat
 
 You must export patient information as a CSV file that includes a header row followed by data rows.  
 
-The header row must include just two columns in the following order: NHS number, Due date.  
+The header row must include two columns: 'NHS number' and 'Due date'. You can also include an optional 'Phone number' column.
 
 Due dates must be in one of these formats: 
 
@@ -31,16 +31,22 @@ Due dates must be in one of these formats:
 Your file should look like this example: 
 
 ```
-NHS number, Due date
-1234567890, 27/04/2026
-0987654321, 11/12/2026
+NHS number, Due date, Phone number
+1234567890, 27/04/2026, 07700 900142
+0987654321, 11/12/2026, 07700 900981
 ```
 
-You do not need to include any other patient information in your exported file. If you add any other columns, the file will fail to upload.   
-
-Unless you are very comfortable working with CSV files, we recommend you do not edit the CSV file before you upload it to RAVS. 
+You do not need to include any other patient information in your exported file. If you add any other columns, we will ignore them.   
 
 It is your responsibility to make sure the patient data is accurate. 
+
+## Phone numbers 
+
+You have the option to include patient phone numbers in your CSV file. 
+
+We ask you to upload phone numbers because your records are likely to be more up to date than the information available on the Personal Demographic Service (PDS). 
+
+Phone numbers will also be included when you export a list of patients from our service.  
 
 ## Miscarriage, baby loss and termination 
 
@@ -56,7 +62,7 @@ Currently, there is no location-based information about any patient available th
 
 ## Patients who have died
 
-Patients who've been recorded as having died will not appear in your patient list. They will be shown on the ‘Import issues’ page instead.
+Patients who've been recorded as having died will not appear in your list of pregnant patients. They will be shown on the ‘Import issues’ page instead.
 
 We check for this overnight using national records, which can take a few days to update after a death. Always check the patient's record in your own system before contacting them.
 
@@ -70,10 +76,7 @@ This is because we cannot find and match a patient’s vaccination information w
 
 Your CSV file will fail to upload if: 
 
-* there are more than two columns 
-* the ‘Due date’ column is before the ‘NHS number’ column 
-* there is a comma after the ‘Due date’ column  
-* there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings
+* a due date is not in the correct format
 * ‘Due date’ or ‘NHS number’ is spelled incorrectly 
 * there is a duplicate NHS number with different due dates 
 
@@ -92,9 +95,7 @@ You may want to upload files at the end of the day, so that your list of patient
 
 ![Screen that confirms the file is uploading and the user will receive an email](/images/maternity-images/upload-in-progress.png)
 
-You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
-
-The email will only be sent to the person who uploaded the CSV file to add patients, not to everyone in your team. 
+We will email the person who uploaded the CSV file when the check is complete and your list of patients is ready to view.  
 
 ## Replacing a list of patients 
 
