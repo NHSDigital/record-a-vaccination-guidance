@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
 
 ### Warning shown if a patient has died
 
-When you search for a patient and see their details, we will now tell you if that person has died according to the information we get from the Personal Demographics Service (PDS). We will also show the date of death. 
+When display a patient's details, we will now tell you if that person has died according to the information we get from the Personal Demographics Service (PDS). We will also show the date of death. 
 
 If you vaccinated the patient before they died, you can still record their vaccination.  
 
