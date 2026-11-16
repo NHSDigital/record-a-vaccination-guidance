@@ -8,9 +8,11 @@ eleventyExcludeFromCollections: true
 
 ## 18 November 2026
 
-### Warning that a patient has died
+### Warning shown if a patient has died
 
-When you search for a patient and see their details, we will now tell you if that  person has died according to the Personal Demographics Service (PDS). We will also show the date of death. If you vaccinated the patient before they died, you can still record their vaccination.  
+When you search for a patient and see their details, we will now tell you if that person has died according to the information we get from the Personal Demographics Service (PDS). We will also show the date of death. 
+
+If you vaccinated the patient before they died, you can still record their vaccination.  
 
 <hr class="nhsuk-section-break nhsuk-section-break--m nhsuk-section-break--visible">
 
