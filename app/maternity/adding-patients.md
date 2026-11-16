@@ -20,27 +20,37 @@ A CSV file is a plain-text format that makes it easy to transfer table-based dat
 
 You must export patient information as a CSV file that includes a header row followed by data rows.  
 
-The header row must include just two columns in the following order: NHS number, Due date.  
+The header row must include two columns: 'NHS number' and 'Due date'. You can also include an optional 'Phone number' column.
 
-You must use a UK format for all due dates.  
+Due dates must be in one of these formats: 
 
-For example: 
+* DD/MM/YYYY, for example 06/11/2026 
+* YYYY-MM-DD, for example 2026-11-06 
+* YYYYMMDD, for example 20261106 
+
+Your file should look like this example: 
 
 ```
-NHS number, Due date
-1234567890, 27/04/2026
-0987654321, 11/12/2026
+NHS number, Due date, Phone number
+1234567890, 27/04/2026, 07700 900142
+0987654321, 11/12/2026, 07700 900981
 ```
 
-You do not need to include any other patient information in your exported file. If you add any other columns, the file will fail to upload.   
-
-Unless you are very comfortable working with CSV files, we recommend you do not edit the CSV file before you upload it to RAVS. 
+You do not need to include any other patient information in your exported file. If you add any other columns, we will ignore them.   
 
 It is your responsibility to make sure the patient data is accurate. 
 
+## Phone numbers 
+
+You have the option to include patient phone numbers in your CSV file. 
+
+We ask you to upload phone numbers because your records are likely to be more up to date than the information available on the Personal Demographic Service (PDS). 
+
+Phone numbers will also be included when you export a list of patients from our service.  
+
 ## Miscarriage, baby loss and termination 
 
-Do not add people who have recently had a miscarriage, pregnancy loss or termination. The service currently has no way of knowing and displaying this information. 
+Do not add people who have recently had a miscarriage, pregnancy loss or termination. Our service currently has no way of knowing and displaying this information. 
 
 ## Patients flagged as sensitive
 
@@ -52,7 +62,9 @@ Currently, there is no location-based information about any patient available th
 
 ## Patients who have died
 
-Patients who have died will not appear in your list of patients. Instead, those patients will appear on a separate page called ‘Import issues’.  
+Patients who've been recorded as having died will not appear in your list of pregnant patients. They will be shown on the ‘Import issues’ page instead.
+
+We check for this overnight using national records, which can take a few days to update after a death. Always check the patient's record in your own system before contacting them.
 
 ## If a patient has no NHS number 
 
@@ -62,13 +74,12 @@ This is because we cannot find and match a patient’s vaccination information w
 
 ## Why a file might fail to upload 
 
-In this first version of the service, your CSV file will fail to upload if: 
+Your CSV file will fail to upload if: 
 
-* there are more than two columns 
-* the ‘Due date’ column is before the ‘NHS number’ column 
-* there is a comma after the ‘Due date’ column  
-* there is more than one comma between the ‘NHS number’ and ‘Due date’ column headings 
+* a due date is not in the correct format
+* ‘Due date’ or ‘NHS number’ is spelled incorrectly 
 * there is a duplicate NHS number with different due dates 
+
 
 If your CSV file fails to upload, check for these common issues. You can make changes to the file or export a new file from your existing system. 
 
@@ -84,9 +95,7 @@ You may want to upload files at the end of the day, so that your list of patient
 
 ![Screen that confirms the file is uploading and the user will receive an email](/images/maternity-images/upload-in-progress.png)
 
-You will receive an email when the check is complete. The email will tell you that your list of patients has been imported and is ready to view.   
-
-The email will only be sent to the person who uploaded the CSV file to add patients, not to everyone in your team. 
+We will email the person who uploaded the CSV file when the check is complete and your list of patients is ready to view.  
 
 ## Replacing a list of patients 
 

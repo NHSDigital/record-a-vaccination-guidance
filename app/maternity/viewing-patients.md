@@ -9,7 +9,7 @@ order: 13
 
 {% include 'maternity-guide-contents.njk' %}
 
-Your list of patients allows you to see personal details for each patient alongside their eligibility status for RSV and pertussis. 
+Your list of patients allows you to see personal details for each patient alongside their eligibility status for RSV, pertussis and flu. 
 
 ![Screen that shows a list of patients alongside their vaccination information](/images/maternity-images/patient-list.png)
 
