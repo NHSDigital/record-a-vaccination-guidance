@@ -17,7 +17,7 @@ Active means at last 1 user has logged in to RAVS at that pharmacy. Invited mean
 
 ### Viewing an individual pharmacy
 
-Select **Manage** next to a pharmacy to see existing users at that pharmacy.
+Select **Manage** next to one of the listed pharmacies to go to a page showing details of that specific pharmacy, including users. 
 
 Users are shown as:
 
@@ -36,6 +36,16 @@ This table shows the permission levels a user can have at an individual pharmacy
 | **Recorder**               | Yes                              | No                  | No                 | No               |
 | **Administrator**          | Yes                              | Yes                 | Yes                | No               |
 | **Lead administrator**     | Yes                              | Yes                 | Yes                | Yes.             |
+
+### Accessing an individual pharmacy in the role of a lead administrator
+
+On the individual pharmacy page, you will also have the option to **Access this pharmacy**. 
+
+This will take you to that pharmacy in RAVS, with the same view and permissions as lead administrator who is not a vaccinator. 
+
+Accessing the pharmacy will allow you, for example, to manage users at that pharmacy.   
+
+You can return to the **Pharmacies** section by selecting **Back to Pharmacies** in the header.   
 
 ## Users section
 
