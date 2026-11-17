@@ -43,7 +43,7 @@ From the page showing a pharmacy's details, you also have the option to access t
 
 Selecting **Access this pharmacy** allows you to view and manage the individual pharmacy in RAVS with the same permissions as a lead administrator who is not a vaccinator.
 
-You can return to the **Pharmacies** section by selecting **Back to Pharmacies** in the header.   
+You can return to the Pharmacies section by selecting **Back to Pharmacies** in the header.   
 
 ## Users section
 
