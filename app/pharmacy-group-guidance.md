@@ -39,9 +39,9 @@ This table shows the permission levels a user can have at an individual pharmacy
 
 ### Accessing an individual pharmacy in the role of a lead administrator
 
-On the individual pharmacy page, you will also have the option to **Access this pharmacy**. 
+From the individual pharmacy page, you also have the option to access that pharmacy. 
 
-This will take you to that pharmacy in RAVS, with the same view and permissions as lead administrator who is not a vaccinator. 
+Selecting **Access this pharmacy** will take you to that pharmacy in RAVS, with the same view and permissions as lead administrator who is not a vaccinator.
 
 Accessing the pharmacy will allow you, for example, to manage users at that pharmacy.   
 
