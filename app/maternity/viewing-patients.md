@@ -35,6 +35,9 @@ As time passes, the number of ‘weeks pregnant’ will also update automaticall
 
 Patients are not automatically added to or removed from your list. To change who is on your list, you will need to upload a new CSV file.  
 
+## Flu vaccinations
+
+All pregnant patients are eligible for the 2026/27 flu vaccine from 1 September 2026. We can only show flu vaccinations given through the NHS, so check whether a patient has had one privately or abroad before you offer them the vaccine.
 
 ## Import issues 
 
